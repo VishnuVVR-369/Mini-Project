@@ -1,0 +1,4150 @@
+HDFC      Trade summary
+Date:     Tue Jun 01, 2010 -> Tue Jun 22, 2010 [15 days]
+Price:    ₹134.64 -> ₹136.64 [1.5%]
+Value:    ₹19999.8 -> ₹20297.29 [₹297.49]
+
+HEROMOTOCO     Trade summary
+Date:     Mon Jun 07, 2010 -> Thu Jun 24, 2010 [13 days]
+Price:    ₹26.09 -> ₹25.7 [-1.5%]
+Value:    ₹19997.72 -> ₹19696.49 [₹-301.23]
+
+BAJFINANCE     Trade summary
+Date:     Mon Jun 07, 2010 -> Tue Jun 29, 2010 [16 days]
+Price:    ₹93.22 -> ₹92.86 [-0.4%]
+Value:    ₹19999.22 -> ₹19922.71 [₹-76.5]
+
+BAJAJFINSV     Trade summary
+Date:     Mon Jun 07, 2010 -> Tue Jun 29, 2010 [16 days]
+Price:    ₹98.68 -> ₹97.58 [-1.1%]
+Value:    ₹19998.72 -> ₹19775.93 [₹-222.79]
+
+HINDUNILVR     Trade summary
+Date:     Tue Jun 29, 2010 -> Wed Jun 30, 2010 [1 days]
+Price:    ₹94.91 -> ₹92.29 [-2.8%]
+Value:    ₹19765.04 -> ₹19219.94 [₹-545.1]
+
+COALINDIA     Trade summary
+Date:     Thu Jun 24, 2010 -> Wed Jul 21, 2010 [18 days]
+Price:    ₹167.74 -> ₹189.66 [13.1%]
+Value:    ₹19685.64 -> ₹22257.62 [₹2571.98]
+
+WIPRO     Trade summary
+Date:     Wed Jun 30, 2010 -> Fri Jul 23, 2010 [16 days]
+Price:    ₹66.29 -> ₹71.59 [8.0%]
+Value:    ₹19209.33 -> ₹20744.17 [₹1534.84]
+
+SHREECEM     Trade summary
+Date:     Tue Jun 29, 2010 -> Thu Aug 12, 2010 [31 days]
+Price:    ₹179.59 -> ₹184.46 [2.7%]
+Value:    ₹19911.75 -> ₹20451.73 [₹539.98]
+
+TITAN     Trade summary
+Date:     Tue Jun 22, 2010 -> Fri Aug 13, 2010 [37 days]
+Price:    ₹59.38 -> ₹58.34 [-1.8%]
+Value:    ₹20286.15 -> ₹19930.96 [₹-355.19]
+
+BPCL      Trade summary
+Date:     Fri Aug 13, 2010 -> Tue Aug 24, 2010 [7 days]
+Price:    ₹90.21 -> ₹87.5 [-3.0%]
+Value:    ₹19919.99 -> ₹19322.63 [₹-597.36]
+
+BHARTIARTL     Trade summary
+Date:     Thu Jul 22, 2010 -> Wed Sep 01, 2010 [29 days]
+Price:    ₹156.79 -> ₹169.61 [8.2%]
+Value:    ₹22245.49 -> ₹24064.66 [₹1819.16]
+
+ZEEL      Trade summary
+Date:     Fri Jun 04, 2010 -> Fri Sep 03, 2010 [64 days]
+Price:    ₹233.96 -> ₹279.5 [19.5%]
+Value:    ₹19999.55 -> ₹23892.75 [₹3893.2]
+
+ADANIPORTS     Trade summary
+Date:     Thu Aug 12, 2010 -> Tue Sep 07, 2010 [17 days]
+Price:    ₹221.07 -> ₹260.52 [17.8%]
+Value:    ₹20440.51 -> ₹24088.07 [₹3647.56]
+
+NESTLEIND     Trade summary
+Date:     Tue Sep 14, 2010 -> Mon Sep 20, 2010 [4 days]
+Price:    ₹214.9 -> ₹228.11 [6.1%]
+Value:    ₹24002.82 -> ₹25478.59 [₹1475.77]
+
+TECHM     Trade summary
+Date:     Tue Aug 24, 2010 -> Fri Sep 24, 2010 [22 days]
+Price:    ₹90.53 -> ₹110.31 [21.9%]
+Value:    ₹19311.97 -> ₹23532.7 [₹4220.73]
+
+BRITANNIA     Trade summary
+Date:     Fri Jul 30, 2010 -> Tue Oct 05, 2010 [46 days]
+Price:    ₹212.85 -> ₹215.26 [1.1%]
+Value:    ₹20732.8 -> ₹20967.91 [₹235.11]
+
+BAJAJFINSV     Trade summary
+Date:     Thu Sep 23, 2010 -> Fri Oct 22, 2010 [21 days]
+Price:    ₹77.73 -> ₹80.85 [4.0%]
+Value:    ₹24490.16 -> ₹25473.55 [₹983.39]
+
+CIPLA     Trade summary
+Date:     Fri Oct 15, 2010 -> Fri Oct 22, 2010 [5 days]
+Price:    ₹74.45 -> ₹82.09 [10.3%]
+Value:    ₹23096.14 -> ₹25467.21 [₹2371.06]
+
+HEROMOTOCO     Trade summary
+Date:     Fri Oct 22, 2010 -> Mon Oct 25, 2010 [1 days]
+Price:    ₹27.56 -> ₹27.71 [0.5%]
+Value:    ₹25453.47 -> ₹25588.5 [₹135.03]
+
+KOTAKBANK     Trade summary
+Date:     Mon Oct 04, 2010 -> Fri Oct 29, 2010 [19 days]
+Price:    ₹50.68 -> ₹54.42 [7.4%]
+Value:    ₹24166.75 -> ₹25952.57 [₹1785.81]
+
+VEDL      Trade summary
+Date:     Fri Oct 29, 2010 -> Mon Nov 01, 2010 [1 days]
+Price:    ₹102.12 -> ₹100.77 [-1.3%]
+Value:    ₹25938.59 -> ₹25595.43 [₹-343.16]
+
+SHREECEM     Trade summary
+Date:     Wed Oct 06, 2010 -> Tue Nov 09, 2010 [24 days]
+Price:    ₹184.93 -> ₹164.5 [-11.0%]
+Value:    ₹23096.64 -> ₹20544.79 [₹-2551.85]
+
+EICHERMOT     Trade summary
+Date:     Mon Oct 25, 2010 -> Tue Nov 09, 2010 [11 days]
+Price:    ₹92.55 -> ₹89.62 [-3.2%]
+Value:    ₹25574.71 -> ₹24766.05 [₹-808.66]
+
+TITAN     Trade summary
+Date:     Tue Oct 19, 2010 -> Fri Nov 12, 2010 [18 days]
+Price:    ₹61.17 -> ₹60.29 [-1.4%]
+Value:    ₹23095.14 -> ₹22762.68 [₹-332.46]
+
+SBIN      Trade summary
+Date:     Fri Nov 12, 2010 -> Mon Nov 15, 2010 [1 days]
+Price:    ₹102.42 -> ₹103.23 [0.8%]
+Value:    ₹22750.3 -> ₹22929.96 [₹179.66]
+
+ONGC      Trade summary
+Date:     Tue Nov 09, 2010 -> Tue Nov 16, 2010 [5 days]
+Price:    ₹156.42 -> ₹153.13 [-2.1%]
+Value:    ₹20533.52 -> ₹20101.87 [₹-431.65]
+
+SBIN      Trade summary
+Date:     Tue Nov 16, 2010 -> Wed Nov 17, 2010 [1 days]
+Price:    ₹101.9 -> ₹101.57 [-0.3%]
+Value:    ₹20090.82 -> ₹20025.57 [₹-65.25]
+
+POWERGRID     Trade summary
+Date:     Mon Nov 15, 2010 -> Wed Dec 01, 2010 [11 days]
+Price:    ₹78.49 -> ₹85.13 [8.5%]
+Value:    ₹22917.49 -> ₹24856.48 [₹1938.99]
+
+MARUTI     Trade summary
+Date:     Mon Nov 01, 2010 -> Thu Dec 02, 2010 [22 days]
+Price:    ₹128.95 -> ₹140.86 [9.2%]
+Value:    ₹25581.63 -> ₹27943.42 [₹2361.79]
+
+HINDUNILVR     Trade summary
+Date:     Tue Nov 09, 2010 -> Fri Dec 03, 2010 [17 days]
+Price:    ₹118.21 -> ₹125.84 [6.5%]
+Value:    ₹24752.67 -> ₹26350.57 [₹1597.9]
+
+HDFC      Trade summary
+Date:     Fri Oct 22, 2010 -> Tue Dec 14, 2010 [36 days]
+Price:    ₹166.56 -> ₹175.19 [5.2%]
+Value:    ₹25459.81 -> ₹26778.45 [₹1318.63]
+
+ADANIPORTS     Trade summary
+Date:     Wed Nov 17, 2010 -> Mon Jan 03, 2011 [31 days]
+Price:    ₹274.98 -> ₹322.35 [17.2%]
+Value:    ₹20014.56 -> ₹23462.63 [₹3448.07]
+
+ONGC      Trade summary
+Date:     Tue Dec 14, 2010 -> Mon Jan 03, 2011 [13 days]
+Price:    ₹150.79 -> ₹160.2 [6.2%]
+Value:    ₹26500.83 -> ₹28155.47 [₹1654.64]
+
+TCS       Trade summary
+Date:     Thu Dec 09, 2010 -> Tue Jan 04, 2011 [17 days]
+Price:    ₹77.64 -> ₹80.15 [3.2%]
+Value:    ₹26369.97 -> ₹27222.89 [₹852.93]
+
+TATAMOTORS     Trade summary
+Date:     Tue Dec 14, 2010 -> Wed Jan 05, 2011 [15 days]
+Price:    ₹317.43 -> ₹339.86 [7.1%]
+Value:    ₹26501.33 -> ₹28374.07 [₹1872.74]
+
+SHREECEM     Trade summary
+Date:     Fri Dec 17, 2010 -> Tue Jan 11, 2011 [16 days]
+Price:    ₹151.87 -> ₹163.45 [7.6%]
+Value:    ₹26499.83 -> ₹28521.2 [₹2021.37]
+
+BAJAJFINSV     Trade summary
+Date:     Wed Jan 05, 2011 -> Thu Jan 13, 2011 [6 days]
+Price:    ₹90.26 -> ₹89.04 [-1.3%]
+Value:    ₹26790.11 -> ₹26429.44 [₹-360.68]
+
+TATASTEEL     Trade summary
+Date:     Tue Jan 11, 2011 -> Thu Jan 13, 2011 [2 days]
+Price:    ₹201.46 -> ₹202.0 [0.3%]
+Value:    ₹28505.94 -> ₹28582.25 [₹76.31]
+
+WIPRO     Trade summary
+Date:     Thu Jan 06, 2011 -> Thu Jan 20, 2011 [9 days]
+Price:    ₹88.5 -> ₹80.97 [-8.5%]
+Value:    ₹26789.78 -> ₹24509.21 [₹-2280.57]
+
+GAIL      Trade summary
+Date:     Thu Jan 06, 2011 -> Thu Jan 20, 2011 [9 days]
+Price:    ₹170.58 -> ₹174.74 [2.4%]
+Value:    ₹26789.28 -> ₹27443.37 [₹654.09]
+
+BHARTIARTL     Trade summary
+Date:     Thu Jan 20, 2011 -> Fri Jan 21, 2011 [1 days]
+Price:    ₹194.6 -> ₹196.27 [0.9%]
+Value:    ₹27428.64 -> ₹27664.42 [₹235.78]
+
+BPCL      Trade summary
+Date:     Thu Jan 20, 2011 -> Fri Jan 28, 2011 [6 days]
+Price:    ₹115.92 -> ₹115.46 [-0.4%]
+Value:    ₹24495.95 -> ₹24399.18 [₹-96.77]
+
+BAJAJAUTO     Trade summary
+Date:     Thu Jan 13, 2011 -> Tue Feb 01, 2011 [12 days]
+Price:    ₹79.9 -> ₹82.56 [3.3%]
+Value:    ₹28566.96 -> ₹29518.02 [₹951.07]
+
+TECHM     Trade summary
+Date:     Fri Jan 21, 2011 -> Wed Feb 02, 2011 [8 days]
+Price:    ₹129.53 -> ₹135.69 [4.8%]
+Value:    ₹27649.59 -> ₹28963.45 [₹1313.86]
+
+IOC       Trade summary
+Date:     Fri Jan 07, 2011 -> Mon Feb 07, 2011 [20 days]
+Price:    ₹111.56 -> ₹119.86 [7.4%]
+Value:    ₹26788.28 -> ₹28782.41 [₹1994.13]
+
+NTPC      Trade summary
+Date:     Thu Jan 13, 2011 -> Fri Feb 11, 2011 [20 days]
+Price:    ₹99.28 -> ₹109.83 [10.6%]
+Value:    ₹26415.22 -> ₹29222.35 [₹2807.13]
+
+EICHERMOT     Trade summary
+Date:     Wed Feb 16, 2011 -> Tue Feb 22, 2011 [3 days]
+Price:    ₹94.68 -> ₹93.82 [-0.9%]
+Value:    ₹29206.74 -> ₹28942.27 [₹-264.47]
+
+HCLTECH     Trade summary
+Date:     Tue Feb 08, 2011 -> Tue Feb 22, 2011 [9 days]
+Price:    ₹115.87 -> ₹115.18 [-0.6%]
+Value:    ₹28767.02 -> ₹28596.23 [₹-170.79]
+
+BPCL      Trade summary
+Date:     Tue Feb 01, 2011 -> Thu Feb 24, 2011 [16 days]
+Price:    ₹108.51 -> ₹102.6 [-5.5%]
+Value:    ₹29502.26 -> ₹27894.33 [₹-1607.93]
+
+ULTRACEMO     Trade summary
+Date:     Tue Feb 22, 2011 -> Thu Feb 24, 2011 [2 days]
+Price:    ₹135.42 -> ₹132.78 [-1.9%]
+Value:    ₹28580.93 -> ₹28024.23 [₹-556.7]
+
+BHARTIARTL     Trade summary
+Date:     Thu Feb 24, 2011 -> Fri Feb 25, 2011 [1 days]
+Price:    ₹192.33 -> ₹192.77 [0.2%]
+Value:    ₹28009.22 -> ₹28073.86 [₹64.64]
+
+ZEEL      Trade summary
+Date:     Thu Feb 24, 2011 -> Mon Feb 28, 2011 [2 days]
+Price:    ₹307.79 -> ₹323.31 [5.0%]
+Value:    ₹27879.39 -> ₹29284.81 [₹1405.43]
+
+HEROMOTOCO     Trade summary
+Date:     Fri Feb 25, 2011 -> Thu Mar 10, 2011 [9 days]
+Price:    ₹32.2 -> ₹31.3 [-2.8%]
+Value:    ₹28058.83 -> ₹27277.88 [₹-780.94]
+
+HDFCBANK     Trade summary
+Date:     Thu Feb 03, 2011 -> Mon Mar 14, 2011 [26 days]
+Price:    ₹220.26 -> ₹226.23 [2.7%]
+Value:    ₹28947.97 -> ₹29732.57 [₹784.61]
+
+BAJFINANCE     Trade summary
+Date:     Mon Mar 14, 2011 -> Tue Mar 15, 2011 [1 days]
+Price:    ₹115.7 -> ₹110.5 [-4.5%]
+Value:    ₹29716.7 -> ₹28381.66 [₹-1335.05]
+
+ASIANPAINT     Trade summary
+Date:     Fri Jan 28, 2011 -> Wed Mar 16, 2011 [32 days]
+Price:    ₹71.27 -> ₹64.72 [-9.2%]
+Value:    ₹24385.98 -> ₹22146.18 [₹-2239.81]
+
+BHARTIARTL     Trade summary
+Date:     Tue Mar 01, 2011 -> Wed Mar 16, 2011 [11 days]
+Price:    ₹190.32 -> ₹190.48 [0.1%]
+Value:    ₹29269.17 -> ₹29294.53 [₹25.36]
+
+GRASIM     Trade summary
+Date:     Tue Mar 15, 2011 -> Wed Mar 16, 2011 [1 days]
+Price:    ₹31.24 -> ₹30.29 [-3.0%]
+Value:    ₹28366.47 -> ₹27507.72 [₹-858.75]
+
+CIPLA     Trade summary
+Date:     Tue Feb 22, 2011 -> Wed Mar 16, 2011 [16 days]
+Price:    ₹98.55 -> ₹97.96 [-0.6%]
+Value:    ₹28926.8 -> ₹28753.84 [₹-172.96]
+
+TECHM     Trade summary
+Date:     Thu Mar 10, 2011 -> Mon Mar 21, 2011 [7 days]
+Price:    ₹135.49 -> ₹147.22 [8.7%]
+Value:    ₹27263.25 -> ₹29624.05 [₹2360.81]
+
+MARUTI     Trade summary
+Date:     Wed Mar 16, 2011 -> Thu Mar 24, 2011 [6 days]
+Price:    ₹169.1 -> ₹186.34 [10.2%]
+Value:    ₹29278.88 -> ₹32263.05 [₹2984.17]
+
+ASIANPAINT     Trade summary
+Date:     Fri Apr 08, 2011 -> Wed Apr 13, 2011 [3 days]
+Price:    ₹61.31 -> ₹62.4 [1.8%]
+Value:    ₹32245.92 -> ₹32818.86 [₹572.94]
+
+POWERGRID     Trade summary
+Date:     Mon Mar 21, 2011 -> Mon Apr 18, 2011 [20 days]
+Price:    ₹80.63 -> ₹84.99 [5.4%]
+Value:    ₹29608.24 -> ₹31209.17 [₹1600.93]
+
+CIPLA     Trade summary
+Date:     Wed Apr 13, 2011 -> Mon Apr 18, 2011 [3 days]
+Price:    ₹97.16 -> ₹93.84 [-3.4%]
+Value:    ₹32801.45 -> ₹31681.08 [₹-1120.37]
+
+RELIANCE     Trade summary
+Date:     Wed Mar 16, 2011 -> Mon Apr 18, 2011 [23 days]
+Price:    ₹143.44 -> ₹144.89 [1.0%]
+Value:    ₹28738.46 -> ₹29028.63 [₹290.17]
+
+SUNPHARMA     Trade summary
+Date:     Wed Mar 16, 2011 -> Wed Apr 20, 2011 [25 days]
+Price:    ₹106.51 -> ₹111.59 [4.8%]
+Value:    ₹27492.96 -> ₹28803.37 [₹1310.4]
+
+VEDL      Trade summary
+Date:     Mon Apr 18, 2011 -> Wed Apr 20, 2011 [2 days]
+Price:    ₹114.04 -> ₹116.46 [2.1%]
+Value:    ₹31664.24 -> ₹32337.03 [₹672.79]
+
+IOC       Trade summary
+Date:     Mon Apr 18, 2011 -> Thu Apr 21, 2011 [3 days]
+Price:    ₹129.85 -> ₹138.27 [6.5%]
+Value:    ₹29013.12 -> ₹30893.28 [₹1880.16]
+
+TECHM     Trade summary
+Date:     Mon Apr 18, 2011 -> Tue Apr 26, 2011 [5 days]
+Price:    ₹143.72 -> ₹155.58 [8.3%]
+Value:    ₹31192.56 -> ₹33766.19 [₹2573.63]
+
+CIPLA     Trade summary
+Date:     Thu Apr 21, 2011 -> Tue May 03, 2011 [7 days]
+Price:    ₹91.1 -> ₹92.88 [2.0%]
+Value:    ₹30876.83 -> ₹31481.68 [₹604.85]
+
+TITAN     Trade summary
+Date:     Mon May 02, 2011 -> Fri May 13, 2011 [9 days]
+Price:    ₹59.81 -> ₹58.36 [-2.4%]
+Value:    ₹33748.31 -> ₹32930.2 [₹-818.11]
+
+ULTRACEMO     Trade summary
+Date:     Fri May 13, 2011 -> Mon May 16, 2011 [1 days]
+Price:    ₹134.16 -> ₹132.8 [-1.0%]
+Value:    ₹32912.73 -> ₹32579.81 [₹-332.92]
+
+BRITANNIA     Trade summary
+Date:     Wed Mar 16, 2011 -> Mon May 16, 2011 [42 days]
+Price:    ₹310.61 -> ₹280.37 [-9.7%]
+Value:    ₹22134.1 -> ₹19979.5 [₹-2154.6]
+
+COALINDIA     Trade summary
+Date:     Wed Apr 20, 2011 -> Wed May 18, 2011 [19 days]
+Price:    ₹511.26 -> ₹450.42 [-11.9%]
+Value:    ₹28787.96 -> ₹25362.42 [₹-3425.55]
+
+UPL       Trade summary
+Date:     Wed Apr 20, 2011 -> Wed May 25, 2011 [24 days]
+Price:    ₹161.79 -> ₹157.86 [-2.4%]
+Value:    ₹32319.86 -> ₹31534.62 [₹-785.24]
+
+INDUSINDBK     Trade summary
+Date:     Mon May 16, 2011 -> Fri Jun 03, 2011 [13 days]
+Price:    ₹279.45 -> ₹288.49 [3.2%]
+Value:    ₹19968.51 -> ₹20614.51 [₹645.99]
+
+MARUTI     Trade summary
+Date:     Tue May 03, 2011 -> Mon Jun 06, 2011 [23 days]
+Price:    ₹176.4 -> ₹172.02 [-2.5%]
+Value:    ₹31464.94 -> ₹30683.99 [₹-780.95]
+
+GAIL      Trade summary
+Date:     Fri Jun 03, 2011 -> Fri Jun 10, 2011 [5 days]
+Price:    ₹186.29 -> ₹184.54 [-0.9%]
+Value:    ₹20603.2 -> ₹20409.31 [₹-193.89]
+
+TATAMOTORS     Trade summary
+Date:     Mon May 16, 2011 -> Wed Jun 15, 2011 [21 days]
+Price:    ₹403.56 -> ₹378.82 [-6.1%]
+Value:    ₹32562.52 -> ₹30566.16 [₹-1996.35]
+
+NESTLEIND     Trade summary
+Date:     Wed May 18, 2011 -> Thu Jun 16, 2011 [20 days]
+Price:    ₹271.6 -> ₹276.87 [1.9%]
+Value:    ₹25348.74 -> ₹25841.0 [₹492.26]
+
+ITC       Trade summary
+Date:     Wed May 25, 2011 -> Mon Jun 20, 2011 [17 days]
+Price:    ₹157.71 -> ₹164.82 [4.5%]
+Value:    ₹31517.85 -> ₹32939.01 [₹1421.16]
+
+HDFC      Trade summary
+Date:     Fri Jun 24, 2011 -> Tue Jun 28, 2011 [2 days]
+Price:    ₹184.69 -> ₹186.67 [1.1%]
+Value:    ₹32921.54 -> ₹33274.07 [₹352.53]
+
+SBIN      Trade summary
+Date:     Mon Jun 06, 2011 -> Fri Jul 01, 2011 [19 days]
+Price:    ₹114.47 -> ₹118.43 [3.5%]
+Value:    ₹30667.65 -> ₹31729.35 [₹1061.7]
+
+TATAMOTORS     Trade summary
+Date:     Thu Jun 16, 2011 -> Tue Jul 05, 2011 [12 days]
+Price:    ₹370.63 -> ₹422.8 [14.1%]
+Value:    ₹25827.08 -> ₹29462.88 [₹3635.81]
+
+ONGC      Trade summary
+Date:     Fri Jun 10, 2011 -> Wed Jul 06, 2011 [17 days]
+Price:    ₹169.84 -> ₹184.79 [8.8%]
+Value:    ₹20398.11 -> ₹22192.99 [₹1794.89]
+
+TCS       Trade summary
+Date:     Mon Jul 11, 2011 -> Mon Jul 18, 2011 [5 days]
+Price:    ₹76.37 -> ₹72.41 [-5.2%]
+Value:    ₹27780.34 -> ₹26340.49 [₹-1439.86]
+
+BAJAJFINSV     Trade summary
+Date:     Mon Jul 11, 2011 -> Mon Jul 18, 2011 [5 days]
+Price:    ₹79.82 -> ₹75.75 [-5.1%]
+Value:    ₹27780.84 -> ₹26364.34 [₹-1416.5]
+
+GRASIM     Trade summary
+Date:     Thu Jul 14, 2011 -> Mon Jul 18, 2011 [2 days]
+Price:    ₹26.36 -> ₹26.17 [-0.7%]
+Value:    ₹27779.34 -> ₹27575.79 [₹-203.55]
+
+WIPRO     Trade summary
+Date:     Mon Jul 18, 2011 -> Thu Jul 21, 2011 [3 days]
+Price:    ₹72.52 -> ₹73.4 [1.2%]
+Value:    ₹27561.0 -> ₹27896.89 [₹335.89]
+
+BHARTIARTL     Trade summary
+Date:     Thu Jul 21, 2011 -> Wed Jul 27, 2011 [4 days]
+Price:    ₹192.45 -> ₹182.86 [-5.0%]
+Value:    ₹27881.94 -> ₹26493.08 [₹-1388.86]
+
+LT        Trade summary
+Date:     Tue Jun 28, 2011 -> Wed Jul 27, 2011 [20 days]
+Price:    ₹54.91 -> ₹50.67 [-7.7%]
+Value:    ₹33256.43 -> ₹30689.89 [₹-2566.54]
+
+SHREECEM     Trade summary
+Date:     Wed Jun 15, 2011 -> Wed Jul 27, 2011 [29 days]
+Price:    ₹182.75 -> ₹180.16 [-1.4%]
+Value:    ₹30549.88 -> ₹30116.7 [₹-433.18]
+
+SBIN      Trade summary
+Date:     Mon Jul 18, 2011 -> Thu Jul 28, 2011 [8 days]
+Price:    ₹113.75 -> ₹112.32 [-1.3%]
+Value:    ₹26326.32 -> ₹25996.08 [₹-330.24]
+
+MM        Trade summary
+Date:     Thu Jul 28, 2011 -> Tue Aug 02, 2011 [3 days]
+Price:    ₹215.14 -> ₹208.2 [-3.2%]
+Value:    ₹25982.08 -> ₹25144.24 [₹-837.84]
+
+TATASTEEL     Trade summary
+Date:     Mon Jul 18, 2011 -> Tue Aug 02, 2011 [11 days]
+Price:    ₹213.59 -> ₹205.82 [-3.6%]
+Value:    ₹26350.16 -> ₹25391.98 [₹-958.18]
+
+HCLTECH     Trade summary
+Date:     Wed Jul 27, 2011 -> Thu Aug 04, 2011 [6 days]
+Price:    ₹118.83 -> ₹109.68 [-7.7%]
+Value:    ₹30100.64 -> ₹27783.01 [₹-2317.63]
+
+HINDUNILVR     Trade summary
+Date:     Tue Aug 02, 2011 -> Thu Aug 04, 2011 [2 days]
+Price:    ₹188.9 -> ₹174.8 [-7.5%]
+Value:    ₹25130.67 -> ₹23254.31 [₹-1876.36]
+
+ONGC      Trade summary
+Date:     Tue Aug 02, 2011 -> Thu Aug 04, 2011 [2 days]
+Price:    ₹176.49 -> ₹170.86 [-3.2%]
+Value:    ₹25378.28 -> ₹24568.97 [₹-809.31]
+
+ZEEL      Trade summary
+Date:     Thu Aug 04, 2011 -> Mon Aug 08, 2011 [2 days]
+Price:    ₹344.44 -> ₹314.76 [-8.6%]
+Value:    ₹24555.69 -> ₹22439.61 [₹-2116.07]
+
+KOTAKBANK     Trade summary
+Date:     Wed Jul 27, 2011 -> Thu Aug 18, 2011 [16 days]
+Price:    ₹63.95 -> ₹55.48 [-13.2%]
+Value:    ₹30673.55 -> ₹26610.11 [₹-4063.44]
+
+ITC       Trade summary
+Date:     Wed Jul 27, 2011 -> Wed Sep 14, 2011 [34 days]
+Price:    ₹170.69 -> ₹166.51 [-2.4%]
+Value:    ₹26478.83 -> ₹25831.11 [₹-647.72]
+
+NESTLEIND     Trade summary
+Date:     Thu Aug 04, 2011 -> Fri Sep 16, 2011 [30 days]
+Price:    ₹274.32 -> ₹292.77 [6.7%]
+Value:    ₹27768.12 -> ₹29636.04 [₹1867.92]
+
+EICHERMOT     Trade summary
+Date:     Thu Aug 04, 2011 -> Fri Sep 16, 2011 [30 days]
+Price:    ₹101.43 -> ₹111.16 [9.6%]
+Value:    ₹23241.68 -> ₹25471.04 [₹2229.36]
+
+TATASTEEL     Trade summary
+Date:     Mon Aug 08, 2011 -> Wed Sep 21, 2011 [31 days]
+Price:    ₹196.81 -> ₹197.3 [0.2%]
+Value:    ₹22427.39 -> ₹22483.42 [₹56.03]
+
+SHREECEM     Trade summary
+Date:     Wed Sep 21, 2011 -> Thu Sep 22, 2011 [1 days]
+Price:    ₹154.63 -> ₹151.78 [-1.8%]
+Value:    ₹22471.18 -> ₹22057.4 [₹-413.78]
+
+BAJAJAUTO     Trade summary
+Date:     Wed Sep 21, 2011 -> Thu Sep 22, 2011 [1 days]
+Price:    ₹74.75 -> ₹72.77 [-2.6%]
+Value:    ₹26964.07 -> ₹26250.77 [₹-713.3]
+
+HINDUNILVR     Trade summary
+Date:     Thu Sep 22, 2011 -> Fri Sep 30, 2011 [6 days]
+Price:    ₹151.91 -> ₹146.75 [-3.4%]
+Value:    ₹22045.37 -> ₹21297.11 [₹-748.25]
+
+POWERGRID     Trade summary
+Date:     Fri Sep 30, 2011 -> Mon Oct 03, 2011 [1 days]
+Price:    ₹73.48 -> ₹71.6 [-2.6%]
+Value:    ₹21285.47 -> ₹20741.8 [₹-543.67]
+
+ZEEL      Trade summary
+Date:     Tue Sep 20, 2011 -> Fri Oct 21, 2011 [23 days]
+Price:    ₹335.98 -> ₹344.69 [2.6%]
+Value:    ₹26965.57 -> ₹27664.81 [₹699.23]
+
+ONGC      Trade summary
+Date:     Wed Sep 21, 2011 -> Mon Oct 24, 2011 [23 days]
+Price:    ₹174.04 -> ₹178.94 [2.8%]
+Value:    ₹26965.07 -> ₹27724.74 [₹759.67]
+
+KOTAKBANK     Trade summary
+Date:     Thu Sep 22, 2011 -> Mon Oct 24, 2011 [22 days]
+Price:    ₹57.03 -> ₹61.67 [8.1%]
+Value:    ₹26236.64 -> ₹28372.02 [₹2135.38]
+
+GAIL      Trade summary
+Date:     Mon Oct 03, 2011 -> Thu Oct 27, 2011 [18 days]
+Price:    ₹177.42 -> ₹190.13 [7.2%]
+Value:    ₹20730.43 -> ₹22215.68 [₹1485.25]
+
+TATAMOTORS     Trade summary
+Date:     Thu Aug 18, 2011 -> Tue Nov 08, 2011 [57 days]
+Price:    ₹371.61 -> ₹430.58 [15.9%]
+Value:    ₹26595.8 -> ₹30816.59 [₹4220.79]
+
+HEROMOTOCO     Trade summary
+Date:     Mon Nov 14, 2011 -> Thu Nov 17, 2011 [3 days]
+Price:    ₹18.11 -> ₹16.88 [-6.8%]
+Value:    ₹27560.32 -> ₹25689.82 [₹-1870.5]
+
+SUNPHARMA     Trade summary
+Date:     Wed Nov 16, 2011 -> Thu Nov 17, 2011 [1 days]
+Price:    ₹88.5 -> ₹87.07 [-1.6%]
+Value:    ₹27559.82 -> ₹27113.21 [₹-446.61]
+
+NTPC      Trade summary
+Date:     Wed Nov 09, 2011 -> Mon Nov 21, 2011 [8 days]
+Price:    ₹88.46 -> ₹82.22 [-7.1%]
+Value:    ₹27560.66 -> ₹25615.3 [₹-1945.36]
+
+KOTAKBANK     Trade summary
+Date:     Thu Nov 17, 2011 -> Wed Nov 23, 2011 [4 days]
+Price:    ₹58.61 -> ₹56.48 [-3.6%]
+Value:    ₹27098.65 -> ₹26114.15 [₹-984.5]
+
+ZEEL      Trade summary
+Date:     Thu Nov 17, 2011 -> Wed Nov 23, 2011 [4 days]
+Price:    ₹328.08 -> ₹316.45 [-3.5%]
+Value:    ₹25675.98 -> ₹24765.5 [₹-910.48]
+
+NESTLEIND     Trade summary
+Date:     Thu Oct 27, 2011 -> Fri Nov 25, 2011 [20 days]
+Price:    ₹280.85 -> ₹273.51 [-2.6%]
+Value:    ₹26480.82 -> ₹25788.71 [₹-692.11]
+
+POWERGRID     Trade summary
+Date:     Wed Nov 23, 2011 -> Wed Nov 30, 2011 [4 days]
+Price:    ₹78.5 -> ₹85.69 [9.2%]
+Value:    ₹24752.11 -> ₹27019.48 [₹2267.37]
+
+HDFC      Trade summary
+Date:     Fri Nov 25, 2011 -> Wed Nov 30, 2011 [3 days]
+Price:    ₹167.63 -> ₹192.96 [15.1%]
+Value:    ₹25774.81 -> ₹29668.89 [₹3894.08]
+
+IOC       Trade summary
+Date:     Wed Dec 14, 2011 -> Tue Jan 10, 2012 [17 days]
+Price:    ₹110.69 -> ₹121.92 [10.2%]
+Value:    ₹28328.52 -> ₹31203.89 [₹2875.38]
+
+BAJAJAUTO     Trade summary
+Date:     Mon Nov 21, 2011 -> Thu Jan 19, 2012 [39 days]
+Price:    ₹82.14 -> ₹98.02 [19.3%]
+Value:    ₹25601.49 -> ₹30550.6 [₹4949.11]
+
+ICICIBANK     Trade summary
+Date:     Wed Nov 23, 2011 -> Thu Jan 19, 2012 [37 days]
+Price:    ₹141.25 -> ₹168.98 [19.6%]
+Value:    ₹26100.1 -> ₹31223.9 [₹5123.8]
+
+WIPRO     Trade summary
+Date:     Fri Dec 02, 2011 -> Fri Jan 20, 2012 [32 days]
+Price:    ₹68.74 -> ₹73.46 [6.9%]
+Value:    ₹28329.52 -> ₹30272.83 [₹1943.32]
+
+EICHERMOT     Trade summary
+Date:     Thu Nov 17, 2011 -> Thu Feb 02, 2012 [51 days]
+Price:    ₹108.56 -> ₹106.3 [-2.1%]
+Value:    ₹27558.82 -> ₹26984.05 [₹-574.78]
+
+BRITANNIA     Trade summary
+Date:     Fri Jan 20, 2012 -> Mon Feb 06, 2012 [11 days]
+Price:    ₹192.68 -> ₹216.98 [12.6%]
+Value:    ₹30797.15 -> ₹34681.82 [₹3884.68]
+
+NESTLEIND     Trade summary
+Date:     Mon Feb 06, 2012 -> Wed Feb 15, 2012 [7 days]
+Price:    ₹296.73 -> ₹294.79 [-0.7%]
+Value:    ₹31773.21 -> ₹31565.66 [₹-207.55]
+
+LT        Trade summary
+Date:     Thu Jan 26, 2012 -> Thu Feb 16, 2012 [15 days]
+Price:    ₹53.93 -> ₹57.76 [7.1%]
+Value:    ₹30796.81 -> ₹32985.81 [₹2188.99]
+
+TATASTEEL     Trade summary
+Date:     Fri Jan 27, 2012 -> Thu Feb 23, 2012 [18 days]
+Price:    ₹208.43 -> ₹216.47 [3.9%]
+Value:    ₹30796.31 -> ₹31983.62 [₹1187.3]
+
+ZEEL      Trade summary
+Date:     Wed Feb 22, 2012 -> Thu Mar 01, 2012 [6 days]
+Price:    ₹338.92 -> ₹339.93 [0.3%]
+Value:    ₹32968.32 -> ₹33066.62 [₹98.31]
+
+SUNPHARMA     Trade summary
+Date:     Wed Feb 08, 2012 -> Fri Mar 02, 2012 [16 days]
+Price:    ₹93.07 -> ₹90.6 [-2.7%]
+Value:    ₹31772.21 -> ₹30930.16 [₹-842.05]
+
+HDFCBANK     Trade summary
+Date:     Thu Feb 02, 2012 -> Mon Mar 05, 2012 [21 days]
+Price:    ₹179.97 -> ₹196.88 [9.4%]
+Value:    ₹28882.93 -> ₹31596.79 [₹2713.85]
+
+BAJAJAUTO     Trade summary
+Date:     Wed Feb 15, 2012 -> Tue Mar 06, 2012 [13 days]
+Price:    ₹94.41 -> ₹91.85 [-2.7%]
+Value:    ₹31548.88 -> ₹30694.32 [₹-854.56]
+
+MM        Trade summary
+Date:     Thu Mar 01, 2012 -> Tue Mar 06, 2012 [3 days]
+Price:    ₹220.54 -> ₹209.5 [-5.0%]
+Value:    ₹33049.09 -> ₹31394.66 [₹-1654.43]
+
+LT        Trade summary
+Date:     Wed Feb 29, 2012 -> Tue Mar 06, 2012 [4 days]
+Price:    ₹53.57 -> ₹52.79 [-1.5%]
+Value:    ₹31966.62 -> ₹31503.08 [₹-463.55]
+
+ULTRACEMO     Trade summary
+Date:     Tue Mar 06, 2012 -> Thu Mar 22, 2012 [12 days]
+Price:    ₹136.33 -> ₹139.9 [2.6%]
+Value:    ₹31486.33 -> ₹32311.28 [₹824.96]
+
+TITAN     Trade summary
+Date:     Tue Mar 06, 2012 -> Thu Apr 05, 2012 [22 days]
+Price:    ₹61.28 -> ₹59.28 [-3.3%]
+Value:    ₹30677.97 -> ₹29676.43 [₹-1001.54]
+
+DRREDDY     Trade summary
+Date:     Thu Mar 22, 2012 -> Mon Apr 09, 2012 [11 days]
+Price:    ₹295.86 -> ₹295.49 [-0.1%]
+Value:    ₹32294.13 -> ₹32253.98 [₹-40.15]
+
+TECHM     Trade summary
+Date:     Tue Mar 06, 2012 -> Tue Apr 10, 2012 [24 days]
+Price:    ₹159.81 -> ₹152.2 [-4.8%]
+Value:    ₹31377.96 -> ₹29883.8 [₹-1494.16]
+
+INDUSINDBK     Trade summary
+Date:     Mon Mar 05, 2012 -> Tue Apr 10, 2012 [25 days]
+Price:    ₹329.38 -> ₹325.01 [-1.3%]
+Value:    ₹31579.99 -> ₹31160.57 [₹-419.42]
+
+NTPC      Trade summary
+Date:     Mon Apr 09, 2012 -> Tue Apr 10, 2012 [1 days]
+Price:    ₹113.81 -> ₹110.87 [-2.6%]
+Value:    ₹32236.85 -> ₹31404.95 [₹-831.9]
+
+ULTRACEMO     Trade summary
+Date:     Thu Apr 05, 2012 -> Fri Apr 20, 2012 [10 days]
+Price:    ₹137.62 -> ₹148.95 [8.2%]
+Value:    ₹29660.59 -> ₹32102.78 [₹2442.19]
+
+WIPRO     Trade summary
+Date:     Fri Apr 20, 2012 -> Tue Apr 24, 2012 [2 days]
+Price:    ₹73.66 -> ₹73.17 [-0.7%]
+Value:    ₹32085.73 -> ₹31873.67 [₹-212.06]
+
+BAJAJFINSV     Trade summary
+Date:     Fri Mar 02, 2012 -> Tue May 01, 2012 [41 days]
+Price:    ₹97.72 -> ₹100.92 [3.3%]
+Value:    ₹30913.7 -> ₹31926.4 [₹1012.7]
+
+MARUTI     Trade summary
+Date:     Tue May 01, 2012 -> Thu May 03, 2012 [2 days]
+Price:    ₹130.85 -> ₹124.5 [-4.8%]
+Value:    ₹31909.43 -> ₹30361.97 [₹-1547.46]
+
+TCS       Trade summary
+Date:     Tue Apr 10, 2012 -> Mon May 14, 2012 [24 days]
+Price:    ₹80.68 -> ₹81.28 [0.7%]
+Value:    ₹31388.25 -> ₹31621.55 [₹233.3]
+
+INDUSINDBK     Trade summary
+Date:     Thu May 03, 2012 -> Mon May 14, 2012 [7 days]
+Price:    ₹319.59 -> ₹306.39 [-4.1%]
+Value:    ₹30345.79 -> ₹29092.45 [₹-1253.34]
+
+COALINDIA     Trade summary
+Date:     Tue Apr 10, 2012 -> Tue May 15, 2012 [25 days]
+Price:    ₹785.26 -> ₹764.08 [-2.7%]
+Value:    ₹29867.85 -> ₹29062.17 [₹-805.68]
+
+NTPC      Trade summary
+Date:     Tue May 15, 2012 -> Thu May 17, 2012 [2 days]
+Price:    ₹105.0 -> ₹102.32 [-2.6%]
+Value:    ₹29046.64 -> ₹28304.59 [₹-742.05]
+
+CIPLA     Trade summary
+Date:     Mon May 14, 2012 -> Fri May 18, 2012 [4 days]
+Price:    ₹104.14 -> ₹99.45 [-4.5%]
+Value:    ₹29076.9 -> ₹27766.86 [₹-1310.04]
+
+HINDUNILVR     Trade summary
+Date:     Mon May 14, 2012 -> Wed May 30, 2012 [11 days]
+Price:    ₹225.56 -> ₹223.73 [-0.8%]
+Value:    ₹31604.74 -> ₹31347.95 [₹-256.79]
+
+SHREECEM     Trade summary
+Date:     Fri May 18, 2012 -> Fri Jun 01, 2012 [9 days]
+Price:    ₹201.2 -> ₹204.5 [1.6%]
+Value:    ₹27751.98 -> ₹28207.08 [₹455.1]
+
+RELIANCE     Trade summary
+Date:     Tue Apr 10, 2012 -> Fri Jun 01, 2012 [37 days]
+Price:    ₹171.76 -> ₹163.17 [-5.0%]
+Value:    ₹31143.99 -> ₹29587.15 [₹-1556.84]
+
+POWERGRID     Trade summary
+Date:     Thu May 17, 2012 -> Mon Jun 18, 2012 [21 days]
+Price:    ₹110.26 -> ₹118.49 [7.5%]
+Value:    ₹28289.44 -> ₹30402.36 [₹2112.92]
+
+EICHERMOT     Trade summary
+Date:     Wed May 30, 2012 -> Mon Jun 18, 2012 [13 days]
+Price:    ₹112.26 -> ₹118.19 [5.3%]
+Value:    ₹31331.27 -> ₹32987.46 [₹1656.18]
+
+VEDL      Trade summary
+Date:     Fri Jun 01, 2012 -> Mon Jun 18, 2012 [11 days]
+Price:    ₹114.9 -> ₹131.98 [14.9%]
+Value:    ₹29571.35 -> ₹33967.93 [₹4396.57]
+
+KOTAKBANK     Trade summary
+Date:     Fri Jun 01, 2012 -> Fri Jun 29, 2012 [20 days]
+Price:    ₹70.84 -> ₹78.35 [10.6%]
+Value:    ₹28191.98 -> ₹31182.73 [₹2990.76]
+
+TATAMOTORS     Trade summary
+Date:     Tue Apr 24, 2012 -> Tue Jul 03, 2012 [49 days]
+Price:    ₹522.42 -> ₹512.99 [-1.8%]
+Value:    ₹31856.73 -> ₹31281.64 [₹-575.1]
+
+BAJAJAUTO     Trade summary
+Date:     Wed Jun 27, 2012 -> Thu Jul 19, 2012 [15 days]
+Price:    ₹86.35 -> ₹94.09 [9.0%]
+Value:    ₹32436.02 -> ₹35342.14 [₹2906.12]
+
+BPCL      Trade summary
+Date:     Tue Jul 10, 2012 -> Tue Jul 24, 2012 [10 days]
+Price:    ₹74.1 -> ₹77.31 [4.3%]
+Value:    ₹31826.05 -> ₹33206.08 [₹1380.03]
+
+COALINDIA     Trade summary
+Date:     Wed Jul 18, 2012 -> Wed Jul 25, 2012 [5 days]
+Price:    ₹569.93 -> ₹533.39 [-6.4%]
+Value:    ₹31825.21 -> ₹29784.55 [₹-2040.67]
+
+HDFCBANK     Trade summary
+Date:     Tue Jul 24, 2012 -> Wed Jul 25, 2012 [1 days]
+Price:    ₹167.18 -> ₹165.07 [-1.3%]
+Value:    ₹33188.47 -> ₹32768.9 [₹-419.57]
+
+HEROMOTOCO     Trade summary
+Date:     Mon Jul 23, 2012 -> Thu Jul 26, 2012 [3 days]
+Price:    ₹16.69 -> ₹16.81 [0.7%]
+Value:    ₹33574.34 -> ₹33819.1 [₹244.76]
+
+TATASTEEL     Trade summary
+Date:     Tue Jul 24, 2012 -> Fri Jul 27, 2012 [3 days]
+Price:    ₹238.94 -> ₹256.06 [7.2%]
+Value:    ₹33573.34 -> ₹35978.95 [₹2405.61]
+
+HINDUNILVR     Trade summary
+Date:     Wed Jul 11, 2012 -> Fri Aug 03, 2012 [17 days]
+Price:    ₹214.51 -> ₹242.92 [13.2%]
+Value:    ₹31825.71 -> ₹36041.22 [₹4215.51]
+
+ICICIBANK     Trade summary
+Date:     Wed Jul 25, 2012 -> Tue Aug 07, 2012 [9 days]
+Price:    ₹146.09 -> ₹156.56 [7.2%]
+Value:    ₹32751.52 -> ₹35098.03 [₹2346.52]
+
+TATAMOTORS     Trade summary
+Date:     Wed Jul 25, 2012 -> Tue Aug 21, 2012 [19 days]
+Price:    ₹458.77 -> ₹419.08 [-8.7%]
+Value:    ₹29768.65 -> ₹27193.29 [₹-2575.36]
+
+EICHERMOT     Trade summary
+Date:     Tue Aug 07, 2012 -> Thu Aug 23, 2012 [12 days]
+Price:    ₹110.47 -> ₹105.39 [-4.6%]
+Value:    ₹36022.2 -> ₹34367.2 [₹-1655.0]
+
+ZEEL      Trade summary
+Date:     Tue Aug 07, 2012 -> Wed Aug 29, 2012 [16 days]
+Price:    ₹351.39 -> ₹345.67 [-1.6%]
+Value:    ₹35079.48 -> ₹34508.88 [₹-570.6]
+
+UPL       Trade summary
+Date:     Wed Aug 29, 2012 -> Thu Aug 30, 2012 [1 days]
+Price:    ₹130.44 -> ₹129.02 [-1.1%]
+Value:    ₹34490.63 -> ₹34116.42 [₹-374.21]
+
+RELIANCE     Trade summary
+Date:     Thu Jul 26, 2012 -> Wed Sep 05, 2012 [28 days]
+Price:    ₹176.02 -> ₹185.61 [5.4%]
+Value:    ₹33801.19 -> ₹35643.18 [₹1841.98]
+
+TCS       Trade summary
+Date:     Thu Aug 02, 2012 -> Wed Sep 05, 2012 [23 days]
+Price:    ₹84.99 -> ₹87.8 [3.3%]
+Value:    ₹35959.96 -> ₹37147.82 [₹1187.85]
+
+CIPLA     Trade summary
+Date:     Wed Sep 05, 2012 -> Thu Sep 06, 2012 [1 days]
+Price:    ₹109.09 -> ₹112.78 [3.4%]
+Value:    ₹36376.8 -> ₹37605.7 [₹1228.9]
+
+SBIN      Trade summary
+Date:     Thu Aug 23, 2012 -> Thu Sep 13, 2012 [14 days]
+Price:    ₹138.56 -> ₹146.3 [5.6%]
+Value:    ₹34349.02 -> ₹36267.96 [₹1918.94]
+
+UPL       Trade summary
+Date:     Wed Sep 05, 2012 -> Wed Sep 26, 2012 [15 days]
+Price:    ₹122.01 -> ₹120.24 [-1.5%]
+Value:    ₹36375.8 -> ₹35847.81 [₹-527.99]
+
+SHREECEM     Trade summary
+Date:     Fri Sep 07, 2012 -> Wed Sep 26, 2012 [13 days]
+Price:    ₹217.09 -> ₹204.45 [-5.8%]
+Value:    ₹37585.89 -> ₹35397.71 [₹-2188.18]
+
+HINDUNILVR     Trade summary
+Date:     Wed Sep 26, 2012 -> Mon Oct 01, 2012 [3 days]
+Price:    ₹242.96 -> ₹242.17 [-0.3%]
+Value:    ₹35379.01 -> ₹35263.77 [₹-115.24]
+
+NESTLEIND     Trade summary
+Date:     Thu Aug 30, 2012 -> Tue Oct 09, 2012 [27 days]
+Price:    ₹340.54 -> ₹334.16 [-1.9%]
+Value:    ₹34098.36 -> ₹33459.51 [₹-638.85]
+
+TATASTEEL     Trade summary
+Date:     Tue Oct 09, 2012 -> Thu Oct 11, 2012 [2 days]
+Price:    ₹252.33 -> ₹247.24 [-2.0%]
+Value:    ₹33441.78 -> ₹32767.7 [₹-674.08]
+
+WIPRO     Trade summary
+Date:     Wed Sep 26, 2012 -> Thu Oct 11, 2012 [11 days]
+Price:    ₹86.33 -> ₹82.2 [-4.8%]
+Value:    ₹35828.88 -> ₹34113.6 [₹-1715.29]
+
+GAIL      Trade summary
+Date:     Tue Aug 21, 2012 -> Thu Oct 18, 2012 [41 days]
+Price:    ₹210.6 -> ₹220.02 [4.5%]
+Value:    ₹27178.7 -> ₹28395.02 [₹1216.33]
+
+TATAMOTORS     Trade summary
+Date:     Thu Oct 18, 2012 -> Fri Oct 19, 2012 [1 days]
+Price:    ₹428.3 -> ₹415.96 [-2.9%]
+Value:    ₹28379.83 -> ₹27561.9 [₹-817.93]
+
+HDFC      Trade summary
+Date:     Thu Oct 11, 2012 -> Fri Oct 19, 2012 [6 days]
+Price:    ₹294.66 -> ₹221.58 [-24.8%]
+Value:    ₹34095.54 -> ₹25639.59 [₹-8455.96]
+
+KOTAKBANK     Trade summary
+Date:     Fri Oct 19, 2012 -> Mon Oct 22, 2012 [1 days]
+Price:    ₹73.47 -> ₹73.3 [-0.2%]
+Value:    ₹25625.77 -> ₹25567.61 [₹-58.15]
+
+VEDL      Trade summary
+Date:     Fri Oct 19, 2012 -> Tue Oct 23, 2012 [2 days]
+Price:    ₹135.08 -> ₹122.16 [-9.6%]
+Value:    ₹27547.12 -> ₹24912.78 [₹-2634.34]
+
+HEROMOTOCO     Trade summary
+Date:     Mon Oct 22, 2012 -> Tue Oct 23, 2012 [1 days]
+Price:    ₹19.7 -> ₹19.42 [-1.4%]
+Value:    ₹25553.83 -> ₹25190.83 [₹-363.0]
+
+ITC       Trade summary
+Date:     Tue Oct 23, 2012 -> Thu Oct 25, 2012 [2 days]
+Price:    ₹217.33 -> ₹219.77 [1.1%]
+Value:    ₹24899.32 -> ₹25179.03 [₹279.71]
+
+WIPRO     Trade summary
+Date:     Tue Oct 23, 2012 -> Thu Oct 25, 2012 [2 days]
+Price:    ₹78.63 -> ₹80.27 [2.1%]
+Value:    ₹25177.23 -> ₹25702.59 [₹525.36]
+
+TCS       Trade summary
+Date:     Mon Oct 01, 2012 -> Thu Nov 01, 2012 [21 days]
+Price:    ₹86.34 -> ₹88.92 [3.0%]
+Value:    ₹35245.14 -> ₹36297.0 [₹1051.87]
+
+SUNPHARMA     Trade summary
+Date:     Thu Nov 01, 2012 -> Fri Nov 02, 2012 [1 days]
+Price:    ₹64.44 -> ₹62.81 [-2.5%]
+Value:    ₹36277.85 -> ₹35359.0 [₹-918.85]
+
+SBIN      Trade summary
+Date:     Fri Nov 02, 2012 -> Wed Nov 07, 2012 [3 days]
+Price:    ₹142.78 -> ₹137.43 [-3.7%]
+Value:    ₹35340.32 -> ₹34015.79 [₹-1324.53]
+
+CIPLA     Trade summary
+Date:     Wed Nov 07, 2012 -> Thu Nov 08, 2012 [1 days]
+Price:    ₹106.11 -> ₹103.94 [-2.0%]
+Value:    ₹33997.78 -> ₹33301.56 [₹-696.22]
+
+ONGC      Trade summary
+Date:     Thu Sep 20, 2012 -> Wed Nov 14, 2012 [37 days]
+Price:    ₹209.21 -> ₹199.89 [-4.5%]
+Value:    ₹36248.83 -> ₹34633.24 [₹-1615.59]
+
+NTPC      Trade summary
+Date:     Thu Nov 08, 2012 -> Thu Nov 15, 2012 [5 days]
+Price:    ₹90.18 -> ₹92.05 [2.1%]
+Value:    ₹33283.91 -> ₹33975.95 [₹692.04]
+
+RELIANCE     Trade summary
+Date:     Thu Oct 25, 2012 -> Thu Nov 15, 2012 [13 days]
+Price:    ₹179.58 -> ₹177.13 [-1.4%]
+Value:    ₹25688.74 -> ₹25338.3 [₹-350.43]
+
+INDUSINDBK     Trade summary
+Date:     Thu Nov 15, 2012 -> Fri Dec 07, 2012 [15 days]
+Price:    ₹363.54 -> ₹433.6 [19.3%]
+Value:    ₹25324.63 -> ₹30204.96 [₹4880.32]
+
+MARUTI     Trade summary
+Date:     Thu Oct 11, 2012 -> Tue Dec 18, 2012 [45 days]
+Price:    ₹133.36 -> ₹138.75 [4.0%]
+Value:    ₹32750.31 -> ₹34074.84 [₹1324.52]
+
+BAJFINANCE     Trade summary
+Date:     Wed Nov 14, 2012 -> Tue Dec 18, 2012 [23 days]
+Price:    ₹92.79 -> ₹103.38 [11.4%]
+Value:    ₹34614.92 -> ₹38566.99 [₹3952.06]
+
+POWERGRID     Trade summary
+Date:     Thu Nov 15, 2012 -> Fri Dec 21, 2012 [25 days]
+Price:    ₹137.66 -> ₹150.13 [9.1%]
+Value:    ₹33957.97 -> ₹37034.39 [₹3076.42]
+
+BHARTIARTL     Trade summary
+Date:     Thu Oct 25, 2012 -> Wed Jan 02, 2013 [44 days]
+Price:    ₹332.73 -> ₹375.84 [13.0%]
+Value:    ₹25165.44 -> ₹28426.31 [₹3260.87]
+
+BRITANNIA     Trade summary
+Date:     Fri Dec 07, 2012 -> Mon Jan 07, 2013 [19 days]
+Price:    ₹178.29 -> ₹189.02 [6.0%]
+Value:    ₹30188.86 -> ₹32005.87 [₹1817.01]
+
+ASIANPAINT     Trade summary
+Date:     Mon Dec 24, 2012 -> Thu Jan 17, 2013 [16 days]
+Price:    ₹55.76 -> ₹61.96 [11.1%]
+Value:    ₹36540.13 -> ₹40604.61 [₹4064.48]
+
+JSWSTEEL     Trade summary
+Date:     Tue Jan 08, 2013 -> Fri Jan 25, 2013 [12 days]
+Price:    ₹198.62 -> ₹236.34 [19.0%]
+Value:    ₹33216.59 -> ₹39524.91 [₹6308.32]
+
+ITC       Trade summary
+Date:     Fri Jan 04, 2013 -> Tue Jan 29, 2013 [16 days]
+Price:    ₹232.4 -> ₹240.58 [3.5%]
+Value:    ₹33830.45 -> ₹35021.79 [₹1191.34]
+
+TCS       Trade summary
+Date:     Thu Jan 24, 2013 -> Thu Jan 31, 2013 [5 days]
+Price:    ₹86.37 -> ₹79.16 [-8.4%]
+Value:    ₹36898.7 -> ₹33817.23 [₹-3081.47]
+
+SUNPHARMA     Trade summary
+Date:     Thu Jan 17, 2013 -> Thu Jan 31, 2013 [9 days]
+Price:    ₹67.96 -> ₹71.88 [5.8%]
+Value:    ₹36899.7 -> ₹39025.83 [₹2126.13]
+
+EICHERMOT     Trade summary
+Date:     Wed Jan 09, 2013 -> Mon Feb 04, 2013 [17 days]
+Price:    ₹95.01 -> ₹94.49 [-0.5%]
+Value:    ₹33216.09 -> ₹33035.17 [₹-180.92]
+
+SHREECEM     Trade summary
+Date:     Thu Jan 31, 2013 -> Thu Feb 14, 2013 [10 days]
+Price:    ₹205.52 -> ₹197.83 [-3.7%]
+Value:    ₹39005.32 -> ₹37545.35 [₹-1459.97]
+
+CIPLA     Trade summary
+Date:     Mon Feb 04, 2013 -> Wed Feb 20, 2013 [11 days]
+Price:    ₹111.7 -> ₹113.04 [1.2%]
+Value:    ₹33017.65 -> ₹33415.0 [₹397.34]
+
+KOTAKBANK     Trade summary
+Date:     Thu Jan 31, 2013 -> Thu Feb 21, 2013 [14 days]
+Price:    ₹74.89 -> ₹78.09 [4.3%]
+Value:    ₹33799.32 -> ₹35244.75 [₹1445.43]
+
+DRREDDY     Trade summary
+Date:     Wed Jan 30, 2013 -> Thu Feb 21, 2013 [15 days]
+Price:    ₹362.95 -> ₹346.4 [-4.6%]
+Value:    ₹37254.21 -> ₹35555.34 [₹-1698.87]
+
+BAJAJFINSV     Trade summary
+Date:     Thu Feb 14, 2013 -> Mon Feb 25, 2013 [6 days]
+Price:    ₹120.67 -> ₹109.9 [-8.9%]
+Value:    ₹37525.58 -> ₹34176.27 [₹-3349.31]
+
+INDUSINDBK     Trade summary
+Date:     Thu Feb 21, 2013 -> Mon Feb 25, 2013 [2 days]
+Price:    ₹457.87 -> ₹450.73 [-1.6%]
+Value:    ₹35536.56 -> ₹34982.5 [₹-554.07]
+
+BHARTIARTL     Trade summary
+Date:     Wed Feb 20, 2013 -> Mon Feb 25, 2013 [3 days]
+Price:    ₹389.93 -> ₹381.16 [-2.3%]
+Value:    ₹33397.29 -> ₹32645.73 [₹-751.55]
+
+POWERGRID     Trade summary
+Date:     Thu Jan 31, 2013 -> Mon Mar 04, 2013 [21 days]
+Price:    ₹147.02 -> ₹154.1 [4.8%]
+Value:    ₹37253.21 -> ₹39046.28 [₹1793.07]
+
+BAJFINANCE     Trade summary
+Date:     Thu Feb 21, 2013 -> Fri Mar 08, 2013 [11 days]
+Price:    ₹107.06 -> ₹116.15 [8.5%]
+Value:    ₹35226.13 -> ₹38215.78 [₹2989.65]
+
+HDFC      Trade summary
+Date:     Mon Mar 04, 2013 -> Tue Mar 26, 2013 [16 days]
+Price:    ₹253.95 -> ₹278.85 [9.8%]
+Value:    ₹39025.76 -> ₹42852.79 [₹3827.03]
+
+ASIANPAINT     Trade summary
+Date:     Tue Mar 19, 2013 -> Tue Apr 02, 2013 [9 days]
+Price:    ₹55.28 -> ₹54.08 [-2.2%]
+Value:    ₹38195.67 -> ₹37368.13 [₹-827.53]
+
+INDUSINDBK     Trade summary
+Date:     Tue Apr 02, 2013 -> Wed Apr 03, 2013 [1 days]
+Price:    ₹468.24 -> ₹456.12 [-2.6%]
+Value:    ₹37348.45 -> ₹36381.41 [₹-967.04]
+
+ULTRACEMO     Trade summary
+Date:     Mon Apr 01, 2013 -> Wed Apr 03, 2013 [2 days]
+Price:    ₹199.81 -> ₹189.84 [-5.0%]
+Value:    ₹42830.36 -> ₹40693.27 [₹-2137.09]
+
+COALINDIA     Trade summary
+Date:     Mon Feb 25, 2013 -> Wed Apr 03, 2013 [26 days]
+Price:    ₹1020.22 -> ₹979.64 [-4.0%]
+Value:    ₹34158.18 -> ₹32799.52 [₹-1358.66]
+
+TITAN     Trade summary
+Date:     Mon Feb 25, 2013 -> Thu Apr 04, 2013 [27 days]
+Price:    ₹78.81 -> ₹83.09 [5.4%]
+Value:    ₹32628.41 -> ₹34400.66 [₹1772.25]
+
+ULTRACEMO     Trade summary
+Date:     Thu Apr 04, 2013 -> Fri Apr 05, 2013 [1 days]
+Price:    ₹193.97 -> ₹193.85 [-0.1%]
+Value:    ₹34382.46 -> ₹34361.73 [₹-20.73]
+
+IOC       Trade summary
+Date:     Mon Feb 25, 2013 -> Mon Apr 15, 2013 [34 days]
+Price:    ₹161.81 -> ₹154.16 [-4.7%]
+Value:    ₹34964.01 -> ₹33310.81 [₹-1653.19]
+
+TITAN     Trade summary
+Date:     Fri Apr 05, 2013 -> Mon Apr 15, 2013 [6 days]
+Price:    ₹81.99 -> ₹81.51 [-0.6%]
+Value:    ₹34343.55 -> ₹34142.08 [₹-201.47]
+
+BHARTIARTL     Trade summary
+Date:     Wed Apr 03, 2013 -> Tue Apr 16, 2013 [9 days]
+Price:    ₹394.66 -> ₹419.21 [6.2%]
+Value:    ₹36362.21 -> ₹38624.41 [₹2262.2]
+
+NTPC      Trade summary
+Date:     Wed Apr 03, 2013 -> Wed Apr 17, 2013 [10 days]
+Price:    ₹109.38 -> ₹105.41 [-3.6%]
+Value:    ₹32782.12 -> ₹31590.93 [₹-1191.19]
+
+HEROMOTOCO     Trade summary
+Date:     Tue Apr 16, 2013 -> Thu Apr 18, 2013 [2 days]
+Price:    ₹21.87 -> ₹21.41 [-2.1%]
+Value:    ₹38604.1 -> ₹37790.52 [₹-813.58]
+
+HDFC      Trade summary
+Date:     Wed Apr 17, 2013 -> Thu Apr 18, 2013 [1 days]
+Price:    ₹255.15 -> ₹249.85 [-2.1%]
+Value:    ₹31574.13 -> ₹30918.57 [₹-655.56]
+
+BPCL      Trade summary
+Date:     Wed Apr 03, 2013 -> Wed Apr 24, 2013 [15 days]
+Price:    ₹99.84 -> ₹97.72 [-2.1%]
+Value:    ₹40671.92 -> ₹39808.34 [₹-863.58]
+
+MM        Trade summary
+Date:     Mon Apr 15, 2013 -> Mon May 06, 2013 [15 days]
+Price:    ₹263.08 -> ₹281.11 [6.9%]
+Value:    ₹34124.01 -> ₹36462.47 [₹2338.46]
+
+HDFCBANK     Trade summary
+Date:     Thu Apr 18, 2013 -> Mon May 06, 2013 [12 days]
+Price:    ₹224.51 -> ₹251.03 [11.8%]
+Value:    ₹30902.12 -> ₹34552.06 [₹3649.94]
+
+HCLTECH     Trade summary
+Date:     Thu Apr 18, 2013 -> Fri May 10, 2013 [16 days]
+Price:    ₹129.67 -> ₹137.05 [5.7%]
+Value:    ₹37770.62 -> ₹39918.81 [₹2148.19]
+
+BAJAJAUTO     Trade summary
+Date:     Mon Apr 15, 2013 -> Wed May 15, 2013 [22 days]
+Price:    ₹109.13 -> ₹114.7 [5.1%]
+Value:    ₹33293.16 -> ₹34990.98 [₹1697.83]
+
+SHREECEM     Trade summary
+Date:     Thu May 09, 2013 -> Wed May 22, 2013 [9 days]
+Price:    ₹205.39 -> ₹194.7 [-5.2%]
+Value:    ₹35488.01 -> ₹33640.52 [₹-1847.49]
+
+WIPRO     Trade summary
+Date:     Wed May 22, 2013 -> Thu May 23, 2013 [1 days]
+Price:    ₹78.17 -> ₹79.93 [2.3%]
+Value:    ₹33622.7 -> ₹34380.13 [₹757.43]
+
+EICHERMOT     Trade summary
+Date:     Thu May 09, 2013 -> Thu May 23, 2013 [10 days]
+Price:    ₹101.41 -> ₹101.51 [0.1%]
+Value:    ₹35489.01 -> ₹35523.77 [₹34.76]
+
+ICICIBANK     Trade summary
+Date:     Wed Apr 24, 2013 -> Fri May 24, 2013 [22 days]
+Price:    ₹198.12 -> ₹209.31 [5.6%]
+Value:    ₹39787.43 -> ₹42034.87 [₹2247.44]
+
+TATASTEEL     Trade summary
+Date:     Wed May 22, 2013 -> Wed May 29, 2013 [4 days]
+Price:    ₹254.12 -> ₹249.15 [-2.0%]
+Value:    ₹34972.49 -> ₹34288.91 [₹-683.58]
+
+ONGC      Trade summary
+Date:     Thu May 23, 2013 -> Mon Jun 03, 2013 [6 days]
+Price:    ₹230.16 -> ₹220.86 [-4.0%]
+Value:    ₹35505.01 -> ₹34071.1 [₹-1433.9]
+
+SBIN      Trade summary
+Date:     Thu May 23, 2013 -> Tue Jun 04, 2013 [7 days]
+Price:    ₹156.98 -> ₹149.32 [-4.9%]
+Value:    ₹34361.94 -> ₹32685.54 [₹-1676.4]
+
+GAIL      Trade summary
+Date:     Fri May 24, 2013 -> Wed Jun 05, 2013 [7 days]
+Price:    ₹247.23 -> ₹238.06 [-3.7%]
+Value:    ₹42012.86 -> ₹40453.98 [₹-1558.88]
+
+GRASIM     Trade summary
+Date:     Mon May 13, 2013 -> Wed Jun 05, 2013 [16 days]
+Price:    ₹39.91 -> ₹40.9 [2.5%]
+Value:    ₹39897.85 -> ₹40887.61 [₹989.76]
+
+BAJFINANCE     Trade summary
+Date:     Wed Jun 05, 2013 -> Wed Jun 12, 2013 [5 days]
+Price:    ₹133.14 -> ₹133.13 [-0.0%]
+Value:    ₹40866.16 -> ₹40864.16 [₹-2.01]
+
+NESTLEIND     Trade summary
+Date:     Mon Jun 03, 2013 -> Fri Jun 14, 2013 [9 days]
+Price:    ₹402.84 -> ₹407.44 [1.1%]
+Value:    ₹34053.07 -> ₹34441.81 [₹388.74]
+
+HCLTECH     Trade summary
+Date:     Wed Jun 05, 2013 -> Thu Jun 20, 2013 [11 days]
+Price:    ₹132.24 -> ₹131.71 [-0.4%]
+Value:    ₹40432.75 -> ₹40271.89 [₹-160.86]
+
+NESTLEIND     Trade summary
+Date:     Thu Jun 20, 2013 -> Mon Jun 24, 2013 [2 days]
+Price:    ₹392.41 -> ₹397.31 [1.2%]
+Value:    ₹40250.76 -> ₹40753.77 [₹503.01]
+
+ITC       Trade summary
+Date:     Wed Jun 12, 2013 -> Mon Jun 24, 2013 [8 days]
+Price:    ₹317.02 -> ₹308.15 [-2.8%]
+Value:    ₹40842.73 -> ₹39700.17 [₹-1142.55]
+
+JSWSTEEL     Trade summary
+Date:     Wed May 29, 2013 -> Wed Jun 26, 2013 [20 days]
+Price:    ₹285.97 -> ₹334.79 [17.1%]
+Value:    ₹34270.77 -> ₹40120.97 [₹5850.2]
+
+RELIANCE     Trade summary
+Date:     Tue Jun 04, 2013 -> Thu Jun 27, 2013 [17 days]
+Price:    ₹223.23 -> ₹234.89 [5.2%]
+Value:    ₹32668.19 -> ₹34374.31 [₹1706.12]
+
+CIPLA     Trade summary
+Date:     Mon Jun 24, 2013 -> Fri Jul 05, 2013 [8 days]
+Price:    ₹132.44 -> ₹140.26 [5.9%]
+Value:    ₹39679.32 -> ₹42023.42 [₹2344.1]
+
+KOTAKBANK     Trade summary
+Date:     Fri Jun 14, 2013 -> Tue Jul 09, 2013 [16 days]
+Price:    ₹93.06 -> ₹100.08 [7.5%]
+Value:    ₹34423.58 -> ₹37021.72 [₹2598.14]
+
+ICICIBANK     Trade summary
+Date:     Wed Jul 03, 2013 -> Wed Jul 17, 2013 [9 days]
+Price:    ₹190.31 -> ₹214.97 [13.0%]
+Value:    ₹37228.52 -> ₹42053.6 [₹4825.08]
+
+TCS       Trade summary
+Date:     Mon Jun 24, 2013 -> Thu Aug 01, 2013 [27 days]
+Price:    ₹97.84 -> ₹109.63 [12.1%]
+Value:    ₹40732.39 -> ₹45641.28 [₹4908.89]
+
+SHREECEM     Trade summary
+Date:     Fri Jul 26, 2013 -> Fri Aug 09, 2013 [10 days]
+Price:    ₹178.83 -> ₹170.21 [-4.8%]
+Value:    ₹39566.09 -> ₹37659.05 [₹-1907.04]
+
+ZEEL      Trade summary
+Date:     Wed Jul 31, 2013 -> Mon Aug 12, 2013 [8 days]
+Price:    ₹308.07 -> ₹294.6 [-4.4%]
+Value:    ₹39565.59 -> ₹37835.15 [₹-1730.45]
+
+TATASTEEL     Trade summary
+Date:     Fri Aug 09, 2013 -> Tue Aug 13, 2013 [2 days]
+Price:    ₹240.45 -> ₹238.72 [-0.7%]
+Value:    ₹37639.22 -> ₹37368.39 [₹-270.83]
+
+WIPRO     Trade summary
+Date:     Thu Aug 08, 2013 -> Wed Aug 14, 2013 [4 days]
+Price:    ₹74.22 -> ₹73.04 [-1.6%]
+Value:    ₹42590.53 -> ₹41915.04 [₹-675.49]
+
+GAIL      Trade summary
+Date:     Tue Aug 13, 2013 -> Thu Aug 15, 2013 [2 days]
+Price:    ₹249.61 -> ₹243.1 [-2.6%]
+Value:    ₹37348.71 -> ₹36373.94 [₹-974.77]
+
+BHARTIARTL     Trade summary
+Date:     Thu Jul 18, 2013 -> Thu Aug 15, 2013 [20 days]
+Price:    ₹402.52 -> ₹405.57 [0.8%]
+Value:    ₹39566.43 -> ₹39866.12 [₹299.69]
+
+GRASIM     Trade summary
+Date:     Wed Aug 14, 2013 -> Tue Aug 20, 2013 [4 days]
+Price:    ₹43.22 -> ₹40.82 [-5.6%]
+Value:    ₹41893.08 -> ₹39565.3 [₹-2327.78]
+
+TITAN     Trade summary
+Date:     Thu Aug 15, 2013 -> Wed Aug 21, 2013 [4 days]
+Price:    ₹88.47 -> ₹86.37 [-2.4%]
+Value:    ₹39845.19 -> ₹38897.53 [₹-947.65]
+
+ITC       Trade summary
+Date:     Mon Aug 12, 2013 -> Tue Aug 27, 2013 [11 days]
+Price:    ₹320.58 -> ₹316.29 [-1.3%]
+Value:    ₹37815.23 -> ₹37309.16 [₹-506.07]
+
+HINDUNILVR     Trade summary
+Date:     Thu Aug 15, 2013 -> Tue Aug 27, 2013 [8 days]
+Price:    ₹379.7 -> ₹377.12 [-0.7%]
+Value:    ₹36354.75 -> ₹36107.75 [₹-247.0]
+
+KOTAKBANK     Trade summary
+Date:     Wed Aug 21, 2013 -> Tue Aug 27, 2013 [4 days]
+Price:    ₹96.6 -> ₹94.21 [-2.5%]
+Value:    ₹38877.08 -> ₹37915.9 [₹-961.19]
+
+BAJFINANCE     Trade summary
+Date:     Tue Aug 27, 2013 -> Thu Sep 05, 2013 [6 days]
+Price:    ₹139.15 -> ₹148.45 [6.7%]
+Value:    ₹37895.94 -> ₹40428.82 [₹2532.88]
+
+ADANIPORTS     Trade summary
+Date:     Tue Aug 20, 2013 -> Tue Sep 10, 2013 [14 days]
+Price:    ₹282.33 -> ₹294.48 [4.3%]
+Value:    ₹39544.52 -> ₹41246.14 [₹1701.63]
+
+HDFCBANK     Trade summary
+Date:     Tue Aug 27, 2013 -> Tue Sep 10, 2013 [9 days]
+Price:    ₹282.35 -> ₹306.71 [8.6%]
+Value:    ₹36088.69 -> ₹39202.12 [₹3113.43]
+
+RELIANCE     Trade summary
+Date:     Tue Aug 27, 2013 -> Wed Sep 11, 2013 [10 days]
+Price:    ₹247.2 -> ₹259.99 [5.2%]
+Value:    ₹37289.51 -> ₹39218.29 [₹1928.78]
+
+JSWSTEEL     Trade summary
+Date:     Tue Aug 06, 2013 -> Wed Sep 18, 2013 [30 days]
+Price:    ₹338.88 -> ₹411.5 [21.4%]
+Value:    ₹42591.53 -> ₹51718.74 [₹9127.21]
+
+WIPRO     Trade summary
+Date:     Mon Sep 30, 2013 -> Mon Oct 07, 2013 [5 days]
+Price:    ₹68.12 -> ₹67.96 [-0.2%]
+Value:    ₹42925.32 -> ₹42821.96 [₹-103.37]
+
+GAIL      Trade summary
+Date:     Thu Sep 12, 2013 -> Mon Oct 07, 2013 [17 days]
+Price:    ₹231.87 -> ₹237.9 [2.6%]
+Value:    ₹40003.58 -> ₹41044.64 [₹1041.06]
+
+VEDL      Trade summary
+Date:     Mon Sep 23, 2013 -> Tue Oct 08, 2013 [11 days]
+Price:    ₹154.73 -> ₹159.05 [2.8%]
+Value:    ₹42925.66 -> ₹44124.89 [₹1199.23]
+
+CIPLA     Trade summary
+Date:     Mon Oct 07, 2013 -> Tue Oct 08, 2013 [1 days]
+Price:    ₹137.13 -> ₹134.88 [-1.6%]
+Value:    ₹41023.12 -> ₹40350.46 [₹-672.67]
+
+HINDUNILVR     Trade summary
+Date:     Tue Oct 08, 2013 -> Wed Oct 09, 2013 [1 days]
+Price:    ₹389.02 -> ₹385.75 [-0.8%]
+Value:    ₹40329.28 -> ₹39989.83 [₹-339.45]
+
+RELIANCE     Trade summary
+Date:     Thu Oct 03, 2013 -> Wed Oct 16, 2013 [9 days]
+Price:    ₹251.43 -> ₹264.11 [5.0%]
+Value:    ₹42924.82 -> ₹45090.37 [₹2165.54]
+
+HDFC      Trade summary
+Date:     Mon Oct 07, 2013 -> Fri Oct 18, 2013 [9 days]
+Price:    ₹356.69 -> ₹466.7 [30.8%]
+Value:    ₹42799.55 -> ₹56000.02 [₹13200.47]
+
+SUNPHARMA     Trade summary
+Date:     Tue Oct 08, 2013 -> Mon Oct 21, 2013 [9 days]
+Price:    ₹90.78 -> ₹94.93 [4.6%]
+Value:    ₹44101.82 -> ₹46120.29 [₹2018.47]
+
+TCS       Trade summary
+Date:     Thu Oct 03, 2013 -> Fri Oct 25, 2013 [16 days]
+Price:    ₹106.61 -> ₹113.73 [6.7%]
+Value:    ₹42923.82 -> ₹45789.1 [₹2865.28]
+
+SHREECEM     Trade summary
+Date:     Wed Oct 30, 2013 -> Tue Nov 05, 2013 [4 days]
+Price:    ₹152.44 -> ₹149.38 [-2.0%]
+Value:    ₹47404.03 -> ₹46453.63 [₹-950.4]
+
+ADANIPORTS     Trade summary
+Date:     Wed Oct 23, 2013 -> Thu Nov 07, 2013 [11 days]
+Price:    ₹262.83 -> ₹264.82 [0.8%]
+Value:    ₹49045.36 -> ₹49416.45 [₹371.09]
+
+EICHERMOT     Trade summary
+Date:     Tue Nov 05, 2013 -> Thu Nov 14, 2013 [7 days]
+Price:    ₹85.19 -> ₹81.38 [-4.5%]
+Value:    ₹46429.41 -> ₹44351.58 [₹-2077.83]
+
+SUNPHARMA     Trade summary
+Date:     Wed Oct 30, 2013 -> Mon Nov 18, 2013 [13 days]
+Price:    ₹83.48 -> ₹83.51 [0.0%]
+Value:    ₹47405.03 -> ₹47421.09 [₹16.06]
+
+BAJFINANCE     Trade summary
+Date:     Thu Nov 07, 2013 -> Tue Nov 19, 2013 [8 days]
+Price:    ₹153.68 -> ₹159.14 [3.6%]
+Value:    ₹49390.74 -> ₹51146.58 [₹1755.84]
+
+NTPC      Trade summary
+Date:     Wed Oct 09, 2013 -> Wed Nov 27, 2013 [35 days]
+Price:    ₹145.92 -> ₹161.57 [10.7%]
+Value:    ₹39968.83 -> ₹44254.63 [₹4285.79]
+
+GAIL      Trade summary
+Date:     Wed Nov 27, 2013 -> Wed Dec 04, 2013 [4 days]
+Price:    ₹242.06 -> ₹240.43 [-0.7%]
+Value:    ₹44231.5 -> ₹43933.47 [₹-298.03]
+
+INFY      Trade summary
+Date:     Wed Dec 04, 2013 -> Thu Dec 05, 2013 [1 days]
+Price:    ₹133.56 -> ₹132.63 [-0.7%]
+Value:    ₹43910.51 -> ₹43605.81 [₹-304.69]
+
+HEROMOTOCO     Trade summary
+Date:     Thu Oct 24, 2013 -> Tue Dec 10, 2013 [32 days]
+Price:    ₹36.12 -> ₹39.31 [8.8%]
+Value:    ₹49044.86 -> ₹53379.22 [₹4334.36]
+
+HDFC      Trade summary
+Date:     Thu Nov 14, 2013 -> Thu Dec 12, 2013 [19 days]
+Price:    ₹430.97 -> ₹429.38 [-0.4%]
+Value:    ₹44328.4 -> ₹44165.33 [₹-163.07]
+
+GRASIM     Trade summary
+Date:     Thu Dec 12, 2013 -> Fri Dec 13, 2013 [1 days]
+Price:    ₹51.56 -> ₹57.99 [12.5%]
+Value:    ₹44142.25 -> ₹49651.27 [₹5509.02]
+
+BHARTIARTL     Trade summary
+Date:     Fri Dec 13, 2013 -> Mon Dec 16, 2013 [1 days]
+Price:    ₹397.49 -> ₹397.27 [-0.1%]
+Value:    ₹49625.44 -> ₹49598.14 [₹-27.3]
+
+BRITANNIA     Trade summary
+Date:     Mon Nov 18, 2013 -> Thu Dec 19, 2013 [22 days]
+Price:    ₹303.68 -> ₹324.33 [6.8%]
+Value:    ₹47396.38 -> ₹50619.0 [₹3222.62]
+
+LT        Trade summary
+Date:     Tue Nov 19, 2013 -> Fri Dec 20, 2013 [22 days]
+Price:    ₹95.49 -> ₹103.68 [8.6%]
+Value:    ₹51120.0 -> ₹55505.8 [₹4385.79]
+
+MM        Trade summary
+Date:     Wed Dec 11, 2013 -> Thu Dec 26, 2013 [10 days]
+Price:    ₹362.14 -> ₹383.97 [6.0%]
+Value:    ₹53351.53 -> ₹56567.44 [₹3215.91]
+
+SBIN      Trade summary
+Date:     Thu Jan 02, 2014 -> Mon Jan 13, 2014 [7 days]
+Price:    ₹144.12 -> ₹146.76 [1.8%]
+Value:    ₹54203.3 -> ₹55195.42 [₹992.12]
+
+TATASTEEL     Trade summary
+Date:     Mon Jan 13, 2014 -> Thu Jan 16, 2014 [3 days]
+Price:    ₹232.92 -> ₹235.81 [1.2%]
+Value:    ₹55166.82 -> ₹55852.18 [₹685.36]
+
+BRITANNIA     Trade summary
+Date:     Fri Jan 10, 2014 -> Thu Jan 23, 2014 [8 days]
+Price:    ₹292.83 -> ₹316.54 [8.1%]
+Value:    ₹54201.8 -> ₹58591.17 [₹4389.37]
+
+UPL       Trade summary
+Date:     Thu Jan 16, 2014 -> Thu Jan 23, 2014 [4 days]
+Price:    ₹158.69 -> ₹158.57 [-0.1%]
+Value:    ₹55823.25 -> ₹55781.28 [₹-41.97]
+
+DRREDDY     Trade summary
+Date:     Mon Dec 16, 2013 -> Fri Jan 24, 2014 [26 days]
+Price:    ₹364.49 -> ₹376.01 [3.2%]
+Value:    ₹49572.35 -> ₹51138.82 [₹1566.47]
+
+HINDUNILVR     Trade summary
+Date:     Thu Jan 23, 2014 -> Fri Jan 24, 2014 [1 days]
+Price:    ₹435.31 -> ₹425.03 [-2.4%]
+Value:    ₹55752.39 -> ₹54436.09 [₹-1316.31]
+
+ULTRACEMO     Trade summary
+Date:     Thu Dec 05, 2013 -> Fri Jan 24, 2014 [33 days]
+Price:    ₹306.72 -> ₹290.48 [-5.3%]
+Value:    ₹43583.01 -> ₹41274.97 [₹-2308.05]
+
+TATAMOTORS     Trade summary
+Date:     Fri Jan 03, 2014 -> Mon Jan 27, 2014 [15 days]
+Price:    ₹825.96 -> ₹820.47 [-0.7%]
+Value:    ₹54202.8 -> ₹53842.34 [₹-360.46]
+
+HDFCBANK     Trade summary
+Date:     Fri Jan 24, 2014 -> Mon Feb 03, 2014 [6 days]
+Price:    ₹345.53 -> ₹329.91 [-4.5%]
+Value:    ₹51112.25 -> ₹48801.29 [₹-2310.95]
+
+KOTAKBANK     Trade summary
+Date:     Mon Jan 27, 2014 -> Mon Feb 03, 2014 [5 days]
+Price:    ₹109.51 -> ₹105.36 [-3.8%]
+Value:    ₹53814.42 -> ₹51772.83 [₹-2041.59]
+
+TATAMOTORS     Trade summary
+Date:     Mon Feb 03, 2014 -> Thu Feb 13, 2014 [8 days]
+Price:    ₹798.97 -> ₹905.74 [13.4%]
+Value:    ₹51745.94 -> ₹58661.04 [₹6915.1]
+
+TITAN     Trade summary
+Date:     Thu Jan 23, 2014 -> Thu Feb 20, 2014 [19 days]
+Price:    ₹106.09 -> ₹108.97 [2.7%]
+Value:    ₹58560.87 -> ₹60148.9 [₹1588.03]
+
+ONGC      Trade summary
+Date:     Fri Mar 07, 2014 -> Tue Mar 11, 2014 [2 days]
+Price:    ₹221.15 -> ₹221.93 [0.4%]
+Value:    ₹59374.77 -> ₹59584.04 [₹209.28]
+
+COALINDIA     Trade summary
+Date:     Mon Feb 03, 2014 -> Tue Mar 18, 2014 [30 days]
+Price:    ₹1298.83 -> ₹1549.77 [19.3%]
+Value:    ₹48775.89 -> ₹58199.66 [₹9423.77]
+
+GAIL      Trade summary
+Date:     Mon Mar 10, 2014 -> Fri Mar 21, 2014 [9 days]
+Price:    ₹251.01 -> ₹256.24 [2.1%]
+Value:    ₹59373.77 -> ₹60611.97 [₹1238.2]
+
+MM        Trade summary
+Date:     Fri Jan 24, 2014 -> Fri Mar 21, 2014 [39 days]
+Price:    ₹366.64 -> ₹383.63 [4.6%]
+Value:    ₹41253.33 -> ₹43164.62 [₹1911.29]
+
+ITC       Trade summary
+Date:     Fri Mar 21, 2014 -> Mon Mar 24, 2014 [1 days]
+Price:    ₹418.1 -> ₹410.92 [-1.7%]
+Value:    ₹43142.03 -> ₹42401.27 [₹-740.77]
+
+HCLTECH     Trade summary
+Date:     Fri Jan 24, 2014 -> Mon Mar 24, 2014 [40 days]
+Price:    ₹152.82 -> ₹154.68 [1.2%]
+Value:    ₹54407.87 -> ₹55071.39 [₹663.52]
+
+BAJAJAUTO     Trade summary
+Date:     Wed Mar 19, 2014 -> Mon Mar 24, 2014 [3 days]
+Price:    ₹122.73 -> ₹122.11 [-0.5%]
+Value:    ₹58169.56 -> ₹57875.08 [₹-294.49]
+
+HINDUNILVR     Trade summary
+Date:     Mon Mar 24, 2014 -> Tue Mar 25, 2014 [1 days]
+Price:    ₹469.68 -> ₹461.97 [-1.6%]
+Value:    ₹57845.14 -> ₹56895.01 [₹-950.13]
+
+POWERGRID     Trade summary
+Date:     Fri Mar 21, 2014 -> Fri Apr 04, 2014 [10 days]
+Price:    ₹199.0 -> ₹192.24 [-3.4%]
+Value:    ₹60580.66 -> ₹58522.91 [₹-2057.75]
+
+HEROMOTOCO     Trade summary
+Date:     Fri Apr 04, 2014 -> Mon Apr 07, 2014 [1 days]
+Price:    ₹42.74 -> ₹41.85 [-2.1%]
+Value:    ₹58492.65 -> ₹57272.8 [₹-1219.85]
+
+GRASIM     Trade summary
+Date:     Mon Mar 24, 2014 -> Mon Apr 07, 2014 [10 days]
+Price:    ₹63.48 -> ₹58.92 [-7.2%]
+Value:    ₹42379.07 -> ₹39333.75 [₹-3045.31]
+
+TATAMOTORS     Trade summary
+Date:     Mon Mar 24, 2014 -> Tue Apr 08, 2014 [11 days]
+Price:    ₹891.5 -> ₹878.25 [-1.5%]
+Value:    ₹55042.85 -> ₹54225.04 [₹-817.81]
+
+BAJAJFINSV     Trade summary
+Date:     Tue Apr 08, 2014 -> Fri Apr 11, 2014 [3 days]
+Price:    ₹142.29 -> ₹140.96 [-0.9%]
+Value:    ₹54196.93 -> ₹53689.93 [₹-507.0]
+
+ASIANPAINT     Trade summary
+Date:     Tue Mar 11, 2014 -> Mon Apr 14, 2014 [24 days]
+Price:    ₹85.38 -> ₹83.04 [-2.7%]
+Value:    ₹59553.25 -> ₹57919.27 [₹-1633.98]
+
+INDUSINDBK     Trade summary
+Date:     Mon Apr 07, 2014 -> Thu Apr 17, 2014 [8 days]
+Price:    ₹750.0 -> ₹792.71 [5.7%]
+Value:    ₹57243.16 -> ₹60502.58 [₹3259.42]
+
+SUNPHARMA     Trade summary
+Date:     Thu Apr 17, 2014 -> Wed Apr 23, 2014 [3 days]
+Price:    ₹76.48 -> ₹79.06 [3.4%]
+Value:    ₹60471.33 -> ₹62512.74 [₹2041.41]
+
+TATASTEEL     Trade summary
+Date:     Wed Apr 23, 2014 -> Thu Apr 24, 2014 [1 days]
+Price:    ₹239.08 -> ₹236.59 [-1.0%]
+Value:    ₹62480.48 -> ₹61829.89 [₹-650.6]
+
+NESTLEIND     Trade summary
+Date:     Thu Apr 24, 2014 -> Wed May 07, 2014 [9 days]
+Price:    ₹432.15 -> ₹433.13 [0.2%]
+Value:    ₹61797.97 -> ₹61938.69 [₹140.72]
+
+COALINDIA     Trade summary
+Date:     Mon Apr 07, 2014 -> Mon May 12, 2014 [24 days]
+Price:    ₹1448.65 -> ₹1598.6 [10.4%]
+Value:    ₹39313.09 -> ₹43382.27 [₹4069.19]
+
+BAJAJFINSV     Trade summary
+Date:     Mon Apr 14, 2014 -> Wed May 14, 2014 [21 days]
+Price:    ₹140.1 -> ₹130.02 [-7.2%]
+Value:    ₹57889.31 -> ₹53724.25 [₹-4165.06]
+
+EICHERMOT     Trade summary
+Date:     Tue May 13, 2014 -> Fri May 16, 2014 [3 days]
+Price:    ₹74.19 -> ₹73.14 [-1.4%]
+Value:    ₹43359.58 -> ₹42747.6 [₹-611.98]
+
+HEROMOTOCO     Trade summary
+Date:     Wed May 14, 2014 -> Tue May 20, 2014 [4 days]
+Price:    ₹41.74 -> ₹39.83 [-4.6%]
+Value:    ₹53696.39 -> ₹51238.21 [₹-2458.17]
+
+BPCL      Trade summary
+Date:     Fri Apr 11, 2014 -> Tue May 20, 2014 [26 days]
+Price:    ₹127.61 -> ₹122.34 [-4.1%]
+Value:    ₹53662.08 -> ₹51444.44 [₹-2217.64]
+
+GRASIM     Trade summary
+Date:     Wed May 07, 2014 -> Fri May 23, 2014 [12 days]
+Price:    ₹58.08 -> ₹63.11 [8.7%]
+Value:    ₹61906.73 -> ₹67269.27 [₹5362.54]
+
+NTPC      Trade summary
+Date:     Tue Mar 25, 2014 -> Wed Jun 04, 2014 [49 days]
+Price:    ₹181.31 -> ₹193.94 [7.0%]
+Value:    ₹56865.57 -> ₹60826.6 [₹3961.03]
+
+VEDL      Trade summary
+Date:     Fri May 16, 2014 -> Mon Jun 09, 2014 [15 days]
+Price:    ₹173.97 -> ₹192.21 [10.5%]
+Value:    ₹42725.23 -> ₹47205.62 [₹4480.39]
+
+SHREECEM     Trade summary
+Date:     Wed Jun 11, 2014 -> Fri Jun 13, 2014 [2 days]
+Price:    ₹168.68 -> ₹169.14 [0.3%]
+Value:    ₹58402.78 -> ₹58560.55 [₹157.77]
+
+GAIL      Trade summary
+Date:     Wed Jun 11, 2014 -> Mon Jun 16, 2014 [3 days]
+Price:    ₹259.19 -> ₹266.75 [2.9%]
+Value:    ₹58403.78 -> ₹60107.4 [₹1703.62]
+
+HINDUNILVR     Trade summary
+Date:     Fri Jun 20, 2014 -> Tue Jun 24, 2014 [2 days]
+Price:    ₹417.46 -> ₹414.2 [-0.8%]
+Value:    ₹60076.34 -> ₹59607.39 [₹-468.95]
+
+POWERGRID     Trade summary
+Date:     Fri Jun 13, 2014 -> Fri Jun 27, 2014 [10 days]
+Price:    ₹214.73 -> ₹221.23 [3.0%]
+Value:    ₹58530.27 -> ₹60302.77 [₹1772.5]
+
+TCS       Trade summary
+Date:     Tue Jun 24, 2014 -> Mon Jun 30, 2014 [4 days]
+Price:    ₹138.28 -> ₹136.58 [-1.2%]
+Value:    ₹59576.59 -> ₹58844.54 [₹-732.05]
+
+BAJAJAUTO     Trade summary
+Date:     Tue May 20, 2014 -> Thu Jul 03, 2014 [31 days]
+Price:    ₹120.91 -> ₹125.69 [4.0%]
+Value:    ₹51417.72 -> ₹53450.25 [₹2032.54]
+
+EICHERMOT     Trade summary
+Date:     Thu Jul 03, 2014 -> Tue Jul 08, 2014 [2 days]
+Price:    ₹73.17 -> ₹73.91 [1.0%]
+Value:    ₹53422.53 -> ₹53965.35 [₹542.82]
+
+HCLTECH     Trade summary
+Date:     Mon Jun 30, 2014 -> Wed Jul 09, 2014 [6 days]
+Price:    ₹162.4 -> ₹162.99 [0.4%]
+Value:    ₹58814.12 -> ₹59027.37 [₹213.25]
+
+VEDL      Trade summary
+Date:     Wed Jul 09, 2014 -> Thu Jul 10, 2014 [1 days]
+Price:    ₹185.84 -> ₹185.35 [-0.3%]
+Value:    ₹58996.86 -> ₹58840.39 [₹-156.47]
+
+TECHM     Trade summary
+Date:     Tue May 20, 2014 -> Wed Jul 16, 2014 [39 days]
+Price:    ₹139.71 -> ₹153.27 [9.7%]
+Value:    ₹51211.59 -> ₹56182.17 [₹4970.58]
+
+LT        Trade summary
+Date:     Wed Jul 16, 2014 -> Thu Jul 17, 2014 [1 days]
+Price:    ₹87.83 -> ₹89.54 [1.9%]
+Value:    ₹56153.08 -> ₹57243.81 [₹1090.73]
+
+INDUSINDBK     Trade summary
+Date:     Fri Jun 27, 2014 -> Tue Jul 22, 2014 [16 days]
+Price:    ₹804.25 -> ₹844.13 [5.0%]
+Value:    ₹60271.62 -> ₹63260.13 [₹2988.51]
+
+KOTAKBANK     Trade summary
+Date:     Thu Jul 17, 2014 -> Mon Jul 28, 2014 [7 days]
+Price:    ₹115.67 -> ₹113.65 [-1.7%]
+Value:    ₹57214.19 -> ₹56216.1 [₹-998.09]
+
+WIPRO     Trade summary
+Date:     Wed Jun 11, 2014 -> Tue Jul 29, 2014 [33 days]
+Price:    ₹77.0 -> ₹82.92 [7.7%]
+Value:    ₹58404.28 -> ₹62895.82 [₹4491.54]
+
+RELIANCE     Trade summary
+Date:     Fri Jul 25, 2014 -> Wed Jul 30, 2014 [3 days]
+Price:    ₹283.24 -> ₹283.33 [0.0%]
+Value:    ₹63227.5 -> ₹63247.25 [₹19.74]
+
+AXISBANK     Trade summary
+Date:     Tue Jul 08, 2014 -> Thu Jul 31, 2014 [17 days]
+Price:    ₹159.0 -> ₹146.36 [-7.9%]
+Value:    ₹53937.37 -> ₹49649.68 [₹-4287.68]
+
+HCLTECH     Trade summary
+Date:     Thu Jul 10, 2014 -> Thu Jul 31, 2014 [15 days]
+Price:    ₹162.09 -> ₹158.21 [-2.4%]
+Value:    ₹58809.97 -> ₹57401.86 [₹-1408.11]
+
+MM        Trade summary
+Date:     Wed Jul 30, 2014 -> Thu Jul 31, 2014 [1 days]
+Price:    ₹404.61 -> ₹392.54 [-3.0%]
+Value:    ₹63214.62 -> ₹61328.52 [₹-1886.1]
+
+TECHM     Trade summary
+Date:     Mon Jul 28, 2014 -> Thu Jul 31, 2014 [3 days]
+Price:    ₹145.51 -> ₹141.56 [-2.7%]
+Value:    ₹56186.99 -> ₹54660.72 [₹-1526.27]
+
+GRASIM     Trade summary
+Date:     Thu Jul 31, 2014 -> Tue Aug 05, 2014 [3 days]
+Price:    ₹69.95 -> ₹69.76 [-0.3%]
+Value:    ₹54632.39 -> ₹54480.13 [₹-152.26]
+
+SUNPHARMA     Trade summary
+Date:     Tue Aug 05, 2014 -> Thu Aug 07, 2014 [2 days]
+Price:    ₹85.98 -> ₹85.23 [-0.9%]
+Value:    ₹54451.89 -> ₹53975.05 [₹-476.85]
+
+HDFCBANK     Trade summary
+Date:     Thu Aug 07, 2014 -> Mon Aug 25, 2014 [12 days]
+Price:    ₹371.26 -> ₹399.93 [7.7%]
+Value:    ₹53947.06 -> ₹58113.74 [₹4166.68]
+
+TATAMOTORS     Trade summary
+Date:     Wed Sep 03, 2014 -> Tue Sep 09, 2014 [4 days]
+Price:    ₹877.73 -> ₹848.09 [-3.4%]
+Value:    ₹58083.68 -> ₹56122.34 [₹-1961.34]
+
+BRITANNIA     Trade summary
+Date:     Thu Jul 31, 2014 -> Fri Sep 12, 2014 [30 days]
+Price:    ₹404.26 -> ₹383.84 [-5.1%]
+Value:    ₹61296.86 -> ₹58200.33 [₹-3096.52]
+
+MARUTI     Trade summary
+Date:     Thu Jul 31, 2014 -> Fri Sep 12, 2014 [30 days]
+Price:    ₹216.96 -> ₹209.52 [-3.4%]
+Value:    ₹49623.86 -> ₹47922.5 [₹-1701.36]
+
+CIPLA     Trade summary
+Date:     Thu Jul 31, 2014 -> Mon Sep 15, 2014 [31 days]
+Price:    ₹166.37 -> ₹164.32 [-1.2%]
+Value:    ₹57372.16 -> ₹56664.15 [₹-708.01]
+
+UPL       Trade summary
+Date:     Tue Jul 29, 2014 -> Tue Sep 16, 2014 [34 days]
+Price:    ₹179.78 -> ₹184.38 [2.6%]
+Value:    ₹62863.37 -> ₹64471.9 [₹1608.53]
+
+ZEEL      Trade summary
+Date:     Fri Sep 12, 2014 -> Thu Sep 18, 2014 [4 days]
+Price:    ₹365.53 -> ₹356.3 [-2.5%]
+Value:    ₹47897.54 -> ₹46687.74 [₹-1209.8]
+
+SUNPHARMA     Trade summary
+Date:     Tue Sep 09, 2014 -> Mon Sep 22, 2014 [9 days]
+Price:    ₹86.77 -> ₹84.35 [-2.8%]
+Value:    ₹56093.28 -> ₹54526.74 [₹-1566.55]
+
+DRREDDY     Trade summary
+Date:     Fri Sep 12, 2014 -> Thu Sep 25, 2014 [9 days]
+Price:    ₹452.87 -> ₹445.88 [-1.5%]
+Value:    ₹58170.23 -> ₹57272.85 [₹-897.39]
+
+INDUSINDBK     Trade summary
+Date:     Tue Sep 16, 2014 -> Thu Sep 25, 2014 [7 days]
+Price:    ₹908.21 -> ₹887.6 [-2.3%]
+Value:    ₹64438.67 -> ₹62976.09 [₹-1462.58]
+
+COALINDIA     Trade summary
+Date:     Thu Sep 25, 2014 -> Wed Oct 01, 2014 [4 days]
+Price:    ₹1779.83 -> ₹1698.64 [-4.6%]
+Value:    ₹57243.21 -> ₹54631.98 [₹-2611.23]
+
+ICICIBANK     Trade summary
+Date:     Thu Sep 25, 2014 -> Wed Oct 01, 2014 [4 days]
+Price:    ₹335.72 -> ₹335.5 [-0.1%]
+Value:    ₹62943.6 -> ₹62902.77 [₹-40.83]
+
+SHREECEM     Trade summary
+Date:     Mon Sep 15, 2014 -> Wed Oct 01, 2014 [12 days]
+Price:    ₹193.59 -> ₹191.82 [-0.9%]
+Value:    ₹56634.82 -> ₹56117.95 [₹-516.87]
+
+IOC       Trade summary
+Date:     Mon Sep 22, 2014 -> Tue Oct 07, 2014 [11 days]
+Price:    ₹199.42 -> ₹184.99 [-7.2%]
+Value:    ₹54498.47 -> ₹50555.06 [₹-3943.41]
+
+ADANIPORTS     Trade summary
+Date:     Wed Oct 01, 2014 -> Tue Oct 07, 2014 [4 days]
+Price:    ₹251.09 -> ₹241.28 [-3.9%]
+Value:    ₹56088.89 -> ₹53898.49 [₹-2190.4]
+
+HDFCBANK     Trade summary
+Date:     Tue Oct 07, 2014 -> Thu Oct 09, 2014 [2 days]
+Price:    ₹367.9 -> ₹361.62 [-1.7%]
+Value:    ₹53870.54 -> ₹52950.42 [₹-920.12]
+
+UPL       Trade summary
+Date:     Thu Oct 09, 2014 -> Fri Oct 10, 2014 [1 days]
+Price:    ₹176.21 -> ₹170.98 [-3.0%]
+Value:    ₹52922.95 -> ₹51352.73 [₹-1570.21]
+
+ASIANPAINT     Trade summary
+Date:     Wed Oct 01, 2014 -> Fri Oct 10, 2014 [7 days]
+Price:    ₹99.03 -> ₹89.06 [-10.1%]
+Value:    ₹54603.67 -> ₹49106.61 [₹-5497.06]
+
+GRASIM     Trade summary
+Date:     Thu Sep 18, 2014 -> Fri Oct 10, 2014 [16 days]
+Price:    ₹70.34 -> ₹64.92 [-7.7%]
+Value:    ₹46663.39 -> ₹43070.75 [₹-3592.65]
+
+BAJFINANCE     Trade summary
+Date:     Tue Oct 07, 2014 -> Mon Oct 13, 2014 [4 days]
+Price:    ₹178.5 -> ₹173.62 [-2.7%]
+Value:    ₹50528.78 -> ₹49147.6 [₹-1381.18]
+
+ICICIBANK     Trade summary
+Date:     Fri Oct 10, 2014 -> Wed Oct 22, 2014 [8 days]
+Price:    ₹331.99 -> ₹352.16 [6.1%]
+Value:    ₹49081.06 -> ₹52063.61 [₹2982.55]
+
+JSWSTEEL     Trade summary
+Date:     Wed Oct 01, 2014 -> Thu Oct 23, 2014 [16 days]
+Price:    ₹477.56 -> ₹523.47 [9.6%]
+Value:    ₹62870.32 -> ₹68914.52 [₹6044.2]
+
+WIPRO     Trade summary
+Date:     Mon Oct 13, 2014 -> Tue Oct 28, 2014 [11 days]
+Price:    ₹84.76 -> ₹91.77 [8.3%]
+Value:    ₹49122.02 -> ₹53183.14 [₹4061.11]
+
+POWERGRID     Trade summary
+Date:     Fri Oct 10, 2014 -> Thu Nov 20, 2014 [29 days]
+Price:    ₹240.78 -> ₹254.4 [5.7%]
+Value:    ₹43048.21 -> ₹45483.22 [₹2435.01]
+
+INDUSINDBK     Trade summary
+Date:     Fri Nov 28, 2014 -> Mon Dec 01, 2014 [1 days]
+Price:    ₹625.75 -> ₹610.47 [-2.4%]
+Value:    ₹51741.69 -> ₹50478.0 [₹-1263.68]
+
+MARUTI     Trade summary
+Date:     Fri Nov 28, 2014 -> Mon Dec 01, 2014 [1 days]
+Price:    ₹180.62 -> ₹185.99 [3.0%]
+Value:    ₹51740.69 -> ₹53278.91 [₹1538.22]
+
+ITC       Trade summary
+Date:     Fri Nov 14, 2014 -> Wed Dec 03, 2014 [12 days]
+Price:    ₹393.74 -> ₹444.84 [13.0%]
+Value:    ₹58024.4 -> ₹65555.4 [₹7531.01]
+
+TITAN     Trade summary
+Date:     Fri Oct 10, 2014 -> Fri Dec 05, 2014 [39 days]
+Price:    ₹120.2 -> ₹125.37 [4.3%]
+Value:    ₹51326.06 -> ₹53533.64 [₹2207.59]
+
+HEROMOTOCO     Trade summary
+Date:     Mon Dec 01, 2014 -> Fri Dec 05, 2014 [4 days]
+Price:    ₹42.22 -> ₹45.79 [8.5%]
+Value:    ₹53251.27 -> ₹57752.54 [₹4501.27]
+
+TATASTEEL     Trade summary
+Date:     Wed Dec 03, 2014 -> Tue Dec 09, 2014 [4 days]
+Price:    ₹227.83 -> ₹219.64 [-3.6%]
+Value:    ₹65521.62 -> ₹63165.19 [₹-2356.43]
+
+MARUTI     Trade summary
+Date:     Mon Dec 08, 2014 -> Wed Dec 10, 2014 [2 days]
+Price:    ₹180.14 -> ₹176.0 [-2.3%]
+Value:    ₹55613.77 -> ₹54335.64 [₹-1278.13]
+
+TECHM     Trade summary
+Date:     Mon Dec 08, 2014 -> Wed Dec 10, 2014 [2 days]
+Price:    ₹135.71 -> ₹133.22 [-1.8%]
+Value:    ₹55614.77 -> ₹54595.23 [₹-1019.54]
+
+COALINDIA     Trade summary
+Date:     Mon Dec 01, 2014 -> Wed Dec 10, 2014 [7 days]
+Price:    ₹1643.27 -> ₹1627.84 [-0.9%]
+Value:    ₹50451.77 -> ₹49978.0 [₹-473.77]
+
+SUNPHARMA     Trade summary
+Date:     Wed Dec 10, 2014 -> Fri Dec 12, 2014 [2 days]
+Price:    ₹90.38 -> ₹86.54 [-4.2%]
+Value:    ₹54566.93 -> ₹52251.33 [₹-2315.61]
+
+BAJAJFINSV     Trade summary
+Date:     Wed Dec 10, 2014 -> Fri Dec 12, 2014 [2 days]
+Price:    ₹136.15 -> ₹133.01 [-2.3%]
+Value:    ₹49952.01 -> ₹48800.68 [₹-1151.33]
+
+JSWSTEEL     Trade summary
+Date:     Wed Nov 19, 2014 -> Fri Dec 12, 2014 [16 days]
+Price:    ₹509.25 -> ₹483.1 [-5.1%]
+Value:    ₹58023.9 -> ₹55043.88 [₹-2980.01]
+
+SHREECEM     Trade summary
+Date:     Fri Dec 12, 2014 -> Mon Dec 15, 2014 [1 days]
+Price:    ₹206.53 -> ₹201.11 [-2.6%]
+Value:    ₹48775.28 -> ₹47494.52 [₹-1280.76]
+
+WIPRO     Trade summary
+Date:     Tue Dec 09, 2014 -> Mon Dec 15, 2014 [4 days]
+Price:    ₹86.93 -> ₹83.67 [-3.8%]
+Value:    ₹63132.61 -> ₹60762.64 [₹-2369.97]
+
+TITAN     Trade summary
+Date:     Fri Dec 12, 2014 -> Mon Dec 15, 2014 [1 days]
+Price:    ₹118.84 -> ₹119.1 [0.2%]
+Value:    ₹55015.36 -> ₹55136.01 [₹120.65]
+
+UPL       Trade summary
+Date:     Wed Dec 10, 2014 -> Mon Dec 15, 2014 [3 days]
+Price:    ₹201.97 -> ₹197.65 [-2.1%]
+Value:    ₹54307.47 -> ₹53145.63 [₹-1161.85]
+
+ADANIPORTS     Trade summary
+Date:     Fri Dec 12, 2014 -> Mon Jan 05, 2015 [14 days]
+Price:    ₹254.86 -> ₹251.68 [-1.2%]
+Value:    ₹52224.2 -> ₹51573.11 [₹-651.09]
+
+BPCL      Trade summary
+Date:     Mon Jan 05, 2015 -> Mon Jan 12, 2015 [5 days]
+Price:    ₹137.51 -> ₹137.29 [-0.2%]
+Value:    ₹51546.32 -> ₹51464.33 [₹-81.99]
+
+DRREDDY     Trade summary
+Date:     Mon Dec 15, 2014 -> Mon Jan 26, 2015 [27 days]
+Price:    ₹481.09 -> ₹508.82 [5.8%]
+Value:    ₹60731.26 -> ₹64231.75 [₹3500.49]
+
+TATASTEEL     Trade summary
+Date:     Mon Jan 26, 2015 -> Thu Jan 29, 2015 [3 days]
+Price:    ₹219.76 -> ₹218.82 [-0.4%]
+Value:    ₹64198.63 -> ₹63924.08 [₹-274.55]
+
+TCS       Trade summary
+Date:     Mon Dec 15, 2014 -> Fri Jan 30, 2015 [31 days]
+Price:    ₹156.91 -> ₹153.28 [-2.3%]
+Value:    ₹55107.44 -> ₹53833.11 [₹-1274.33]
+
+IOC       Trade summary
+Date:     Mon Dec 15, 2014 -> Tue Feb 03, 2015 [33 days]
+Price:    ₹212.88 -> ₹234.53 [10.2%]
+Value:    ₹53118.05 -> ₹58521.18 [₹5403.13]
+
+ASIANPAINT     Trade summary
+Date:     Thu Jan 29, 2015 -> Fri Feb 06, 2015 [6 days]
+Price:    ₹117.44 -> ₹115.14 [-2.0%]
+Value:    ₹63891.12 -> ₹62640.54 [₹-1250.57]
+
+BAJAJAUTO     Trade summary
+Date:     Mon Jan 12, 2015 -> Mon Feb 09, 2015 [19 days]
+Price:    ₹145.03 -> ₹141.49 [-2.4%]
+Value:    ₹51437.6 -> ₹50181.22 [₹-1256.39]
+
+BAJFINANCE     Trade summary
+Date:     Mon Dec 15, 2014 -> Fri Feb 13, 2015 [41 days]
+Price:    ₹192.98 -> ₹203.71 [5.6%]
+Value:    ₹47469.77 -> ₹50110.09 [₹2640.32]
+
+KOTAKBANK     Trade summary
+Date:     Fri Feb 13, 2015 -> Wed Feb 18, 2015 [2 days]
+Price:    ₹94.91 -> ₹97.12 [2.3%]
+Value:    ₹50084.04 -> ₹51251.64 [₹1167.61]
+
+HCLTECH     Trade summary
+Date:     Fri Jan 30, 2015 -> Tue Feb 24, 2015 [16 days]
+Price:    ₹189.97 -> ₹204.05 [7.4%]
+Value:    ₹53805.19 -> ₹57791.57 [₹3986.37]
+
+WIPRO     Trade summary
+Date:     Wed Feb 18, 2015 -> Wed Mar 04, 2015 [10 days]
+Price:    ₹81.9 -> ₹79.73 [-2.7%]
+Value:    ₹51225.02 -> ₹49867.21 [₹-1357.81]
+
+GAIL      Trade summary
+Date:     Mon Feb 09, 2015 -> Fri Mar 06, 2015 [18 days]
+Price:    ₹310.92 -> ₹283.43 [-8.8%]
+Value:    ₹50155.13 -> ₹45721.34 [₹-4433.79]
+
+NESTLEIND     Trade summary
+Date:     Mon Mar 02, 2015 -> Fri Mar 06, 2015 [4 days]
+Price:    ₹468.43 -> ₹451.66 [-3.6%]
+Value:    ₹57761.67 -> ₹55693.29 [₹-2068.38]
+
+BAJAJAUTO     Trade summary
+Date:     Wed Mar 04, 2015 -> Fri Mar 06, 2015 [2 days]
+Price:    ₹139.15 -> ₹138.25 [-0.6%]
+Value:    ₹49841.27 -> ₹49519.07 [₹-322.2]
+
+TCS       Trade summary
+Date:     Fri Mar 06, 2015 -> Tue Mar 10, 2015 [2 days]
+Price:    ₹160.94 -> ₹159.95 [-0.6%]
+Value:    ₹49493.31 -> ₹49188.73 [₹-304.58]
+
+SBIN      Trade summary
+Date:     Fri Feb 06, 2015 -> Tue Mar 10, 2015 [21 days]
+Price:    ₹192.01 -> ₹181.86 [-5.3%]
+Value:    ₹58490.92 -> ₹55400.15 [₹-3090.77]
+
+ONGC      Trade summary
+Date:     Fri Feb 06, 2015 -> Wed Mar 11, 2015 [22 days]
+Price:    ₹267.2 -> ₹266.74 [-0.2%]
+Value:    ₹62608.22 -> ₹62499.61 [₹-108.61]
+
+HDFCBANK     Trade summary
+Date:     Tue Mar 10, 2015 -> Fri Mar 13, 2015 [3 days]
+Price:    ₹400.66 -> ₹405.87 [1.3%]
+Value:    ₹49163.13 -> ₹49802.4 [₹639.27]
+
+ZEEL      Trade summary
+Date:     Fri Mar 06, 2015 -> Wed Mar 18, 2015 [8 days]
+Price:    ₹442.69 -> ₹474.39 [7.2%]
+Value:    ₹55664.45 -> ₹59650.28 [₹3985.83]
+
+ULTRACEMO     Trade summary
+Date:     Fri Mar 13, 2015 -> Wed Mar 18, 2015 [3 days]
+Price:    ₹354.13 -> ₹375.65 [6.1%]
+Value:    ₹49776.5 -> ₹52801.8 [₹3025.3]
+
+ADANIPORTS     Trade summary
+Date:     Tue Mar 24, 2015 -> Wed Mar 25, 2015 [1 days]
+Price:    ₹227.36 -> ₹225.25 [-0.9%]
+Value:    ₹56196.43 -> ₹55674.01 [₹-522.42]
+
+HDFC      Trade summary
+Date:     Tue Mar 24, 2015 -> Wed Mar 25, 2015 [1 days]
+Price:    ₹430.43 -> ₹425.74 [-1.1%]
+Value:    ₹56197.43 -> ₹55585.73 [₹-611.7]
+
+CIPLA     Trade summary
+Date:     Tue Mar 10, 2015 -> Thu Apr 02, 2015 [17 days]
+Price:    ₹173.84 -> ₹176.37 [1.5%]
+Value:    ₹55371.45 -> ₹56178.31 [₹806.86]
+
+ICICIBANK     Trade summary
+Date:     Fri Mar 06, 2015 -> Fri Apr 10, 2015 [24 days]
+Price:    ₹427.73 -> ₹430.89 [0.7%]
+Value:    ₹45697.48 -> ₹46034.68 [₹337.2]
+
+HCLTECH     Trade summary
+Date:     Thu Apr 02, 2015 -> Fri Apr 17, 2015 [10 days]
+Price:    ₹188.49 -> ₹189.95 [0.8%]
+Value:    ₹56149.22 -> ₹56582.88 [₹433.66]
+
+ASIANPAINT     Trade summary
+Date:     Wed Mar 25, 2015 -> Fri Apr 17, 2015 [16 days]
+Price:    ₹111.54 -> ₹117.38 [5.2%]
+Value:    ₹55556.94 -> ₹58468.01 [₹2911.08]
+
+GRASIM     Trade summary
+Date:     Wed Mar 25, 2015 -> Fri Apr 24, 2015 [21 days]
+Price:    ₹81.1 -> ₹83.77 [3.3%]
+Value:    ₹55645.18 -> ₹57476.77 [₹1831.59]
+
+ITC       Trade summary
+Date:     Fri Apr 24, 2015 -> Wed Apr 29, 2015 [3 days]
+Price:    ₹516.44 -> ₹490.12 [-5.1%]
+Value:    ₹57447.03 -> ₹54519.48 [₹-2927.55]
+
+BAJAJFINSV     Trade summary
+Date:     Fri Apr 17, 2015 -> Thu Apr 30, 2015 [9 days]
+Price:    ₹165.64 -> ₹172.99 [4.4%]
+Value:    ₹56553.59 -> ₹59062.07 [₹2508.48]
+
+BHARTIARTL     Trade summary
+Date:     Wed Mar 11, 2015 -> Thu May 14, 2015 [45 days]
+Price:    ₹663.43 -> ₹669.78 [1.0%]
+Value:    ₹62467.36 -> ₹63065.12 [₹597.76]
+
+JSWSTEEL     Trade summary
+Date:     Fri Apr 17, 2015 -> Mon May 18, 2015 [21 days]
+Price:    ₹577.72 -> ₹629.92 [9.0%]
+Value:    ₹58437.78 -> ₹63718.08 [₹5280.3]
+
+MARUTI     Trade summary
+Date:     Wed May 20, 2015 -> Thu May 28, 2015 [5 days]
+Price:    ₹174.06 -> ₹172.31 [-1.0%]
+Value:    ₹63358.4 -> ₹62722.48 [₹-635.92]
+
+COALINDIA     Trade summary
+Date:     Thu May 28, 2015 -> Fri May 29, 2015 [1 days]
+Price:    ₹1457.43 -> ₹1353.46 [-7.1%]
+Value:    ₹62690.12 -> ₹58218.01 [₹-4472.12]
+
+INFRATEL     Trade summary
+Date:     Wed May 20, 2015 -> Mon Jun 01, 2015 [7 days]
+Price:    ₹62.23 -> ₹63.51 [2.1%]
+Value:    ₹63359.4 -> ₹64661.49 [₹1302.09]
+
+ZEEL      Trade summary
+Date:     Fri Apr 10, 2015 -> Thu Jun 04, 2015 [38 days]
+Price:    ₹442.32 -> ₹423.94 [-4.2%]
+Value:    ₹46010.66 -> ₹44098.65 [₹-1912.01]
+
+TITAN     Trade summary
+Date:     Wed Apr 29, 2015 -> Wed Jun 10, 2015 [29 days]
+Price:    ₹133.99 -> ₹139.1 [3.8%]
+Value:    ₹54491.22 -> ₹56570.65 [₹2079.42]
+
+EICHERMOT     Trade summary
+Date:     Fri Jun 12, 2015 -> Mon Jun 15, 2015 [1 days]
+Price:    ₹76.52 -> ₹75.67 [-1.1%]
+Value:    ₹56541.36 -> ₹55914.58 [₹-626.79]
+
+ITC       Trade summary
+Date:     Thu Apr 30, 2015 -> Fri Jun 19, 2015 [35 days]
+Price:    ₹478.5 -> ₹520.27 [8.7%]
+Value:    ₹59031.54 -> ₹64184.73 [₹5153.19]
+
+COALINDIA     Trade summary
+Date:     Mon Jun 01, 2015 -> Mon Jun 29, 2015 [20 days]
+Price:    ₹1383.65 -> ₹1315.82 [-4.9%]
+Value:    ₹64628.16 -> ₹61459.86 [₹-3168.3]
+
+NTPC      Trade summary
+Date:     Fri May 29, 2015 -> Mon Jun 29, 2015 [21 days]
+Price:    ₹190.76 -> ₹182.69 [-4.2%]
+Value:    ₹58187.9 -> ₹55727.65 [₹-2460.24]
+
+TATAMOTORS     Trade summary
+Date:     Fri Jun 19, 2015 -> Mon Jun 29, 2015 [6 days]
+Price:    ₹846.36 -> ₹812.95 [-3.9%]
+Value:    ₹64151.64 -> ₹61619.04 [₹-2532.6]
+
+SUNPHARMA     Trade summary
+Date:     Mon Jun 15, 2015 -> Mon Jun 29, 2015 [10 days]
+Price:    ₹104.1 -> ₹98.78 [-5.1%]
+Value:    ₹55885.62 -> ₹53028.57 [₹-2857.05]
+
+BAJAJFINSV     Trade summary
+Date:     Mon Jun 29, 2015 -> Mon Jul 06, 2015 [4 days]
+Price:    ₹176.11 -> ₹179.24 [1.8%]
+Value:    ₹61587.23 -> ₹62682.53 [₹1095.3]
+
+VEDL      Trade summary
+Date:     Mon Jul 06, 2015 -> Tue Jul 07, 2015 [1 days]
+Price:    ₹185.19 -> ₹181.87 [-1.8%]
+Value:    ₹62650.19 -> ₹61526.18 [₹-1124.01]
+
+ULTRACEMO     Trade summary
+Date:     Tue Jul 07, 2015 -> Wed Jul 08, 2015 [1 days]
+Price:    ₹398.88 -> ₹367.83 [-7.8%]
+Value:    ₹61494.42 -> ₹56707.6 [₹-4786.81]
+
+INDUSINDBK     Trade summary
+Date:     Thu Jun 04, 2015 -> Wed Jul 08, 2015 [23 days]
+Price:    ₹783.75 -> ₹724.85 [-7.5%]
+Value:    ₹44075.6 -> ₹40763.16 [₹-3312.44]
+
+RELIANCE     Trade summary
+Date:     Mon Jun 29, 2015 -> Thu Jul 16, 2015 [12 days]
+Price:    ₹321.4 -> ₹338.1 [5.2%]
+Value:    ₹61428.13 -> ₹64619.82 [₹3191.69]
+
+BHARTIARTL     Trade summary
+Date:     Thu Jul 16, 2015 -> Tue Jul 21, 2015 [3 days]
+Price:    ₹598.04 -> ₹614.36 [2.7%]
+Value:    ₹64586.51 -> ₹66349.15 [₹1762.64]
+
+MM        Trade summary
+Date:     Tue Jul 21, 2015 -> Thu Jul 23, 2015 [2 days]
+Price:    ₹417.06 -> ₹414.31 [-0.7%]
+Value:    ₹66314.97 -> ₹65877.95 [₹-437.02]
+
+SHREECEM     Trade summary
+Date:     Thu Jul 23, 2015 -> Fri Jul 24, 2015 [1 days]
+Price:    ₹204.11 -> ₹202.99 [-0.5%]
+Value:    ₹65844.01 -> ₹65482.07 [₹-361.94]
+
+AXISBANK     Trade summary
+Date:     Mon Jun 29, 2015 -> Tue Jul 28, 2015 [20 days]
+Price:    ₹176.73 -> ₹185.6 [5.0%]
+Value:    ₹53001.06 -> ₹55661.68 [₹2660.63]
+
+IOC       Trade summary
+Date:     Wed Jul 08, 2015 -> Wed Aug 12, 2015 [25 days]
+Price:    ₹262.17 -> ₹250.11 [-4.6%]
+Value:    ₹56678.25 -> ₹54070.8 [₹-2607.45]
+
+INDUSINDBK     Trade summary
+Date:     Fri Jul 24, 2015 -> Wed Aug 19, 2015 [18 days]
+Price:    ₹691.41 -> ₹651.73 [-5.7%]
+Value:    ₹65448.33 -> ₹61692.65 [₹-3755.68]
+
+HEROMOTOCO     Trade summary
+Date:     Mon Jun 29, 2015 -> Thu Aug 20, 2015 [37 days]
+Price:    ₹62.7 -> ₹58.81 [-6.2%]
+Value:    ₹55698.79 -> ₹52242.04 [₹-3456.75]
+
+SHREECEM     Trade summary
+Date:     Tue Jul 28, 2015 -> Thu Aug 20, 2015 [17 days]
+Price:    ₹200.09 -> ₹206.64 [3.3%]
+Value:    ₹55632.85 -> ₹57454.01 [₹1821.16]
+
+VEDL      Trade summary
+Date:     Wed Aug 19, 2015 -> Fri Aug 21, 2015 [2 days]
+Price:    ₹183.86 -> ₹173.96 [-5.4%]
+Value:    ₹61660.8 -> ₹58340.06 [₹-3320.74]
+
+CIPLA     Trade summary
+Date:     Wed Aug 12, 2015 -> Fri Aug 21, 2015 [7 days]
+Price:    ₹187.04 -> ₹178.07 [-4.8%]
+Value:    ₹54042.76 -> ₹51450.04 [₹-2592.72]
+
+GRASIM     Trade summary
+Date:     Fri Aug 21, 2015 -> Mon Aug 24, 2015 [1 days]
+Price:    ₹85.25 -> ₹80.14 [-6.0%]
+Value:    ₹51423.32 -> ₹48339.46 [₹-3083.86]
+
+LT        Trade summary
+Date:     Wed Jul 08, 2015 -> Mon Aug 24, 2015 [33 days]
+Price:    ₹119.26 -> ₹109.74 [-8.0%]
+Value:    ₹40741.78 -> ₹37489.67 [₹-3252.11]
+
+TITAN     Trade summary
+Date:     Mon Aug 24, 2015 -> Tue Aug 25, 2015 [1 days]
+Price:    ₹135.99 -> ₹134.18 [-1.3%]
+Value:    ₹37469.92 -> ₹36971.76 [₹-498.16]
+
+HDFC      Trade summary
+Date:     Thu Aug 20, 2015 -> Thu Sep 17, 2015 [19 days]
+Price:    ₹456.52 -> ₹460.64 [0.9%]
+Value:    ₹52214.92 -> ₹52686.36 [₹471.44]
+
+IOC       Trade summary
+Date:     Tue Sep 22, 2015 -> Wed Sep 23, 2015 [1 days]
+Price:    ₹222.01 -> ₹218.2 [-1.7%]
+Value:    ₹52659.02 -> ₹51755.1 [₹-903.92]
+
+HCLTECH     Trade summary
+Date:     Thu Aug 20, 2015 -> Mon Sep 28, 2015 [26 days]
+Price:    ₹198.42 -> ₹178.64 [-10.0%]
+Value:    ₹57424.28 -> ₹51700.02 [₹-5724.27]
+
+INFRATEL     Trade summary
+Date:     Mon Sep 28, 2015 -> Tue Sep 29, 2015 [1 days]
+Price:    ₹59.79 -> ₹59.45 [-0.6%]
+Value:    ₹51673.17 -> ₹51379.43 [₹-293.74]
+
+TATAMOTORS     Trade summary
+Date:     Tue Sep 29, 2015 -> Mon Oct 12, 2015 [9 days]
+Price:    ₹862.81 -> ₹981.69 [13.8%]
+Value:    ₹51352.74 -> ₹58428.16 [₹7075.42]
+
+RELIANCE     Trade summary
+Date:     Fri Aug 21, 2015 -> Fri Oct 23, 2015 [44 days]
+Price:    ₹329.4 -> ₹328.55 [-0.3%]
+Value:    ₹58309.89 -> ₹58158.61 [₹-151.28]
+
+BAJFINANCE     Trade summary
+Date:     Mon Aug 24, 2015 -> Fri Oct 23, 2015 [43 days]
+Price:    ₹215.81 -> ₹235.82 [9.3%]
+Value:    ₹48314.29 -> ₹52794.54 [₹4480.25]
+
+BAJAJFINSV     Trade summary
+Date:     Tue Aug 25, 2015 -> Thu Nov 05, 2015 [51 days]
+Price:    ₹180.59 -> ₹216.73 [20.0%]
+Value:    ₹36952.28 -> ₹44347.17 [₹7394.9]
+
+EICHERMOT     Trade summary
+Date:     Fri Nov 06, 2015 -> Thu Nov 12, 2015 [4 days]
+Price:    ₹68.62 -> ₹71.23 [3.8%]
+Value:    ₹50376.68 -> ₹52289.52 [₹1912.83]
+
+ADANIPORTS     Trade summary
+Date:     Thu Nov 12, 2015 -> Fri Nov 13, 2015 [1 days]
+Price:    ₹195.82 -> ₹192.41 [-1.7%]
+Value:    ₹52262.37 -> ₹51352.84 [₹-909.53]
+
+NESTLEIND     Trade summary
+Date:     Wed Oct 28, 2015 -> Fri Nov 20, 2015 [17 days]
+Price:    ₹402.9 -> ₹386.45 [-4.1%]
+Value:    ₹56431.87 -> ₹54127.63 [₹-2304.24]
+
+TITAN     Trade summary
+Date:     Wed Sep 23, 2015 -> Tue Dec 01, 2015 [48 days]
+Price:    ₹136.1 -> ₹149.25 [9.7%]
+Value:    ₹51728.22 -> ₹56727.03 [₹4998.81]
+
+INFY      Trade summary
+Date:     Fri Nov 13, 2015 -> Mon Dec 07, 2015 [15 days]
+Price:    ₹113.78 -> ₹115.3 [1.3%]
+Value:    ₹51326.16 -> ₹52013.27 [₹687.11]
+
+BRITANNIA     Trade summary
+Date:     Mon Dec 07, 2015 -> Wed Dec 09, 2015 [2 days]
+Price:    ₹287.33 -> ₹282.21 [-1.8%]
+Value:    ₹51986.26 -> ₹51059.27 [₹-926.99]
+
+INFRATEL     Trade summary
+Date:     Fri Nov 20, 2015 -> Wed Dec 09, 2015 [12 days]
+Price:    ₹62.21 -> ₹61.48 [-1.2%]
+Value:    ₹54099.57 -> ₹53463.8 [₹-635.77]
+
+GAIL      Trade summary
+Date:     Thu Oct 29, 2015 -> Thu Dec 10, 2015 [29 days]
+Price:    ₹291.78 -> ₹280.52 [-3.9%]
+Value:    ₹56431.37 -> ₹54254.42 [₹-2176.95]
+
+ADANIPORTS     Trade summary
+Date:     Wed Dec 09, 2015 -> Fri Dec 11, 2015 [2 days]
+Price:    ₹186.91 -> ₹182.46 [-2.4%]
+Value:    ₹53436.07 -> ₹52162.9 [₹-1273.17]
+
+GRASIM     Trade summary
+Date:     Thu Dec 03, 2015 -> Wed Dec 16, 2015 [9 days]
+Price:    ₹100.29 -> ₹107.4 [7.1%]
+Value:    ₹56697.67 -> ₹60717.15 [₹4019.48]
+
+SHREECEM     Trade summary
+Date:     Thu Dec 10, 2015 -> Mon Dec 21, 2015 [7 days]
+Price:    ₹223.35 -> ₹236.14 [5.7%]
+Value:    ₹54226.3 -> ₹57331.11 [₹3104.82]
+
+BRITANNIA     Trade summary
+Date:     Mon Dec 21, 2015 -> Tue Dec 22, 2015 [1 days]
+Price:    ₹233.79 -> ₹231.43 [-1.0%]
+Value:    ₹57301.45 -> ₹56723.79 [₹-577.66]
+
+ADANIPORTS     Trade summary
+Date:     Tue Dec 22, 2015 -> Mon Jan 04, 2016 [7 days]
+Price:    ₹164.88 -> ₹162.57 [-1.4%]
+Value:    ₹56694.42 -> ₹55899.31 [₹-795.11]
+
+BAJAJFINSV     Trade summary
+Date:     Wed Dec 09, 2015 -> Mon Jan 04, 2016 [16 days]
+Price:    ₹205.86 -> ₹198.03 [-3.8%]
+Value:    ₹51032.74 -> ₹49090.99 [₹-1941.75]
+
+GAIL      Trade summary
+Date:     Fri Dec 11, 2015 -> Mon Jan 04, 2016 [14 days]
+Price:    ₹279.43 -> ₹290.07 [3.8%]
+Value:    ₹52135.82 -> ₹54121.09 [₹1985.27]
+
+INFRATEL     Trade summary
+Date:     Mon Jan 04, 2016 -> Wed Jan 06, 2016 [2 days]
+Price:    ₹59.01 -> ₹57.73 [-2.2%]
+Value:    ₹54093.03 -> ₹52920.14 [₹-1172.89]
+
+LT        Trade summary
+Date:     Fri Dec 18, 2015 -> Thu Jan 07, 2016 [12 days]
+Price:    ₹125.75 -> ₹121.81 [-3.1%]
+Value:    ₹60685.79 -> ₹58783.05 [₹-1902.74]
+
+COALINDIA     Trade summary
+Date:     Thu Jan 07, 2016 -> Mon Jan 11, 2016 [2 days]
+Price:    ₹966.66 -> ₹945.11 [-2.2%]
+Value:    ₹58752.66 -> ₹57442.69 [₹-1309.97]
+
+ULTRACEMO     Trade summary
+Date:     Wed Jan 06, 2016 -> Wed Jan 20, 2016 [9 days]
+Price:    ₹448.13 -> ₹379.58 [-15.3%]
+Value:    ₹52892.68 -> ₹44801.35 [₹-8091.34]
+
+JSWSTEEL     Trade summary
+Date:     Mon Jan 04, 2016 -> Wed Jan 20, 2016 [11 days]
+Price:    ₹663.09 -> ₹578.2 [-12.8%]
+Value:    ₹49065.45 -> ₹42783.91 [₹-6281.54]
+
+HDFC      Trade summary
+Date:     Mon Jan 11, 2016 -> Wed Jan 20, 2016 [6 days]
+Price:    ₹468.76 -> ₹468.63 [-0.0%]
+Value:    ₹57412.97 -> ₹57396.52 [₹-16.44]
+
+ZEEL      Trade summary
+Date:     Wed Jan 20, 2016 -> Thu Jan 28, 2016 [6 days]
+Price:    ₹456.74 -> ₹452.37 [-1.0%]
+Value:    ₹57366.82 -> ₹56818.17 [₹-548.66]
+
+SBIN      Trade summary
+Date:     Fri Nov 06, 2015 -> Fri Jan 29, 2016 [56 days]
+Price:    ₹180.79 -> ₹199.86 [10.5%]
+Value:    ₹50377.68 -> ₹55691.49 [₹5313.81]
+
+TCS       Trade summary
+Date:     Mon Jan 04, 2016 -> Fri Jan 29, 2016 [18 days]
+Price:    ₹171.98 -> ₹181.24 [5.4%]
+Value:    ₹55870.36 -> ₹58880.0 [₹3009.64]
+
+ONGC      Trade summary
+Date:     Wed Jan 20, 2016 -> Mon Feb 01, 2016 [8 days]
+Price:    ₹275.34 -> ₹288.26 [4.7%]
+Value:    ₹42761.52 -> ₹44768.44 [₹2006.92]
+
+HDFCBANK     Trade summary
+Date:     Tue Feb 02, 2016 -> Wed Feb 03, 2016 [1 days]
+Price:    ₹245.61 -> ₹248.35 [1.1%]
+Value:    ₹50999.83 -> ₹51568.2 [₹568.37]
+
+ICICIBANK     Trade summary
+Date:     Wed Feb 03, 2016 -> Fri Feb 05, 2016 [2 days]
+Price:    ₹280.61 -> ₹284.16 [1.3%]
+Value:    ₹51541.42 -> ₹52193.43 [₹652.01]
+
+JSWSTEEL     Trade summary
+Date:     Fri Jan 29, 2016 -> Fri Feb 05, 2016 [5 days]
+Price:    ₹477.07 -> ₹404.26 [-15.3%]
+Value:    ₹57256.6 -> ₹48518.31 [₹-8738.29]
+
+ASIANPAINT     Trade summary
+Date:     Tue Feb 02, 2016 -> Fri Feb 05, 2016 [3 days]
+Price:    ₹106.73 -> ₹103.68 [-2.9%]
+Value:    ₹51000.83 -> ₹49541.84 [₹-1458.99]
+
+AXISBANK     Trade summary
+Date:     Fri Feb 05, 2016 -> Mon Feb 08, 2016 [1 days]
+Price:    ₹166.92 -> ₹159.36 [-4.5%]
+Value:    ₹49516.07 -> ₹47272.46 [₹-2243.61]
+
+HCLTECH     Trade summary
+Date:     Fri Feb 05, 2016 -> Mon Feb 08, 2016 [1 days]
+Price:    ₹188.77 -> ₹185.11 [-1.9%]
+Value:    ₹48493.05 -> ₹47551.74 [₹-941.31]
+
+GRASIM     Trade summary
+Date:     Thu Jan 28, 2016 -> Tue Feb 09, 2016 [8 days]
+Price:    ₹96.29 -> ₹83.72 [-13.1%]
+Value:    ₹56788.76 -> ₹49376.34 [₹-7412.42]
+
+IOC       Trade summary
+Date:     Mon Feb 08, 2016 -> Wed Feb 17, 2016 [6 days]
+Price:    ₹238.33 -> ₹258.06 [8.3%]
+Value:    ₹47247.83 -> ₹51159.4 [₹3911.57]
+
+DRREDDY     Trade summary
+Date:     Mon Feb 08, 2016 -> Tue Mar 01, 2016 [15 days]
+Price:    ₹413.05 -> ₹453.06 [9.7%]
+Value:    ₹47526.97 -> ₹52131.11 [₹4604.14]
+
+SHREECEM     Trade summary
+Date:     Wed Jan 20, 2016 -> Wed Mar 09, 2016 [34 days]
+Price:    ₹229.84 -> ₹273.13 [18.8%]
+Value:    ₹44777.95 -> ₹53210.68 [₹8432.73]
+
+NESTLEIND     Trade summary
+Date:     Tue Mar 22, 2016 -> Fri Apr 01, 2016 [7 days]
+Price:    ₹409.93 -> ₹429.1 [4.7%]
+Value:    ₹52140.14 -> ₹54577.78 [₹2437.64]
+
+CIPLA     Trade summary
+Date:     Tue Mar 29, 2016 -> Tue Apr 05, 2016 [5 days]
+Price:    ₹153.37 -> ₹150.97 [-1.6%]
+Value:    ₹52139.14 -> ₹51324.37 [₹-814.77]
+
+ITC       Trade summary
+Date:     Thu Mar 17, 2016 -> Wed Apr 06, 2016 [13 days]
+Price:    ₹310.54 -> ₹351.36 [13.1%]
+Value:    ₹52140.64 -> ₹58995.37 [₹6854.72]
+
+NTPC      Trade summary
+Date:     Mon Apr 04, 2016 -> Thu Apr 07, 2016 [3 days]
+Price:    ₹111.35 -> ₹107.66 [-3.3%]
+Value:    ₹54549.49 -> ₹52743.85 [₹-1805.64]
+
+LT        Trade summary
+Date:     Thu Apr 07, 2016 -> Thu Apr 14, 2016 [5 days]
+Price:    ₹122.81 -> ₹131.81 [7.3%]
+Value:    ₹58964.87 -> ₹63285.34 [₹4320.47]
+
+INDUSINDBK     Trade summary
+Date:     Thu Apr 07, 2016 -> Tue Apr 19, 2016 [8 days]
+Price:    ₹575.39 -> ₹626.78 [8.9%]
+Value:    ₹52716.48 -> ₹57425.01 [₹4708.53]
+
+HINDUNILVR     Trade summary
+Date:     Tue Feb 09, 2016 -> Thu Apr 21, 2016 [50 days]
+Price:    ₹328.3 -> ₹419.53 [27.8%]
+Value:    ₹49350.65 -> ₹63063.73 [₹13713.08]
+
+ADANIPORTS     Trade summary
+Date:     Fri Apr 15, 2016 -> Thu Apr 21, 2016 [4 days]
+Price:    ₹154.05 -> ₹148.83 [-3.4%]
+Value:    ₹63252.69 -> ₹61110.57 [₹-2142.13]
+
+ZEEL      Trade summary
+Date:     Fri Feb 05, 2016 -> Thu Apr 21, 2016 [52 days]
+Price:    ₹438.06 -> ₹418.29 [-4.5%]
+Value:    ₹52166.33 -> ₹49812.14 [₹-2354.19]
+
+BAJAJAUTO     Trade summary
+Date:     Tue Apr 19, 2016 -> Thu Apr 21, 2016 [2 days]
+Price:    ₹143.0 -> ₹141.83 [-0.8%]
+Value:    ₹57395.3 -> ₹56925.12 [₹-470.18]
+
+EICHERMOT     Trade summary
+Date:     Tue Apr 05, 2016 -> Wed Apr 27, 2016 [16 days]
+Price:    ₹81.71 -> ₹85.55 [4.7%]
+Value:    ₹51297.71 -> ₹53707.92 [₹2410.21]
+
+ICICIBANK     Trade summary
+Date:     Wed Apr 27, 2016 -> Thu Apr 28, 2016 [1 days]
+Price:    ₹282.19 -> ₹281.14 [-0.4%]
+Value:    ₹53680.07 -> ₹53480.13 [₹-199.93]
+
+HDFC      Trade summary
+Date:     Thu Apr 28, 2016 -> Tue May 03, 2016 [3 days]
+Price:    ₹538.33 -> ₹542.33 [0.7%]
+Value:    ₹53452.39 -> ₹53849.66 [₹397.27]
+
+ONGC      Trade summary
+Date:     Thu Apr 21, 2016 -> Mon May 09, 2016 [12 days]
+Price:    ₹290.81 -> ₹310.37 [6.7%]
+Value:    ₹56895.66 -> ₹60723.46 [₹3827.8]
+
+TECHM     Trade summary
+Date:     Mon May 09, 2016 -> Fri May 13, 2016 [4 days]
+Price:    ₹95.96 -> ₹94.5 [-1.5%]
+Value:    ₹60692.09 -> ₹59769.96 [₹-922.14]
+
+SHREECEM     Trade summary
+Date:     Thu Apr 21, 2016 -> Mon May 16, 2016 [17 days]
+Price:    ₹273.76 -> ₹309.25 [13.0%]
+Value:    ₹61079.01 -> ₹68998.04 [₹7919.03]
+
+WIPRO     Trade summary
+Date:     Tue May 03, 2016 -> Wed May 18, 2016 [11 days]
+Price:    ₹66.16 -> ₹58.14 [-12.1%]
+Value:    ₹53821.74 -> ₹47295.21 [₹-6526.53]
+
+HINDUNILVR     Trade summary
+Date:     Fri May 13, 2016 -> Thu May 19, 2016 [4 days]
+Price:    ₹401.7 -> ₹391.08 [-2.6%]
+Value:    ₹59739.07 -> ₹58159.6 [₹-1579.47]
+
+TATASTEEL     Trade summary
+Date:     Thu Apr 21, 2016 -> Tue Jun 07, 2016 [32 days]
+Price:    ₹258.4 -> ₹272.42 [5.4%]
+Value:    ₹63031.19 -> ₹66451.3 [₹3420.1]
+
+SBIN      Trade summary
+Date:     Thu Apr 21, 2016 -> Thu Jun 09, 2016 [34 days]
+Price:    ₹213.45 -> ₹232.45 [8.9%]
+Value:    ₹49786.24 -> ₹54218.75 [₹4432.51]
+
+ASIANPAINT     Trade summary
+Date:     Mon Jun 13, 2016 -> Tue Jun 14, 2016 [1 days]
+Price:    ₹114.46 -> ₹112.89 [-1.4%]
+Value:    ₹60304.36 -> ₹59478.64 [₹-825.71]
+
+SUNPHARMA     Trade summary
+Date:     Tue Jun 14, 2016 -> Wed Jun 15, 2016 [1 days]
+Price:    ₹90.05 -> ₹90.04 [-0.0%]
+Value:    ₹59447.9 -> ₹59444.6 [₹-3.3]
+
+BAJAJAUTO     Trade summary
+Date:     Tue May 17, 2016 -> Thu Jun 23, 2016 [26 days]
+Price:    ₹139.36 -> ₹145.82 [4.6%]
+Value:    ₹68962.54 -> ₹72159.47 [₹3196.93]
+
+BPCL      Trade summary
+Date:     Thu May 19, 2016 -> Fri Jun 24, 2016 [25 days]
+Price:    ₹106.95 -> ₹103.37 [-3.4%]
+Value:    ₹58129.52 -> ₹56181.91 [₹-1947.62]
+
+GAIL      Trade summary
+Date:     Wed May 18, 2016 -> Fri Jun 24, 2016 [26 days]
+Price:    ₹325.57 -> ₹338.3 [3.9%]
+Value:    ₹47270.56 -> ₹49118.46 [₹1847.9]
+
+VEDL      Trade summary
+Date:     Tue Jun 14, 2016 -> Fri Jun 24, 2016 [8 days]
+Price:    ₹167.44 -> ₹154.99 [-7.4%]
+Value:    ₹60303.36 -> ₹55818.27 [₹-4485.08]
+
+KOTAKBANK     Trade summary
+Date:     Wed Jun 15, 2016 -> Mon Jun 27, 2016 [8 days]
+Price:    ₹74.75 -> ₹70.23 [-6.0%]
+Value:    ₹59413.88 -> ₹55823.2 [₹-3590.68]
+
+AXISBANK     Trade summary
+Date:     Fri Jun 24, 2016 -> Mon Jun 27, 2016 [1 days]
+Price:    ₹206.0 -> ₹201.17 [-2.3%]
+Value:    ₹55789.36 -> ₹54480.51 [₹-1308.85]
+
+COALINDIA     Trade summary
+Date:     Mon Jun 27, 2016 -> Thu Jul 21, 2016 [17 days]
+Price:    ₹943.92 -> ₹1146.28 [21.4%]
+Value:    ₹54452.27 -> ₹66125.77 [₹11673.5]
+
+TITAN     Trade summary
+Date:     Fri Jun 24, 2016 -> Fri Jul 29, 2016 [24 days]
+Price:    ₹159.57 -> ₹185.24 [16.1%]
+Value:    ₹56152.82 -> ₹65186.22 [₹9033.4]
+
+IOC       Trade summary
+Date:     Fri Jun 24, 2016 -> Fri Jul 29, 2016 [24 days]
+Price:    ₹298.48 -> ₹342.56 [14.8%]
+Value:    ₹49092.9 -> ₹56343.18 [₹7250.28]
+
+BAJFINANCE     Trade summary
+Date:     Fri Jul 29, 2016 -> Mon Aug 01, 2016 [1 days]
+Price:    ₹178.63 -> ₹179.65 [0.6%]
+Value:    ₹60733.81 -> ₹61080.86 [₹347.05]
+
+EICHERMOT     Trade summary
+Date:     Mon Aug 01, 2016 -> Tue Aug 02, 2016 [1 days]
+Price:    ₹81.31 -> ₹78.74 [-3.2%]
+Value:    ₹61049.32 -> ₹59119.25 [₹-1930.07]
+
+ZEEL      Trade summary
+Date:     Wed Jul 27, 2016 -> Wed Aug 03, 2016 [5 days]
+Price:    ₹389.6 -> ₹392.41 [0.7%]
+Value:    ₹66091.71 -> ₹66567.59 [₹475.88]
+
+EICHERMOT     Trade summary
+Date:     Wed Aug 03, 2016 -> Thu Aug 04, 2016 [1 days]
+Price:    ₹78.42 -> ₹78.26 [-0.2%]
+Value:    ₹66533.31 -> ₹66398.25 [₹-135.06]
+
+INFRATEL     Trade summary
+Date:     Mon Jun 27, 2016 -> Fri Aug 05, 2016 [28 days]
+Price:    ₹60.1 -> ₹60.15 [0.1%]
+Value:    ₹55794.29 -> ₹55840.67 [₹46.39]
+
+GRASIM     Trade summary
+Date:     Tue Aug 02, 2016 -> Wed Aug 10, 2016 [6 days]
+Price:    ₹104.51 -> ₹109.75 [5.0%]
+Value:    ₹59088.69 -> ₹62050.0 [₹2961.31]
+
+BAJAJFINSV     Trade summary
+Date:     Mon Aug 01, 2016 -> Tue Aug 16, 2016 [11 days]
+Price:    ₹234.56 -> ₹238.58 [1.7%]
+Value:    ₹60732.81 -> ₹61774.41 [₹1041.6]
+
+TATASTEEL     Trade summary
+Date:     Tue Aug 16, 2016 -> Mon Aug 22, 2016 [4 days]
+Price:    ₹282.74 -> ₹274.85 [-2.8%]
+Value:    ₹61742.53 -> ₹60019.3 [₹-1723.23]
+
+HCLTECH     Trade summary
+Date:     Thu Aug 04, 2016 -> Mon Aug 29, 2016 [17 days]
+Price:    ₹243.51 -> ₹251.02 [3.1%]
+Value:    ₹66364.05 -> ₹68410.28 [₹2046.23]
+
+NESTLEIND     Trade summary
+Date:     Tue Aug 30, 2016 -> Thu Sep 08, 2016 [6 days]
+Price:    ₹468.35 -> ₹464.01 [-0.9%]
+Value:    ₹68375.07 -> ₹67740.88 [₹-634.19]
+
+JSWSTEEL     Trade summary
+Date:     Mon Aug 22, 2016 -> Thu Sep 08, 2016 [12 days]
+Price:    ₹546.3 -> ₹567.76 [3.9%]
+Value:    ₹59988.29 -> ₹62344.43 [₹2356.14]
+
+ONGC      Trade summary
+Date:     Fri Aug 05, 2016 -> Fri Sep 09, 2016 [24 days]
+Price:    ₹327.42 -> ₹311.04 [-5.0%]
+Value:    ₹55811.75 -> ₹53019.04 [₹-2792.71]
+
+DRREDDY     Trade summary
+Date:     Tue Aug 16, 2016 -> Fri Sep 09, 2016 [17 days]
+Price:    ₹560.14 -> ₹537.06 [-4.1%]
+Value:    ₹62017.97 -> ₹59462.59 [₹-2555.38]
+
+AXISBANK     Trade summary
+Date:     Thu Sep 08, 2016 -> Fri Sep 09, 2016 [1 days]
+Price:    ₹222.53 -> ₹212.54 [-4.5%]
+Value:    ₹62312.26 -> ₹59514.56 [₹-2797.7]
+
+MM        Trade summary
+Date:     Fri Jun 24, 2016 -> Fri Sep 09, 2016 [53 days]
+Price:    ₹422.47 -> ₹471.94 [11.7%]
+Value:    ₹72122.39 -> ₹80567.5 [₹8445.11]
+
+IOC       Trade summary
+Date:     Fri Sep 09, 2016 -> Thu Sep 22, 2016 [9 days]
+Price:    ₹325.52 -> ₹344.79 [5.9%]
+Value:    ₹59483.8 -> ₹63004.58 [₹3520.78]
+
+HCLTECH     Trade summary
+Date:     Fri Sep 09, 2016 -> Thu Sep 29, 2016 [14 days]
+Price:    ₹240.67 -> ₹247.08 [2.7%]
+Value:    ₹59431.86 -> ₹61014.7 [₹1582.84]
+
+INFY      Trade summary
+Date:     Fri Sep 09, 2016 -> Mon Oct 03, 2016 [16 days]
+Price:    ₹120.22 -> ₹130.65 [8.7%]
+Value:    ₹80526.21 -> ₹87512.41 [₹6986.2]
+
+ONGC      Trade summary
+Date:     Mon Oct 03, 2016 -> Tue Oct 04, 2016 [1 days]
+Price:    ₹295.23 -> ₹291.72 [-1.2%]
+Value:    ₹87467.66 -> ₹86428.47 [₹-1039.19]
+
+SBIN      Trade summary
+Date:     Tue Oct 04, 2016 -> Tue Oct 11, 2016 [5 days]
+Price:    ₹214.28 -> ₹214.16 [-0.1%]
+Value:    ₹86384.26 -> ₹86337.06 [₹-47.2]
+
+ITC       Trade summary
+Date:     Tue Oct 11, 2016 -> Wed Oct 12, 2016 [1 days]
+Price:    ₹394.03 -> ₹385.26 [-2.2%]
+Value:    ₹86292.89 -> ₹84372.91 [₹-1919.98]
+
+MM        Trade summary
+Date:     Wed Oct 12, 2016 -> Tue Oct 25, 2016 [9 days]
+Price:    ₹450.99 -> ₹443.49 [-1.7%]
+Value:    ₹84329.73 -> ₹82928.16 [₹-1401.56]
+
+RELIANCE     Trade summary
+Date:     Mon Sep 26, 2016 -> Tue Oct 25, 2016 [21 days]
+Price:    ₹365.42 -> ₹361.19 [-1.2%]
+Value:    ₹62972.08 -> ₹62242.69 [₹-729.39]
+
+IOC       Trade summary
+Date:     Tue Oct 25, 2016 -> Fri Oct 28, 2016 [3 days]
+Price:    ₹334.19 -> ₹332.45 [-0.5%]
+Value:    ₹62210.56 -> ₹61887.21 [₹-323.35]
+
+TITAN     Trade summary
+Date:     Thu Sep 08, 2016 -> Thu Nov 03, 2016 [40 days]
+Price:    ₹187.72 -> ₹170.44 [-9.2%]
+Value:    ₹67706.01 -> ₹61472.29 [₹-6233.72]
+
+ULTRACEMO     Trade summary
+Date:     Fri Sep 09, 2016 -> Fri Nov 04, 2016 [40 days]
+Price:    ₹547.73 -> ₹552.62 [0.9%]
+Value:    ₹52991.54 -> ₹53464.27 [₹472.73]
+
+ITC       Trade summary
+Date:     Thu Nov 03, 2016 -> Wed Nov 09, 2016 [4 days]
+Price:    ₹365.62 -> ₹422.54 [15.6%]
+Value:    ₹61440.55 -> ₹71005.14 [₹9564.58]
+
+DRREDDY     Trade summary
+Date:     Wed Nov 09, 2016 -> Thu Nov 10, 2016 [1 days]
+Price:    ₹530.77 -> ₹514.25 [-3.1%]
+Value:    ₹70968.64 -> ₹68760.38 [₹-2208.25]
+
+HDFC      Trade summary
+Date:     Tue Oct 25, 2016 -> Tue Nov 15, 2016 [15 days]
+Price:    ₹701.85 -> ₹755.58 [7.7%]
+Value:    ₹82885.7 -> ₹89230.9 [₹6345.2]
+
+ADANIPORTS     Trade summary
+Date:     Thu Sep 29, 2016 -> Thu Nov 17, 2016 [35 days]
+Price:    ₹197.53 -> ₹212.74 [7.7%]
+Value:    ₹60983.19 -> ₹65679.38 [₹4696.19]
+
+BRITANNIA     Trade summary
+Date:     Fri Oct 28, 2016 -> Wed Nov 30, 2016 [22 days]
+Price:    ₹391.62 -> ₹414.76 [5.9%]
+Value:    ₹61855.27 -> ₹65510.88 [₹3655.61]
+
+POWERGRID     Trade summary
+Date:     Fri Nov 04, 2016 -> Fri Dec 16, 2016 [29 days]
+Price:    ₹238.95 -> ₹225.88 [-5.5%]
+Value:    ₹53436.53 -> ₹50513.81 [₹-2922.73]
+
+JSWSTEEL     Trade summary
+Date:     Thu Dec 01, 2016 -> Wed Dec 28, 2016 [18 days]
+Price:    ₹571.1 -> ₹559.46 [-2.0%]
+Value:    ₹73436.65 -> ₹71940.47 [₹-1496.19]
+
+TCS       Trade summary
+Date:     Mon Dec 12, 2016 -> Fri Dec 30, 2016 [13 days]
+Price:    ₹198.3 -> ₹197.36 [-0.5%]
+Value:    ₹73436.15 -> ₹73088.38 [₹-347.78]
+
+HDFCBANK     Trade summary
+Date:     Fri Dec 16, 2016 -> Fri Dec 30, 2016 [9 days]
+Price:    ₹318.85 -> ₹319.31 [0.1%]
+Value:    ₹73435.15 -> ₹73541.25 [₹106.09]
+
+UPL       Trade summary
+Date:     Fri Dec 30, 2016 -> Fri Jan 06, 2017 [4 days]
+Price:    ₹190.92 -> ₹202.66 [6.2%]
+Value:    ₹73050.83 -> ₹77544.72 [₹4493.89]
+
+HDFC      Trade summary
+Date:     Fri Jan 06, 2017 -> Mon Jan 09, 2017 [1 days]
+Price:    ₹763.24 -> ₹764.4 [0.2%]
+Value:    ₹77504.95 -> ₹77622.59 [₹117.65]
+
+GRASIM     Trade summary
+Date:     Thu Nov 10, 2016 -> Tue Jan 17, 2017 [44 days]
+Price:    ₹117.95 -> ₹117.4 [-0.5%]
+Value:    ₹68725.0 -> ₹68405.15 [₹-319.85]
+
+CIPLA     Trade summary
+Date:     Mon Jan 09, 2017 -> Tue Jan 17, 2017 [5 days]
+Price:    ₹173.98 -> ₹172.7 [-0.7%]
+Value:    ₹77582.78 -> ₹77013.35 [₹-569.44]
+
+BAJAJFINSV     Trade summary
+Date:     Fri Dec 16, 2016 -> Tue Jan 17, 2017 [19 days]
+Price:    ₹265.97 -> ₹274.28 [3.1%]
+Value:    ₹50487.55 -> ₹52064.42 [₹1576.87]
+
+INDUSINDBK     Trade summary
+Date:     Fri Dec 30, 2016 -> Tue Jan 24, 2017 [15 days]
+Price:    ₹627.63 -> ₹679.76 [8.3%]
+Value:    ₹73503.48 -> ₹79608.1 [₹6104.62]
+
+INFRATEL     Trade summary
+Date:     Tue Jan 17, 2017 -> Wed Jan 25, 2017 [6 days]
+Price:    ₹73.08 -> ₹77.46 [6.0%]
+Value:    ₹52037.38 -> ₹55158.84 [₹3121.45]
+
+HEROMOTOCO     Trade summary
+Date:     Wed Dec 28, 2016 -> Fri Jan 27, 2017 [20 days]
+Price:    ₹77.08 -> ₹83.07 [7.8%]
+Value:    ₹71903.5 -> ₹77492.71 [₹5589.21]
+
+ZEEL      Trade summary
+Date:     Wed Jan 25, 2017 -> Mon Jan 30, 2017 [3 days]
+Price:    ₹370.96 -> ₹365.45 [-1.5%]
+Value:    ₹55130.26 -> ₹54312.06 [₹-818.19]
+
+MARUTI     Trade summary
+Date:     Mon Jan 30, 2017 -> Tue Jan 31, 2017 [1 days]
+Price:    ₹116.76 -> ₹119.75 [2.6%]
+Value:    ₹54283.91 -> ₹55674.8 [₹1390.89]
+
+BAJFINANCE     Trade summary
+Date:     Tue Jan 24, 2017 -> Thu Feb 02, 2017 [7 days]
+Price:    ₹205.58 -> ₹205.69 [0.1%]
+Value:    ₹79567.3 -> ₹79608.81 [₹41.51]
+
+VEDL      Trade summary
+Date:     Tue Jan 17, 2017 -> Mon Feb 13, 2017 [19 days]
+Price:    ₹258.29 -> ₹283.94 [9.9%]
+Value:    ₹68369.95 -> ₹75159.83 [₹6789.88]
+
+RELIANCE     Trade summary
+Date:     Tue Jan 17, 2017 -> Mon Feb 13, 2017 [19 days]
+Price:    ₹429.23 -> ₹448.38 [4.5%]
+Value:    ₹76973.84 -> ₹80407.16 [₹3433.33]
+
+KOTAKBANK     Trade summary
+Date:     Tue Jan 31, 2017 -> Tue Feb 21, 2017 [14 days]
+Price:    ₹91.47 -> ₹95.07 [3.9%]
+Value:    ₹55645.96 -> ₹57838.74 [₹2192.78]
+
+MARUTI     Trade summary
+Date:     Fri Feb 17, 2017 -> Mon Feb 27, 2017 [5 days]
+Price:    ₹116.26 -> ₹115.95 [-0.3%]
+Value:    ₹77743.1 -> ₹77537.07 [₹-206.03]
+
+ICICIBANK     Trade summary
+Date:     Fri Jan 27, 2017 -> Thu Mar 16, 2017 [33 days]
+Price:    ₹327.17 -> ₹355.65 [8.7%]
+Value:    ₹77452.96 -> ₹84194.31 [₹6741.34]
+
+ITC       Trade summary
+Date:     Thu Mar 16, 2017 -> Mon Mar 20, 2017 [2 days]
+Price:    ₹395.06 -> ₹387.25 [-2.0%]
+Value:    ₹84151.21 -> ₹82488.15 [₹-1663.06]
+
+INDUSINDBK     Trade summary
+Date:     Mon Feb 27, 2017 -> Mon Mar 20, 2017 [15 days]
+Price:    ₹649.29 -> ₹650.71 [0.2%]
+Value:    ₹77497.31 -> ₹77666.26 [₹168.95]
+
+SHREECEM     Trade summary
+Date:     Thu Feb 16, 2017 -> Tue Mar 21, 2017 [22 days]
+Price:    ₹346.57 -> ₹346.16 [-0.1%]
+Value:    ₹77744.1 -> ₹77651.41 [₹-92.69]
+
+HEROMOTOCO     Trade summary
+Date:     Thu Feb 02, 2017 -> Tue Mar 21, 2017 [32 days]
+Price:    ₹74.59 -> ₹73.92 [-0.9%]
+Value:    ₹79568.01 -> ₹78856.17 [₹-711.83]
+
+BAJFINANCE     Trade summary
+Date:     Mon Mar 20, 2017 -> Tue Mar 21, 2017 [1 days]
+Price:    ₹209.05 -> ₹205.85 [-1.5%]
+Value:    ₹77626.42 -> ₹76436.53 [₹-1189.89]
+
+CIPLA     Trade summary
+Date:     Mon Mar 20, 2017 -> Tue Mar 21, 2017 [1 days]
+Price:    ₹180.62 -> ₹174.13 [-3.6%]
+Value:    ₹82445.9 -> ₹79483.36 [₹-2962.55]
+
+VEDL      Trade summary
+Date:     Tue Mar 21, 2017 -> Wed Mar 22, 2017 [1 days]
+Price:    ₹258.83 -> ₹260.68 [0.7%]
+Value:    ₹79442.62 -> ₹80010.64 [₹568.02]
+
+TATASTEEL     Trade summary
+Date:     Wed Mar 22, 2017 -> Mon Mar 27, 2017 [3 days]
+Price:    ₹281.92 -> ₹279.65 [-0.8%]
+Value:    ₹79969.63 -> ₹79325.47 [₹-644.16]
+
+ICICIBANK     Trade summary
+Date:     Mon Mar 27, 2017 -> Thu Apr 06, 2017 [8 days]
+Price:    ₹335.89 -> ₹321.88 [-4.2%]
+Value:    ₹79284.81 -> ₹75978.32 [₹-3306.49]
+
+KOTAKBANK     Trade summary
+Date:     Tue Mar 21, 2017 -> Mon Apr 10, 2017 [14 days]
+Price:    ₹91.95 -> ₹92.05 [0.1%]
+Value:    ₹76397.31 -> ₹76483.77 [₹86.45]
+
+TATASTEEL     Trade summary
+Date:     Thu Apr 06, 2017 -> Wed Apr 12, 2017 [4 days]
+Price:    ₹273.92 -> ₹273.03 [-0.3%]
+Value:    ₹75939.33 -> ₹75693.45 [₹-245.88]
+
+ADANIPORTS     Trade summary
+Date:     Mon Apr 10, 2017 -> Thu Apr 13, 2017 [3 days]
+Price:    ₹240.92 -> ₹232.43 [-3.5%]
+Value:    ₹76444.53 -> ₹73750.51 [₹-2694.02]
+
+BHARTIARTL     Trade summary
+Date:     Tue Mar 21, 2017 -> Thu Apr 20, 2017 [21 days]
+Price:    ₹646.38 -> ₹682.19 [5.5%]
+Value:    ₹77611.59 -> ₹81910.95 [₹4299.36]
+
+UPL       Trade summary
+Date:     Tue Mar 21, 2017 -> Thu Apr 20, 2017 [21 days]
+Price:    ₹249.4 -> ₹276.26 [10.8%]
+Value:    ₹78815.74 -> ₹87302.45 [₹8486.71]
+
+EICHERMOT     Trade summary
+Date:     Thu Apr 20, 2017 -> Fri Apr 21, 2017 [1 days]
+Price:    ₹75.89 -> ₹75.44 [-0.6%]
+Value:    ₹84563.9 -> ₹84064.77 [₹-499.13]
+
+TATAMOTORS     Trade summary
+Date:     Thu Apr 13, 2017 -> Thu Apr 27, 2017 [9 days]
+Price:    ₹1421.38 -> ₹1491.32 [4.9%]
+Value:    ₹73712.63 -> ₹77339.69 [₹3627.06]
+
+NESTLEIND     Trade summary
+Date:     Fri Apr 21, 2017 -> Wed May 17, 2017 [18 days]
+Price:    ₹487.97 -> ₹505.81 [3.7%]
+Value:    ₹84021.73 -> ₹87092.85 [₹3071.11]
+
+HINDUNILVR     Trade summary
+Date:     Fri Apr 21, 2017 -> Wed May 17, 2017 [18 days]
+Price:    ₹486.05 -> ₹434.3 [-10.6%]
+Value:    ₹84562.9 -> ₹75558.99 [₹-9003.91]
+
+EICHERMOT     Trade summary
+Date:     Fri Apr 28, 2017 -> Wed May 17, 2017 [13 days]
+Price:    ₹73.72 -> ₹70.22 [-4.7%]
+Value:    ₹77300.02 -> ₹73633.21 [₹-3666.81]
+
+BPCL      Trade summary
+Date:     Wed Apr 12, 2017 -> Tue Jun 06, 2017 [37 days]
+Price:    ₹145.33 -> ₹140.46 [-3.4%]
+Value:    ₹75654.61 -> ₹73118.1 [₹-2536.5]
+
+COALINDIA     Trade summary
+Date:     Thu Feb 23, 2017 -> Thu Jun 08, 2017 [73 days]
+Price:    ₹1937.91 -> ₹1762.53 [-9.0%]
+Value:    ₹57808.82 -> ₹52577.19 [₹-5231.63]
+
+RELIANCE     Trade summary
+Date:     Wed May 17, 2017 -> Fri Jun 09, 2017 [16 days]
+Price:    ₹435.5 -> ₹453.97 [4.2%]
+Value:    ₹73595.4 -> ₹76717.07 [₹3121.67]
+
+HDFCBANK     Trade summary
+Date:     Wed May 17, 2017 -> Thu Jun 15, 2017 [20 days]
+Price:    ₹364.67 -> ₹383.65 [5.2%]
+Value:    ₹75520.21 -> ₹79450.33 [₹3930.12]
+
+BAJAJAUTO     Trade summary
+Date:     Wed Jun 21, 2017 -> Thu Jun 22, 2017 [1 days]
+Price:    ₹126.03 -> ₹125.28 [-0.6%]
+Value:    ₹78043.16 -> ₹77576.89 [₹-466.27]
+
+BPCL      Trade summary
+Date:     Wed Jun 21, 2017 -> Thu Jun 22, 2017 [1 days]
+Price:    ₹136.35 -> ₹135.76 [-0.4%]
+Value:    ₹78044.16 -> ₹77707.51 [₹-336.64]
+
+NESTLEIND     Trade summary
+Date:     Thu Jun 22, 2017 -> Wed Jun 28, 2017 [4 days]
+Price:    ₹515.7 -> ₹503.23 [-2.4%]
+Value:    ₹77667.66 -> ₹75789.93 [₹-1877.73]
+
+ADANIPORTS     Trade summary
+Date:     Tue Jun 06, 2017 -> Wed Jun 28, 2017 [16 days]
+Price:    ₹222.03 -> ₹235.9 [6.2%]
+Value:    ₹73080.54 -> ₹77645.48 [₹4564.94]
+
+UPL       Trade summary
+Date:     Wed May 17, 2017 -> Thu Jun 29, 2017 [30 days]
+Price:    ₹272.49 -> ₹294.97 [8.3%]
+Value:    ₹87048.3 -> ₹94230.97 [₹7182.67]
+
+GAIL      Trade summary
+Date:     Wed Jun 28, 2017 -> Thu Jul 06, 2017 [5 days]
+Price:    ₹382.03 -> ₹373.28 [-2.3%]
+Value:    ₹75751.04 -> ₹74015.86 [₹-1735.18]
+
+ASIANPAINT     Trade summary
+Date:     Thu Jun 29, 2017 -> Thu Jul 20, 2017 [14 days]
+Price:    ₹194.44 -> ₹205.96 [5.9%]
+Value:    ₹94182.86 -> ₹99764.37 [₹5581.51]
+
+ULTRACEMO     Trade summary
+Date:     Thu Jul 20, 2017 -> Thu Jul 27, 2017 [5 days]
+Price:    ₹664.34 -> ₹627.87 [-5.5%]
+Value:    ₹99713.48 -> ₹94239.27 [₹-5474.21]
+
+TITAN     Trade summary
+Date:     Thu Jun 22, 2017 -> Fri Jul 28, 2017 [25 days]
+Price:    ₹189.57 -> ₹187.83 [-0.9%]
+Value:    ₹77537.1 -> ₹76823.49 [₹-713.61]
+
+SBIN      Trade summary
+Date:     Wed Jun 28, 2017 -> Thu Aug 03, 2017 [25 days]
+Price:    ₹243.12 -> ₹249.28 [2.5%]
+Value:    ₹77605.65 -> ₹79571.48 [₹1965.83]
+
+BAJAJFINSV     Trade summary
+Date:     Thu Aug 03, 2017 -> Fri Aug 04, 2017 [1 days]
+Price:    ₹256.81 -> ₹259.8 [1.2%]
+Value:    ₹79530.69 -> ₹80457.18 [₹926.48]
+
+TITAN     Trade summary
+Date:     Fri Aug 04, 2017 -> Thu Aug 10, 2017 [4 days]
+Price:    ₹185.02 -> ₹186.37 [0.7%]
+Value:    ₹80415.95 -> ₹81001.63 [₹585.68]
+
+AXISBANK     Trade summary
+Date:     Thu Jun 08, 2017 -> Thu Aug 10, 2017 [44 days]
+Price:    ₹241.37 -> ₹248.23 [2.8%]
+Value:    ₹52549.9 -> ₹54043.29 [₹1493.39]
+
+ZEEL      Trade summary
+Date:     Thu Jul 06, 2017 -> Tue Aug 15, 2017 [28 days]
+Price:    ₹404.62 -> ₹424.77 [5.0%]
+Value:    ₹73977.85 -> ₹77661.51 [₹3683.66]
+
+INFY      Trade summary
+Date:     Tue Aug 15, 2017 -> Thu Aug 17, 2017 [2 days]
+Price:    ₹118.43 -> ₹117.56 [-0.7%]
+Value:    ₹77621.68 -> ₹77051.99 [₹-569.69]
+
+BHARTIARTL     Trade summary
+Date:     Thu Jul 27, 2017 -> Thu Aug 17, 2017 [15 days]
+Price:    ₹739.48 -> ₹702.4 [-5.0%]
+Value:    ₹94191.15 -> ₹89468.14 [₹-4723.01]
+
+IOC       Trade summary
+Date:     Fri Jul 28, 2017 -> Tue Aug 22, 2017 [17 days]
+Price:    ₹480.75 -> ₹501.81 [4.4%]
+Value:    ₹76784.08 -> ₹80147.68 [₹3363.6]
+
+GRASIM     Trade summary
+Date:     Thu Aug 10, 2017 -> Tue Aug 22, 2017 [8 days]
+Price:    ₹153.32 -> ₹161.41 [5.3%]
+Value:    ₹54015.27 -> ₹56866.66 [₹2851.39]
+
+JSWSTEEL     Trade summary
+Date:     Thu Aug 10, 2017 -> Wed Aug 30, 2017 [14 days]
+Price:    ₹791.76 -> ₹846.95 [7.0%]
+Value:    ₹80960.12 -> ₹86603.96 [₹5643.84]
+
+HINDUNILVR     Trade summary
+Date:     Tue Aug 29, 2017 -> Tue Sep 05, 2017 [4 days]
+Price:    ₹454.02 -> ₹455.43 [0.3%]
+Value:    ₹68471.42 -> ₹68684.53 [₹213.11]
+
+CIPLA     Trade summary
+Date:     Wed Aug 30, 2017 -> Tue Sep 05, 2017 [3 days]
+Price:    ₹157.86 -> ₹154.47 [-2.1%]
+Value:    ₹86559.66 -> ₹84701.41 [₹-1858.25]
+
+ADANIPORTS     Trade summary
+Date:     Tue Aug 22, 2017 -> Thu Sep 07, 2017 [11 days]
+Price:    ₹232.04 -> ₹225.69 [-2.7%]
+Value:    ₹68472.42 -> ₹66599.76 [₹-1872.65]
+
+HDFCBANK     Trade summary
+Date:     Thu Sep 07, 2017 -> Tue Sep 12, 2017 [3 days]
+Price:    ₹382.67 -> ₹400.07 [4.5%]
+Value:    ₹66565.46 -> ₹69591.97 [₹3026.51]
+
+SBIN      Trade summary
+Date:     Tue Sep 12, 2017 -> Wed Sep 13, 2017 [1 days]
+Price:    ₹245.07 -> ₹242.79 [-0.9%]
+Value:    ₹69556.17 -> ₹68908.36 [₹-647.81]
+
+INFRATEL     Trade summary
+Date:     Thu Aug 17, 2017 -> Mon Sep 18, 2017 [21 days]
+Price:    ₹86.32 -> ₹86.49 [0.2%]
+Value:    ₹89422.41 -> ₹89595.26 [₹172.85]
+
+GAIL      Trade summary
+Date:     Mon Sep 18, 2017 -> Tue Sep 19, 2017 [1 days]
+Price:    ₹378.44 -> ₹378.77 [0.1%]
+Value:    ₹89549.46 -> ₹89627.76 [₹78.29]
+
+LT        Trade summary
+Date:     Tue Sep 05, 2017 -> Thu Sep 21, 2017 [12 days]
+Price:    ₹166.91 -> ₹181.64 [8.8%]
+Value:    ₹84658.06 -> ₹92127.35 [₹7469.29]
+
+HCLTECH     Trade summary
+Date:     Tue Sep 19, 2017 -> Thu Sep 21, 2017 [2 days]
+Price:    ₹272.05 -> ₹269.95 [-0.8%]
+Value:    ₹89581.94 -> ₹88891.77 [₹-690.18]
+
+GRASIM     Trade summary
+Date:     Thu Sep 21, 2017 -> Mon Sep 25, 2017 [2 days]
+Price:    ₹158.39 -> ₹153.14 [-3.3%]
+Value:    ₹88846.32 -> ₹85901.88 [₹-2944.44]
+
+HEROMOTOCO     Trade summary
+Date:     Thu Aug 17, 2017 -> Wed Sep 27, 2017 [28 days]
+Price:    ₹88.64 -> ₹95.16 [7.4%]
+Value:    ₹77012.47 -> ₹82673.18 [₹5660.72]
+
+EICHERMOT     Trade summary
+Date:     Wed Sep 13, 2017 -> Thu Oct 12, 2017 [21 days]
+Price:    ₹77.7 -> ₹81.22 [4.5%]
+Value:    ₹68872.91 -> ₹71994.1 [₹3121.2]
+
+HINDUNILVR     Trade summary
+Date:     Thu Oct 12, 2017 -> Fri Oct 13, 2017 [1 days]
+Price:    ₹400.35 -> ₹406.09 [1.4%]
+Value:    ₹71957.11 -> ₹72988.78 [₹1031.67]
+
+BAJFINANCE     Trade summary
+Date:     Tue Sep 05, 2017 -> Thu Oct 19, 2017 [32 days]
+Price:    ₹237.83 -> ₹249.21 [4.8%]
+Value:    ₹68649.19 -> ₹71934.35 [₹3285.16]
+
+SBIN      Trade summary
+Date:     Wed Sep 27, 2017 -> Thu Oct 19, 2017 [16 days]
+Price:    ₹236.97 -> ₹246.31 [3.9%]
+Value:    ₹82630.85 -> ₹85888.25 [₹3257.41]
+
+TITAN     Trade summary
+Date:     Fri Oct 20, 2017 -> Mon Oct 23, 2017 [1 days]
+Price:    ₹150.86 -> ₹149.97 [-0.6%]
+Value:    ₹78870.35 -> ₹78407.45 [₹-462.9]
+
+BAJAJAUTO     Trade summary
+Date:     Thu Oct 19, 2017 -> Tue Oct 24, 2017 [3 days]
+Price:    ₹128.54 -> ₹127.22 [-1.0%]
+Value:    ₹78871.35 -> ₹78058.83 [₹-812.52]
+
+CIPLA     Trade summary
+Date:     Fri Oct 13, 2017 -> Tue Oct 24, 2017 [7 days]
+Price:    ₹160.5 -> ₹165.01 [2.8%]
+Value:    ₹72951.28 -> ₹75001.09 [₹2049.81]
+
+DRREDDY     Trade summary
+Date:     Mon Sep 25, 2017 -> Wed Oct 25, 2017 [22 days]
+Price:    ₹659.62 -> ₹650.2 [-1.4%]
+Value:    ₹85857.93 -> ₹84631.84 [₹-1226.09]
+
+BRITANNIA     Trade summary
+Date:     Tue Oct 24, 2017 -> Thu Oct 26, 2017 [2 days]
+Price:    ₹334.38 -> ₹336.93 [0.8%]
+Value:    ₹74962.59 -> ₹75534.91 [₹572.32]
+
+BPCL      Trade summary
+Date:     Tue Oct 24, 2017 -> Thu Oct 26, 2017 [2 days]
+Price:    ₹149.46 -> ₹151.85 [1.6%]
+Value:    ₹78018.8 -> ₹79263.9 [₹1245.1]
+
+POWERGRID     Trade summary
+Date:     Thu Sep 21, 2017 -> Mon Oct 30, 2017 [27 days]
+Price:    ₹313.28 -> ₹332.35 [6.1%]
+Value:    ₹92080.28 -> ₹97686.47 [₹5606.19]
+
+ULTRACEMO     Trade summary
+Date:     Mon Oct 30, 2017 -> Mon Nov 06, 2017 [5 days]
+Price:    ₹679.58 -> ₹687.31 [1.1%]
+Value:    ₹97636.63 -> ₹98747.27 [₹1110.64]
+
+ADANIPORTS     Trade summary
+Date:     Wed Oct 25, 2017 -> Thu Nov 09, 2017 [11 days]
+Price:    ₹250.97 -> ₹262.93 [4.8%]
+Value:    ₹84588.52 -> ₹88621.21 [₹4032.69]
+
+AXISBANK     Trade summary
+Date:     Thu Oct 26, 2017 -> Wed Nov 29, 2017 [23 days]
+Price:    ₹265.17 -> ₹269.7 [1.7%]
+Value:    ₹79223.27 -> ₹80575.9 [₹1352.64]
+
+TCS       Trade summary
+Date:     Thu Oct 26, 2017 -> Thu Nov 30, 2017 [24 days]
+Price:    ₹255.82 -> ₹265.73 [3.9%]
+Value:    ₹75496.15 -> ₹78421.39 [₹2925.24]
+
+BHARTIARTL     Trade summary
+Date:     Thu Nov 09, 2017 -> Mon Dec 04, 2017 [16 days]
+Price:    ₹811.82 -> ₹839.58 [3.4%]
+Value:    ₹88575.9 -> ₹91605.22 [₹3029.32]
+
+JSWSTEEL     Trade summary
+Date:     Wed Nov 29, 2017 -> Mon Dec 04, 2017 [3 days]
+Price:    ₹870.34 -> ₹828.62 [-4.8%]
+Value:    ₹80534.61 -> ₹76673.73 [₹-3860.89]
+
+BAJFINANCE     Trade summary
+Date:     Mon Oct 23, 2017 -> Tue Dec 05, 2017 [30 days]
+Price:    ₹239.71 -> ₹234.76 [-2.1%]
+Value:    ₹78367.24 -> ₹76749.03 [₹-1618.21]
+
+IOC       Trade summary
+Date:     Mon Nov 06, 2017 -> Tue Dec 05, 2017 [20 days]
+Price:    ₹544.66 -> ₹526.76 [-3.3%]
+Value:    ₹98696.89 -> ₹95452.88 [₹-3244.01]
+
+ASIANPAINT     Trade summary
+Date:     Tue Dec 05, 2017 -> Wed Dec 06, 2017 [1 days]
+Price:    ₹207.65 -> ₹207.98 [0.2%]
+Value:    ₹95404.15 -> ₹95554.04 [₹149.88]
+
+EICHERMOT     Trade summary
+Date:     Tue Dec 05, 2017 -> Tue Dec 19, 2017 [10 days]
+Price:    ₹80.72 -> ₹77.8 [-3.6%]
+Value:    ₹76709.65 -> ₹73934.41 [₹-2775.24]
+
+AXISBANK     Trade summary
+Date:     Wed Dec 06, 2017 -> Tue Dec 19, 2017 [9 days]
+Price:    ₹264.2 -> ₹258.31 [-2.2%]
+Value:    ₹95505.26 -> ₹93375.37 [₹-2129.89]
+
+SBIN      Trade summary
+Date:     Tue Dec 19, 2017 -> Thu Dec 21, 2017 [2 days]
+Price:    ₹244.69 -> ₹241.31 [-1.4%]
+Value:    ₹93327.68 -> ₹92037.65 [₹-1290.03]
+
+GRASIM     Trade summary
+Date:     Mon Dec 04, 2017 -> Wed Jan 03, 2018 [20 days]
+Price:    ₹182.25 -> ₹197.65 [8.4%]
+Value:    ₹76634.39 -> ₹83109.45 [₹6475.06]
+
+HDFC      Trade summary
+Date:     Mon Dec 04, 2017 -> Mon Jan 08, 2018 [23 days]
+Price:    ₹1783.87 -> ₹1954.73 [9.6%]
+Value:    ₹84970.3 -> ₹93108.72 [₹8138.42]
+
+GAIL      Trade summary
+Date:     Tue Dec 19, 2017 -> Wed Jan 10, 2018 [14 days]
+Price:    ₹382.95 -> ₹375.92 [-1.8%]
+Value:    ₹73896.45 -> ₹72539.63 [₹-1356.81]
+
+ADANIPORTS     Trade summary
+Date:     Thu Dec 21, 2017 -> Thu Jan 11, 2018 [13 days]
+Price:    ₹306.2 -> ₹334.83 [9.3%]
+Value:    ₹91990.63 -> ₹100590.85 [₹8600.22]
+
+DRREDDY     Trade summary
+Date:     Wed Jan 10, 2018 -> Fri Jan 19, 2018 [6 days]
+Price:    ₹658.3 -> ₹659.99 [0.3%]
+Value:    ₹72502.36 -> ₹72688.6 [₹186.24]
+
+POWERGRID     Trade summary
+Date:     Mon Dec 04, 2017 -> Mon Jan 22, 2018 [32 days]
+Price:    ₹356.3 -> ₹373.4 [4.8%]
+Value:    ₹84969.3 -> ₹89047.74 [₹4078.44]
+
+TITAN     Trade summary
+Date:     Thu Jan 25, 2018 -> Fri Jan 26, 2018 [1 days]
+Price:    ₹91.32 -> ₹93.12 [2.0%]
+Value:    ₹89002.21 -> ₹90760.87 [₹1758.65]
+
+TATASTEEL     Trade summary
+Date:     Thu Jan 11, 2018 -> Thu Feb 01, 2018 [14 days]
+Price:    ₹235.5 -> ₹252.85 [7.4%]
+Value:    ₹100539.56 -> ₹107947.67 [₹7408.11]
+
+ONGC      Trade summary
+Date:     Tue Jan 09, 2018 -> Fri Feb 02, 2018 [17 days]
+Price:    ₹253.04 -> ₹226.93 [-10.3%]
+Value:    ₹88064.53 -> ₹78978.68 [₹-9085.86]
+
+NESTLEIND     Trade summary
+Date:     Wed Jan 10, 2018 -> Fri Feb 02, 2018 [16 days]
+Price:    ₹523.51 -> ₹490.57 [-6.3%]
+Value:    ₹88063.53 -> ₹82522.19 [₹-5541.34]
+
+BRITANNIA     Trade summary
+Date:     Fri Jan 26, 2018 -> Fri Feb 02, 2018 [5 days]
+Price:    ₹360.63 -> ₹335.14 [-7.1%]
+Value:    ₹90714.49 -> ₹84302.56 [₹-6411.92]
+
+KOTAKBANK     Trade summary
+Date:     Fri Jan 19, 2018 -> Fri Feb 02, 2018 [10 days]
+Price:    ₹112.24 -> ₹110.84 [-1.2%]
+Value:    ₹72651.26 -> ₹71747.56 [₹-903.7]
+
+RELIANCE     Trade summary
+Date:     Fri Feb 02, 2018 -> Mon Feb 05, 2018 [1 days]
+Price:    ₹526.37 -> ₹500.56 [-4.9%]
+Value:    ₹84259.41 -> ₹80127.38 [₹-4132.04]
+
+INDUSINDBK     Trade summary
+Date:     Fri Feb 02, 2018 -> Mon Feb 05, 2018 [1 days]
+Price:    ₹750.15 -> ₹723.57 [-3.5%]
+Value:    ₹71710.69 -> ₹69169.32 [₹-2541.37]
+
+MARUTI     Trade summary
+Date:     Mon Feb 05, 2018 -> Tue Feb 06, 2018 [1 days]
+Price:    ₹120.32 -> ₹120.32 [-0.0%]
+Value:    ₹69133.73 -> ₹69133.66 [₹-0.07]
+
+HDFCBANK     Trade summary
+Date:     Tue Feb 06, 2018 -> Thu Feb 08, 2018 [2 days]
+Price:    ₹476.3 -> ₹452.6 [-5.0%]
+Value:    ₹69098.09 -> ₹65660.14 [₹-3437.95]
+
+ADANIPORTS     Trade summary
+Date:     Mon Feb 05, 2018 -> Tue Mar 06, 2018 [20 days]
+Price:    ₹307.54 -> ₹353.69 [15.0%]
+Value:    ₹80086.31 -> ₹92103.1 [₹12016.79]
+
+HEROMOTOCO     Trade summary
+Date:     Thu Feb 08, 2018 -> Tue Mar 06, 2018 [17 days]
+Price:    ₹115.57 -> ₹131.47 [13.8%]
+Value:    ₹65626.31 -> ₹74656.56 [₹9030.25]
+
+COALINDIA     Trade summary
+Date:     Fri Feb 02, 2018 -> Fri Mar 09, 2018 [24 days]
+Price:    ₹2711.5 -> ₹2957.04 [9.1%]
+Value:    ₹78938.19 -> ₹86086.59 [₹7148.41]
+
+BPCL      Trade summary
+Date:     Wed Mar 14, 2018 -> Wed Mar 21, 2018 [5 days]
+Price:    ₹132.3 -> ₹132.44 [0.1%]
+Value:    ₹84239.61 -> ₹84331.23 [₹91.62]
+
+WIPRO     Trade summary
+Date:     Mon Mar 19, 2018 -> Thu Mar 22, 2018 [3 days]
+Price:    ₹36.02 -> ₹34.29 [-4.8%]
+Value:    ₹84238.11 -> ₹80196.7 [₹-4041.41]
+
+TATASTEEL     Trade summary
+Date:     Wed Mar 21, 2018 -> Fri Mar 23, 2018 [2 days]
+Price:    ₹232.35 -> ₹223.73 [-3.7%]
+Value:    ₹84288.06 -> ₹81162.4 [₹-3125.66]
+
+INDUSINDBK     Trade summary
+Date:     Fri Mar 16, 2018 -> Mon Mar 26, 2018 [6 days]
+Price:    ₹709.06 -> ₹700.07 [-1.3%]
+Value:    ₹84239.11 -> ₹83170.55 [₹-1068.56]
+
+TATASTEEL     Trade summary
+Date:     Mon Mar 26, 2018 -> Wed Mar 28, 2018 [2 days]
+Price:    ₹223.63 -> ₹229.65 [2.7%]
+Value:    ₹83127.97 -> ₹85365.06 [₹2237.09]
+
+COALINDIA     Trade summary
+Date:     Wed Mar 28, 2018 -> Tue Apr 24, 2018 [18 days]
+Price:    ₹2646.87 -> ₹2439.39 [-7.8%]
+Value:    ₹85321.37 -> ₹78633.21 [₹-6688.16]
+
+INFY      Trade summary
+Date:     Fri Feb 02, 2018 -> Fri Apr 27, 2018 [58 days]
+Price:    ₹149.38 -> ₹142.81 [-4.4%]
+Value:    ₹82479.93 -> ₹78849.86 [₹-3630.07]
+
+TECHM     Trade summary
+Date:     Fri Feb 02, 2018 -> Mon Apr 30, 2018 [59 days]
+Price:    ₹223.32 -> ₹205.8 [-7.8%]
+Value:    ₹107892.7 -> ₹99427.54 [₹-8465.16]
+
+INFRATEL     Trade summary
+Date:     Mon Apr 30, 2018 -> Thu May 31, 2018 [22 days]
+Price:    ₹106.51 -> ₹122.54 [15.0%]
+Value:    ₹99376.82 -> ₹114329.8 [₹14952.97]
+
+JSWSTEEL     Trade summary
+Date:     Tue Apr 24, 2018 -> Mon Jun 04, 2018 [28 days]
+Price:    ₹1166.95 -> ₹1305.88 [11.9%]
+Value:    ₹78592.89 -> ₹87949.45 [₹9356.55]
+
+ICICIBANK     Trade summary
+Date:     Fri Mar 23, 2018 -> Tue Jun 05, 2018 [50 days]
+Price:    ₹405.14 -> ₹462.25 [14.1%]
+Value:    ₹81120.82 -> ₹92555.34 [₹11434.52]
+
+BRITANNIA     Trade summary
+Date:     Mon Jun 04, 2018 -> Tue Jun 05, 2018 [1 days]
+Price:    ₹242.96 -> ₹238.96 [-1.6%]
+Value:    ₹87904.47 -> ₹86456.74 [₹-1447.73]
+
+GAIL      Trade summary
+Date:     Tue Jun 05, 2018 -> Wed Jun 06, 2018 [1 days]
+Price:    ₹332.3 -> ₹324.7 [-2.3%]
+Value:    ₹92508.06 -> ₹90393.39 [₹-2114.67]
+
+ASIANPAINT     Trade summary
+Date:     Tue Jun 05, 2018 -> Thu Jun 07, 2018 [2 days]
+Price:    ₹169.82 -> ₹175.55 [3.4%]
+Value:    ₹86412.51 -> ₹89325.65 [₹2913.14]
+
+GAIL      Trade summary
+Date:     Thu Jun 07, 2018 -> Wed Jun 13, 2018 [4 days]
+Price:    ₹325.74 -> ₹327.55 [0.6%]
+Value:    ₹89279.99 -> ₹89775.31 [₹495.32]
+
+SBIN      Trade summary
+Date:     Wed Jun 06, 2018 -> Wed Jun 13, 2018 [5 days]
+Price:    ₹211.12 -> ₹212.64 [0.7%]
+Value:    ₹90347.19 -> ₹90999.6 [₹652.41]
+
+TCS       Trade summary
+Date:     Fri Apr 27, 2018 -> Thu Jun 21, 2018 [38 days]
+Price:    ₹280.74 -> ₹262.88 [-6.4%]
+Value:    ₹78809.43 -> ₹73795.69 [₹-5013.74]
+
+VEDL      Trade summary
+Date:     Thu Mar 22, 2018 -> Mon Jun 25, 2018 [65 days]
+Price:    ₹333.16 -> ₹322.18 [-3.3%]
+Value:    ₹80155.6 -> ₹77514.72 [₹-2640.88]
+
+HINDALCO     Trade summary
+Date:     Thu May 31, 2018 -> Mon Jun 25, 2018 [17 days]
+Price:    ₹61.85 -> ₹58.51 [-5.4%]
+Value:    ₹114271.63 -> ₹108099.19 [₹-6172.44]
+
+SHREECEM     Trade summary
+Date:     Wed Jun 13, 2018 -> Mon Jun 25, 2018 [8 days]
+Price:    ₹344.23 -> ₹355.54 [3.3%]
+Value:    ₹90953.1 -> ₹93940.9 [₹2987.8]
+
+LT        Trade summary
+Date:     Wed Jun 13, 2018 -> Tue Jul 03, 2018 [14 days]
+Price:    ₹178.63 -> ₹174.84 [-2.1%]
+Value:    ₹89729.42 -> ₹87825.99 [₹-1903.43]
+
+JSWSTEEL     Trade summary
+Date:     Mon Jun 25, 2018 -> Thu Jul 12, 2018 [12 days]
+Price:    ₹1210.11 -> ₹1388.03 [14.7%]
+Value:    ₹108044.14 -> ₹123929.16 [₹15885.02]
+
+UPL       Trade summary
+Date:     Thu Jun 21, 2018 -> Wed Jul 18, 2018 [18 days]
+Price:    ₹349.63 -> ₹369.93 [5.8%]
+Value:    ₹73757.79 -> ₹78039.21 [₹4281.42]
+
+TATAMOTORS     Trade summary
+Date:     Mon Jun 25, 2018 -> Tue Jul 24, 2018 [20 days]
+Price:    ₹1641.4 -> ₹1585.45 [-3.4%]
+Value:    ₹93892.93 -> ₹90692.41 [₹-3200.52]
+
+SUNPHARMA     Trade summary
+Date:     Tue Jul 03, 2018 -> Thu Jul 26, 2018 [16 days]
+Price:    ₹92.92 -> ₹96.42 [3.8%]
+Value:    ₹87781.08 -> ₹91091.0 [₹3309.93]
+
+POWERGRID     Trade summary
+Date:     Thu Jul 19, 2018 -> Tue Jul 31, 2018 [8 days]
+Price:    ₹365.95 -> ₹358.43 [-2.1%]
+Value:    ₹77999.2 -> ₹76395.77 [₹-1603.43]
+
+BAJAJFINSV     Trade summary
+Date:     Tue Jul 31, 2018 -> Fri Aug 03, 2018 [3 days]
+Price:    ₹225.77 -> ₹233.23 [3.3%]
+Value:    ₹76356.57 -> ₹78878.59 [₹2522.02]
+
+BRITANNIA     Trade summary
+Date:     Fri Aug 03, 2018 -> Wed Aug 08, 2018 [3 days]
+Price:    ₹272.15 -> ₹255.98 [-5.9%]
+Value:    ₹78838.15 -> ₹74155.01 [₹-4683.14]
+
+SUNPHARMA     Trade summary
+Date:     Wed Aug 08, 2018 -> Fri Aug 10, 2018 [2 days]
+Price:    ₹89.57 -> ₹88.46 [-1.2%]
+Value:    ₹74116.93 -> ₹73194.54 [₹-922.39]
+
+BRITANNIA     Trade summary
+Date:     Fri Aug 10, 2018 -> Wed Aug 15, 2018 [3 days]
+Price:    ₹257.03 -> ₹236.21 [-8.1%]
+Value:    ₹73156.95 -> ₹67231.48 [₹-5925.47]
+
+ONGC      Trade summary
+Date:     Thu Jul 26, 2018 -> Fri Aug 17, 2018 [16 days]
+Price:    ₹242.46 -> ₹254.46 [4.9%]
+Value:    ₹91044.46 -> ₹95550.03 [₹4505.57]
+
+HEROMOTOCO     Trade summary
+Date:     Mon Jun 25, 2018 -> Thu Aug 30, 2018 [47 days]
+Price:    ₹142.71 -> ₹129.85 [-9.0%]
+Value:    ₹77474.96 -> ₹70492.82 [₹-6982.14]
+
+BAJFINANCE     Trade summary
+Date:     Wed Aug 22, 2018 -> Wed Sep 05, 2018 [9 days]
+Price:    ₹222.54 -> ₹223.88 [0.6%]
+Value:    ₹95501.26 -> ₹96075.78 [₹574.53]
+
+HINDALCO     Trade summary
+Date:     Mon Jul 16, 2018 -> Wed Sep 05, 2018 [36 days]
+Price:    ₹56.82 -> ₹59.96 [5.5%]
+Value:    ₹123866.2 -> ₹130715.01 [₹6848.81]
+
+EICHERMOT     Trade summary
+Date:     Tue Jul 24, 2018 -> Mon Sep 10, 2018 [33 days]
+Price:    ₹90.68 -> ₹100.16 [10.5%]
+Value:    ₹90646.06 -> ₹100127.69 [₹9481.63]
+
+RELIANCE     Trade summary
+Date:     Mon Sep 10, 2018 -> Wed Sep 12, 2018 [2 days]
+Price:    ₹493.28 -> ₹493.28 [0.0%]
+Value:    ₹100076.62 -> ₹100077.33 [₹0.71]
+
+INDUSINDBK     Trade summary
+Date:     Thu Aug 30, 2018 -> Thu Sep 13, 2018 [9 days]
+Price:    ₹749.05 -> ₹697.97 [-6.8%]
+Value:    ₹70456.58 -> ₹65651.55 [₹-4805.03]
+
+VEDL      Trade summary
+Date:     Thu Sep 13, 2018 -> Mon Sep 17, 2018 [2 days]
+Price:    ₹332.71 -> ₹329.32 [-1.0%]
+Value:    ₹65617.72 -> ₹64949.87 [₹-667.85]
+
+SUNPHARMA     Trade summary
+Date:     Wed Sep 05, 2018 -> Tue Sep 18, 2018 [9 days]
+Price:    ₹86.78 -> ₹85.94 [-1.0%]
+Value:    ₹130648.65 -> ₹129379.0 [₹-1269.66]
+
+VEDL      Trade summary
+Date:     Tue Sep 18, 2018 -> Wed Sep 19, 2018 [1 days]
+Price:    ₹327.1 -> ₹332.79 [1.7%]
+Value:    ₹129313.31 -> ₹131561.35 [₹2248.05]
+
+CIPLA     Trade summary
+Date:     Wed Sep 12, 2018 -> Fri Sep 21, 2018 [7 days]
+Price:    ₹167.1 -> ₹162.72 [-2.6%]
+Value:    ₹100026.29 -> ₹97402.37 [₹-2623.92]
+
+ZEEL      Trade summary
+Date:     Wed Sep 19, 2018 -> Mon Sep 24, 2018 [3 days]
+Price:    ₹423.34 -> ₹419.26 [-1.0%]
+Value:    ₹131494.57 -> ₹130226.79 [₹-1267.78]
+
+MARUTI     Trade summary
+Date:     Wed Aug 15, 2018 -> Tue Sep 25, 2018 [28 days]
+Price:    ₹149.9 -> ₹169.6 [13.1%]
+Value:    ₹67196.86 -> ₹76025.44 [₹8828.58]
+
+SHREECEM     Trade summary
+Date:     Fri Sep 21, 2018 -> Wed Sep 26, 2018 [3 days]
+Price:    ₹396.55 -> ₹365.22 [-7.9%]
+Value:    ₹97352.67 -> ₹89661.6 [₹-7691.07]
+
+DRREDDY     Trade summary
+Date:     Wed Sep 26, 2018 -> Thu Sep 27, 2018 [1 days]
+Price:    ₹695.96 -> ₹691.2 [-0.7%]
+Value:    ₹89615.76 -> ₹89003.12 [₹-612.64]
+
+MM        Trade summary
+Date:     Thu Sep 27, 2018 -> Wed Oct 03, 2018 [4 days]
+Price:    ₹795.8 -> ₹786.3 [-1.2%]
+Value:    ₹88957.62 -> ₹87895.93 [₹-1061.69]
+
+ONGC      Trade summary
+Date:     Mon Sep 24, 2018 -> Wed Oct 03, 2018 [7 days]
+Price:    ₹248.93 -> ₹246.06 [-1.2%]
+Value:    ₹130160.68 -> ₹128657.74 [₹-1502.94]
+
+BAJAJAUTO     Trade summary
+Date:     Wed Oct 03, 2018 -> Thu Oct 04, 2018 [1 days]
+Price:    ₹137.56 -> ₹136.87 [-0.5%]
+Value:    ₹128592.41 -> ₹127948.56 [₹-643.85]
+
+HDFC      Trade summary
+Date:     Thu Oct 04, 2018 -> Mon Oct 08, 2018 [2 days]
+Price:    ₹2703.83 -> ₹2595.01 [-4.0%]
+Value:    ₹127883.58 -> ₹122736.64 [₹-5146.94]
+
+ICICIBANK     Trade summary
+Date:     Wed Sep 05, 2018 -> Mon Oct 08, 2018 [23 days]
+Price:    ₹552.43 -> ₹499.39 [-9.6%]
+Value:    ₹96026.75 -> ₹86807.63 [₹-9219.12]
+
+ITC       Trade summary
+Date:     Mon Sep 17, 2018 -> Tue Oct 09, 2018 [16 days]
+Price:    ₹504.44 -> ₹506.48 [0.4%]
+Value:    ₹64916.39 -> ₹65178.65 [₹262.26]
+
+GRASIM     Trade summary
+Date:     Mon Oct 08, 2018 -> Wed Oct 10, 2018 [2 days]
+Price:    ₹288.58 -> ₹269.12 [-6.7%]
+Value:    ₹86763.22 -> ₹80911.28 [₹-5851.94]
+
+HCLTECH     Trade summary
+Date:     Mon Oct 08, 2018 -> Thu Oct 11, 2018 [3 days]
+Price:    ₹364.46 -> ₹345.17 [-5.3%]
+Value:    ₹122674.28 -> ₹116180.74 [₹-6493.54]
+
+EICHERMOT     Trade summary
+Date:     Tue Sep 25, 2018 -> Fri Oct 19, 2018 [18 days]
+Price:    ₹94.73 -> ₹101.03 [6.7%]
+Value:    ₹75986.43 -> ₹81042.17 [₹5055.74]
+
+TECHM     Trade summary
+Date:     Fri Oct 19, 2018 -> Tue Oct 23, 2018 [2 days]
+Price:    ₹183.14 -> ₹164.4 [-10.2%]
+Value:    ₹81000.65 -> ₹72711.56 [₹-8289.08]
+
+BHARTIARTL     Trade summary
+Date:     Wed Oct 03, 2018 -> Fri Oct 26, 2018 [17 days]
+Price:    ₹906.4 -> ₹754.47 [-16.8%]
+Value:    ₹87850.98 -> ₹73125.23 [₹-14725.75]
+
+BRITANNIA     Trade summary
+Date:     Tue Oct 23, 2018 -> Tue Nov 13, 2018 [15 days]
+Price:    ₹246.65 -> ₹237.19 [-3.8%]
+Value:    ₹72674.21 -> ₹69885.94 [₹-2788.27]
+
+MARUTI     Trade summary
+Date:     Tue Nov 13, 2018 -> Mon Nov 19, 2018 [4 days]
+Price:    ₹137.34 -> ₹142.73 [3.9%]
+Value:    ₹69850.0 -> ₹72592.03 [₹2742.03]
+
+GRASIM     Trade summary
+Date:     Mon Nov 19, 2018 -> Tue Nov 20, 2018 [1 days]
+Price:    ₹252.07 -> ₹253.85 [0.7%]
+Value:    ₹72554.73 -> ₹73068.25 [₹513.52]
+
+ASIANPAINT     Trade summary
+Date:     Tue Oct 09, 2018 -> Wed Nov 28, 2018 [35 days]
+Price:    ₹214.38 -> ₹201.63 [-5.9%]
+Value:    ₹65145.06 -> ₹61271.45 [₹-3873.61]
+
+INFRATEL     Trade summary
+Date:     Wed Oct 10, 2018 -> Wed Nov 28, 2018 [34 days]
+Price:    ₹131.78 -> ₹133.49 [1.3%]
+Value:    ₹80869.82 -> ₹81921.78 [₹1051.96]
+
+ITC       Trade summary
+Date:     Thu Oct 11, 2018 -> Fri Nov 30, 2018 [35 days]
+Price:    ₹480.68 -> ₹497.12 [3.4%]
+Value:    ₹116121.65 -> ₹120093.13 [₹3971.49]
+
+HEROMOTOCO     Trade summary
+Date:     Tue Dec 04, 2018 -> Thu Dec 06, 2018 [1 days]
+Price:    ₹109.22 -> ₹106.01 [-2.9%]
+Value:    ₹87716.41 -> ₹85134.83 [₹-2581.58]
+
+HDFCBANK     Trade summary
+Date:     Tue Dec 04, 2018 -> Fri Dec 07, 2018 [2 days]
+Price:    ₹343.59 -> ₹327.91 [-4.6%]
+Value:    ₹87717.41 -> ₹83713.94 [₹-4003.47]
+
+HINDUNILVR     Trade summary
+Date:     Tue Nov 20, 2018 -> Fri Dec 07, 2018 [11 days]
+Price:    ₹390.77 -> ₹374.98 [-4.0%]
+Value:    ₹73030.71 -> ₹70080.58 [₹-2950.14]
+
+VEDL      Trade summary
+Date:     Fri Dec 07, 2018 -> Tue Dec 11, 2018 [2 days]
+Price:    ₹274.57 -> ₹259.78 [-5.4%]
+Value:    ₹70044.54 -> ₹66272.19 [₹-3772.35]
+
+HINDUNILVR     Trade summary
+Date:     Tue Dec 11, 2018 -> Mon Dec 17, 2018 [4 days]
+Price:    ₹356.98 -> ₹347.98 [-2.5%]
+Value:    ₹66238.05 -> ₹64568.38 [₹-1669.67]
+
+BHARTIARTL     Trade summary
+Date:     Thu Dec 06, 2018 -> Mon Dec 17, 2018 [7 days]
+Price:    ₹810.94 -> ₹757.58 [-6.6%]
+Value:    ₹85091.26 -> ₹79492.71 [₹-5598.56]
+
+RELIANCE     Trade summary
+Date:     Tue Dec 04, 2018 -> Mon Dec 17, 2018 [8 days]
+Price:    ₹482.1 -> ₹449.27 [-6.8%]
+Value:    ₹87717.91 -> ₹81744.34 [₹-5973.56]
+
+UPL       Trade summary
+Date:     Fri Dec 07, 2018 -> Mon Dec 17, 2018 [6 days]
+Price:    ₹368.97 -> ₹351.56 [-4.7%]
+Value:    ₹83671.08 -> ₹79722.08 [₹-3949.0]
+
+WIPRO     Trade summary
+Date:     Fri Oct 26, 2018 -> Mon Dec 17, 2018 [34 days]
+Price:    ₹42.43 -> ₹36.06 [-15.0%]
+Value:    ₹73087.67 -> ₹62113.28 [₹-10974.39]
+
+KOTAKBANK     Trade summary
+Date:     Mon Dec 17, 2018 -> Tue Dec 18, 2018 [1 days]
+Price:    ₹127.96 -> ₹127.35 [-0.5%]
+Value:    ₹62081.22 -> ₹61783.37 [₹-297.86]
+
+ONGC      Trade summary
+Date:     Mon Dec 17, 2018 -> Fri Dec 21, 2018 [4 days]
+Price:    ₹256.43 -> ₹241.41 [-5.9%]
+Value:    ₹81702.47 -> ₹76917.43 [₹-4785.04]
+
+ZEEL      Trade summary
+Date:     Mon Dec 17, 2018 -> Mon Dec 24, 2018 [5 days]
+Price:    ₹432.67 -> ₹407.64 [-5.8%]
+Value:    ₹79451.96 -> ₹74856.31 [₹-4595.65]
+
+POWERGRID     Trade summary
+Date:     Mon Dec 17, 2018 -> Mon Dec 24, 2018 [5 days]
+Price:    ₹371.84 -> ₹358.37 [-3.6%]
+Value:    ₹79681.22 -> ₹76795.61 [₹-2885.61]
+
+AXISBANK     Trade summary
+Date:     Mon Dec 17, 2018 -> Mon Dec 24, 2018 [5 days]
+Price:    ₹265.23 -> ₹240.9 [-9.2%]
+Value:    ₹64535.1 -> ₹58614.62 [₹-5920.48]
+
+DRREDDY     Trade summary
+Date:     Fri Dec 21, 2018 -> Thu Jan 31, 2019 [26 days]
+Price:    ₹751.16 -> ₹807.97 [7.6%]
+Value:    ₹76877.97 -> ₹82692.73 [₹5814.76]
+
+NESTLEIND     Trade summary
+Date:     Tue Dec 18, 2018 -> Wed Feb 20, 2019 [42 days]
+Price:    ₹492.71 -> ₹532.06 [8.0%]
+Value:    ₹61751.48 -> ₹66683.73 [₹4932.26]
+
+SBIN      Trade summary
+Date:     Mon Dec 24, 2018 -> Thu Feb 21, 2019 [39 days]
+Price:    ₹238.08 -> ₹259.04 [8.8%]
+Value:    ₹76756.21 -> ₹83514.0 [₹6757.79]
+
+EICHERMOT     Trade summary
+Date:     Mon Dec 24, 2018 -> Fri Feb 22, 2019 [40 days]
+Price:    ₹94.68 -> ₹106.39 [12.4%]
+Value:    ₹58584.31 -> ₹65831.87 [₹7247.56]
+
+TITAN     Trade summary
+Date:     Wed Feb 20, 2019 -> Thu Mar 07, 2019 [11 days]
+Price:    ₹62.34 -> ₹56.35 [-9.6%]
+Value:    ₹66649.39 -> ₹60244.2 [₹-6405.19]
+
+TATAMOTORS     Trade summary
+Date:     Thu Feb 28, 2019 -> Fri Mar 08, 2019 [6 days]
+Price:    ₹1364.35 -> ₹1374.06 [0.7%]
+Value:    ₹74635.1 -> ₹75166.17 [₹531.07]
+
+GRASIM     Trade summary
+Date:     Mon Mar 04, 2019 -> Wed Mar 20, 2019 [12 days]
+Price:    ₹285.06 -> ₹278.52 [-2.3%]
+Value:    ₹74634.1 -> ₹72921.17 [₹-1712.92]
+
+VEDL      Trade summary
+Date:     Wed Mar 20, 2019 -> Fri Mar 22, 2019 [2 days]
+Price:    ₹284.86 -> ₹258.63 [-9.2%]
+Value:    ₹72883.71 -> ₹66172.01 [₹-6711.7]
+
+NTPC      Trade summary
+Date:     Thu Feb 07, 2019 -> Fri Mar 22, 2019 [30 days]
+Price:    ₹121.11 -> ₹112.16 [-7.4%]
+Value:    ₹82650.39 -> ₹76542.21 [₹-6108.18]
+
+ONGC      Trade summary
+Date:     Fri Mar 08, 2019 -> Tue Mar 26, 2019 [12 days]
+Price:    ₹266.21 -> ₹277.61 [4.3%]
+Value:    ₹75127.59 -> ₹78343.91 [₹3216.32]
+
+AXISBANK     Trade summary
+Date:     Fri Mar 22, 2019 -> Mon Apr 01, 2019 [6 days]
+Price:    ₹280.2 -> ₹298.24 [6.4%]
+Value:    ₹66137.92 -> ₹70396.05 [₹4258.12]
+
+MARUTI     Trade summary
+Date:     Wed Apr 03, 2019 -> Thu Apr 04, 2019 [1 days]
+Price:    ₹141.19 -> ₹139.93 [-0.9%]
+Value:    ₹70359.85 -> ₹69731.67 [₹-628.18]
+
+ASIANPAINT     Trade summary
+Date:     Tue Mar 26, 2019 -> Thu Apr 04, 2019 [7 days]
+Price:    ₹189.37 -> ₹189.82 [0.2%]
+Value:    ₹78303.74 -> ₹78487.89 [₹184.15]
+
+BHARTIARTL     Trade summary
+Date:     Thu Mar 07, 2019 -> Fri Apr 05, 2019 [21 days]
+Price:    ₹807.93 -> ₹856.26 [6.0%]
+Value:    ₹60213.08 -> ₹63814.7 [₹3601.62]
+
+CIPLA     Trade summary
+Date:     Fri Apr 12, 2019 -> Tue Apr 16, 2019 [2 days]
+Price:    ₹132.07 -> ₹134.56 [1.9%]
+Value:    ₹63781.79 -> ₹64986.28 [₹1204.49]
+
+HCLTECH     Trade summary
+Date:     Tue Apr 16, 2019 -> Wed Apr 17, 2019 [1 days]
+Price:    ₹348.79 -> ₹327.11 [-6.2%]
+Value:    ₹64952.79 -> ₹60914.72 [₹-4038.07]
+
+ONGC      Trade summary
+Date:     Wed Apr 17, 2019 -> Thu Apr 18, 2019 [1 days]
+Price:    ₹267.63 -> ₹270.53 [1.1%]
+Value:    ₹60883.26 -> ₹61542.12 [₹658.86]
+
+LT        Trade summary
+Date:     Fri Mar 22, 2019 -> Tue Apr 23, 2019 [21 days]
+Price:    ₹176.19 -> ₹192.13 [9.0%]
+Value:    ₹76502.94 -> ₹83425.12 [₹6922.18]
+
+JSWSTEEL     Trade summary
+Date:     Thu Apr 04, 2019 -> Thu Apr 25, 2019 [14 days]
+Price:    ₹1793.6 -> ₹1945.92 [8.5%]
+Value:    ₹69695.81 -> ₹75614.82 [₹5919.01]
+
+BAJAJAUTO     Trade summary
+Date:     Thu Apr 18, 2019 -> Fri Apr 26, 2019 [5 days]
+Price:    ₹150.06 -> ₹147.18 [-1.9%]
+Value:    ₹61510.35 -> ₹60327.81 [₹-1182.53]
+
+GAIL      Trade summary
+Date:     Mon Dec 24, 2018 -> Tue Apr 30, 2019 [86 days]
+Price:    ₹380.94 -> ₹431.18 [13.2%]
+Value:    ₹74817.88 -> ₹84685.1 [₹9867.22]
+
+SHREECEM     Trade summary
+Date:     Tue Apr 23, 2019 -> Tue May 07, 2019 [10 days]
+Price:    ₹379.16 -> ₹379.44 [0.1%]
+Value:    ₹83382.41 -> ₹83444.1 [₹61.69]
+
+EICHERMOT     Trade summary
+Date:     Thu Apr 04, 2019 -> Wed May 08, 2019 [23 days]
+Price:    ₹103.2 -> ₹107.01 [3.7%]
+Value:    ₹78447.64 -> ₹81342.58 [₹2894.94]
+
+TECHM     Trade summary
+Date:     Tue May 07, 2019 -> Wed May 08, 2019 [1 days]
+Price:    ₹191.83 -> ₹188.86 [-1.5%]
+Value:    ₹83401.38 -> ₹82111.89 [₹-1289.49]
+
+HINDALCO     Trade summary
+Date:     Tue Apr 30, 2019 -> Thu May 09, 2019 [7 days]
+Price:    ₹48.01 -> ₹45.34 [-5.6%]
+Value:    ₹84641.76 -> ₹79927.89 [₹-4713.87]
+
+NTPC      Trade summary
+Date:     Thu May 09, 2019 -> Mon May 13, 2019 [2 days]
+Price:    ₹116.89 -> ₹110.29 [-5.6%]
+Value:    ₹79886.93 -> ₹75377.26 [₹-4509.66]
+
+VEDL      Trade summary
+Date:     Wed May 08, 2019 -> Mon May 13, 2019 [3 days]
+Price:    ₹288.36 -> ₹278.32 [-3.5%]
+Value:    ₹82069.83 -> ₹79211.23 [₹-2858.6]
+
+ULTRACEMO     Trade summary
+Date:     Wed May 08, 2019 -> Mon May 13, 2019 [3 days]
+Price:    ₹622.82 -> ₹594.69 [-4.5%]
+Value:    ₹81300.91 -> ₹77628.75 [₹-3672.16]
+
+DRREDDY     Trade summary
+Date:     Thu Apr 25, 2019 -> Tue May 14, 2019 [13 days]
+Price:    ₹852.04 -> ₹879.7 [3.2%]
+Value:    ₹75576.01 -> ₹78029.84 [₹2453.83]
+
+VEDL      Trade summary
+Date:     Wed May 15, 2019 -> Thu May 23, 2019 [6 days]
+Price:    ₹276.41 -> ₹265.31 [-4.0%]
+Value:    ₹77989.82 -> ₹74858.43 [₹-3131.39]
+
+INFRATEL     Trade summary
+Date:     Fri Apr 26, 2019 -> Thu May 23, 2019 [19 days]
+Price:    ₹181.6 -> ₹158.56 [-12.7%]
+Value:    ₹60296.65 -> ₹52646.46 [₹-7650.19]
+
+BPCL      Trade summary
+Date:     Mon May 13, 2019 -> Fri May 31, 2019 [13 days]
+Price:    ₹139.66 -> ₹134.27 [-3.9%]
+Value:    ₹75338.58 -> ₹72431.09 [₹-2907.49]
+
+MM        Trade summary
+Date:     Mon May 13, 2019 -> Tue Jun 04, 2019 [15 days]
+Price:    ₹814.5 -> ₹862.98 [6.0%]
+Value:    ₹77588.94 -> ₹82207.42 [₹4618.48]
+
+HDFCBANK     Trade summary
+Date:     Mon May 13, 2019 -> Thu Jun 06, 2019 [17 days]
+Price:    ₹391.37 -> ₹418.89 [7.0%]
+Value:    ₹79170.63 -> ₹84738.63 [₹5568.0]
+
+KOTAKBANK     Trade summary
+Date:     Fri May 31, 2019 -> Fri Jun 07, 2019 [5 days]
+Price:    ₹152.24 -> ₹162.46 [6.7%]
+Value:    ₹72393.87 -> ₹77255.72 [₹4861.85]
+
+HEROMOTOCO     Trade summary
+Date:     Mon Jun 24, 2019 -> Mon Jul 01, 2019 [5 days]
+Price:    ₹102.18 -> ₹104.71 [2.5%]
+Value:    ₹80956.18 -> ₹82959.81 [₹2003.63]
+
+TCS       Trade summary
+Date:     Mon Jul 01, 2019 -> Mon Jul 08, 2019 [4 days]
+Price:    ₹222.11 -> ₹225.41 [1.5%]
+Value:    ₹82917.33 -> ₹84148.89 [₹1231.57]
+
+NTPC      Trade summary
+Date:     Mon Jul 08, 2019 -> Wed Jul 17, 2019 [7 days]
+Price:    ₹119.11 -> ₹117.55 [-1.3%]
+Value:    ₹84105.82 -> ₹83004.6 [₹-1101.21]
+
+ONGC      Trade summary
+Date:     Wed Jun 26, 2019 -> Thu Jul 18, 2019 [15 days]
+Price:    ₹257.38 -> ₹267.87 [4.1%]
+Value:    ₹80955.18 -> ₹84255.11 [₹3299.93]
+
+UPL       Trade summary
+Date:     Thu May 23, 2019 -> Fri Jul 19, 2019 [39 days]
+Price:    ₹419.93 -> ₹384.32 [-8.5%]
+Value:    ₹74820.0 -> ₹68475.3 [₹-6344.7]
+
+HDFC      Trade summary
+Date:     Thu May 23, 2019 -> Thu Jul 25, 2019 [43 days]
+Price:    ₹2296.72 -> ₹1604.37 [-30.1%]
+Value:    ₹52619.14 -> ₹36757.05 [₹-15862.09]
+
+SHREECEM     Trade summary
+Date:     Tue Jun 04, 2019 -> Mon Jul 29, 2019 [38 days]
+Price:    ₹352.29 -> ₹352.4 [0.0%]
+Value:    ₹82165.32 -> ₹82191.89 [₹26.58]
+
+HDFC      Trade summary
+Date:     Mon Jul 29, 2019 -> Wed Jul 31, 2019 [2 days]
+Price:    ₹1571.24 -> ₹1668.57 [6.2%]
+Value:    ₹82149.8 -> ₹87238.81 [₹5089.01]
+
+INFY      Trade summary
+Date:     Wed Jul 17, 2019 -> Wed Jul 31, 2019 [10 days]
+Price:    ₹128.23 -> ₹127.39 [-0.7%]
+Value:    ₹82962.1 -> ₹82416.01 [₹-546.09]
+
+IOC       Trade summary
+Date:     Thu Jul 25, 2019 -> Fri Aug 02, 2019 [6 days]
+Price:    ₹707.16 -> ₹646.09 [-8.6%]
+Value:    ₹36737.67 -> ₹33564.86 [₹-3172.81]
+
+GRASIM     Trade summary
+Date:     Wed Jul 31, 2019 -> Mon Aug 05, 2019 [3 days]
+Price:    ₹321.71 -> ₹298.86 [-7.1%]
+Value:    ₹82373.8 -> ₹76522.88 [₹-5850.92]
+
+JSWSTEEL     Trade summary
+Date:     Fri Aug 02, 2019 -> Mon Aug 05, 2019 [1 days]
+Price:    ₹2000.98 -> ₹1917.01 [-4.2%]
+Value:    ₹33547.08 -> ₹32139.29 [₹-1407.78]
+
+HDFCBANK     Trade summary
+Date:     Wed Jul 31, 2019 -> Mon Aug 12, 2019 [8 days]
+Price:    ₹404.25 -> ₹347.58 [-14.0%]
+Value:    ₹87194.19 -> ₹74970.45 [₹-12223.74]
+
+HINDUNILVR     Trade summary
+Date:     Mon Aug 12, 2019 -> Wed Aug 14, 2019 [2 days]
+Price:    ₹350.98 -> ₹328.32 [-6.5%]
+Value:    ₹74931.96 -> ₹70095.12 [₹-4836.84]
+
+VEDL      Trade summary
+Date:     Wed Aug 14, 2019 -> Tue Aug 27, 2019 [9 days]
+Price:    ₹257.61 -> ₹263.24 [2.2%]
+Value:    ₹70059.07 -> ₹71590.54 [₹1531.47]
+
+RELIANCE     Trade summary
+Date:     Mon Aug 05, 2019 -> Thu Sep 05, 2019 [22 days]
+Price:    ₹509.56 -> ₹547.12 [7.4%]
+Value:    ₹32122.22 -> ₹34489.66 [₹2367.43]
+
+ITC       Trade summary
+Date:     Tue Aug 27, 2019 -> Tue Sep 10, 2019 [9 days]
+Price:    ₹322.9 -> ₹332.24 [2.9%]
+Value:    ₹71553.75 -> ₹73623.15 [₹2069.41]
+
+AXISBANK     Trade summary
+Date:     Fri Jul 19, 2019 -> Tue Sep 10, 2019 [36 days]
+Price:    ₹344.96 -> ₹310.26 [-10.1%]
+Value:    ₹68440.06 -> ₹61555.16 [₹-6884.91]
+
+KOTAKBANK     Trade summary
+Date:     Mon Aug 05, 2019 -> Fri Sep 27, 2019 [38 days]
+Price:    ₹167.35 -> ₹162.66 [-2.8%]
+Value:    ₹76483.62 -> ₹74338.54 [₹-2145.08]
+
+MM        Trade summary
+Date:     Thu Jul 18, 2019 -> Wed Oct 02, 2019 [53 days]
+Price:    ₹886.28 -> ₹847.61 [-4.4%]
+Value:    ₹84211.98 -> ₹80537.39 [₹-3674.59]
+
+INFRATEL     Trade summary
+Date:     Fri Sep 27, 2019 -> Tue Oct 08, 2019 [7 days]
+Price:    ₹196.31 -> ₹187.71 [-4.4%]
+Value:    ₹74300.37 -> ₹71046.09 [₹-3254.28]
+
+DRREDDY     Trade summary
+Date:     Tue Sep 10, 2019 -> Fri Oct 18, 2019 [28 days]
+Price:    ₹928.55 -> ₹1005.23 [8.3%]
+Value:    ₹61523.38 -> ₹66603.71 [₹5080.33]
+
+JSWSTEEL     Trade summary
+Date:     Fri Oct 18, 2019 -> Tue Oct 22, 2019 [2 days]
+Price:    ₹1785.72 -> ₹1688.77 [-5.4%]
+Value:    ₹66569.41 -> ₹62955.15 [₹-3614.26]
+
+GRASIM     Trade summary
+Date:     Tue Oct 22, 2019 -> Thu Oct 24, 2019 [2 days]
+Price:    ₹271.16 -> ₹282.02 [4.0%]
+Value:    ₹62922.67 -> ₹65443.82 [₹2521.15]
+
+NESTLEIND     Trade summary
+Date:     Tue Sep 10, 2019 -> Mon Oct 28, 2019 [34 days]
+Price:    ₹715.82 -> ₹634.01 [-11.4%]
+Value:    ₹73585.34 -> ₹65175.59 [₹-8409.75]
+
+BAJFINANCE     Trade summary
+Date:     Mon Oct 28, 2019 -> Tue Oct 29, 2019 [1 days]
+Price:    ₹255.84 -> ₹256.22 [0.1%]
+Value:    ₹65142.0 -> ₹65239.31 [₹97.3]
+
+POWERGRID     Trade summary
+Date:     Mon Sep 09, 2019 -> Tue Oct 29, 2019 [36 days]
+Price:    ₹563.06 -> ₹540.54 [-4.0%]
+Value:    ₹34471.41 -> ₹33092.62 [₹-1378.79]
+
+TATASTEEL     Trade summary
+Date:     Thu Oct 24, 2019 -> Fri Nov 01, 2019 [6 days]
+Price:    ₹232.28 -> ₹245.29 [5.6%]
+Value:    ₹65410.1 -> ₹69074.88 [₹3664.78]
+
+WIPRO     Trade summary
+Date:     Wed Oct 02, 2019 -> Thu Nov 07, 2019 [26 days]
+Price:    ₹23.89 -> ₹30.9 [29.3%]
+Value:    ₹80496.12 -> ₹104107.5 [₹23611.38]
+
+INFY      Trade summary
+Date:     Tue Oct 08, 2019 -> Thu Nov 07, 2019 [22 days]
+Price:    ₹128.1 -> ₹132.43 [3.4%]
+Value:    ₹71009.57 -> ₹73407.51 [₹2397.94]
+
+TATAMOTORS     Trade summary
+Date:     Thu Nov 07, 2019 -> Mon Nov 18, 2019 [7 days]
+Price:    ₹1503.73 -> ₹1505.85 [0.1%]
+Value:    ₹73369.81 -> ₹73473.17 [₹103.37]
+
+ULTRACEMO     Trade summary
+Date:     Mon Nov 18, 2019 -> Thu Nov 21, 2019 [3 days]
+Price:    ₹624.96 -> ₹620.52 [-0.7%]
+Value:    ₹73435.43 -> ₹72913.44 [₹-521.99]
+
+ZEEL      Trade summary
+Date:     Mon Nov 04, 2019 -> Tue Dec 03, 2019 [20 days]
+Price:    ₹541.46 -> ₹517.25 [-4.5%]
+Value:    ₹69039.35 -> ₹65952.35 [₹-3086.99]
+
+GAIL      Trade summary
+Date:     Tue Oct 29, 2019 -> Tue Dec 03, 2019 [24 days]
+Price:    ₹508.0 -> ₹496.07 [-2.3%]
+Value:    ₹65205.69 -> ₹63673.89 [₹-1531.79]
+
+EICHERMOT     Trade summary
+Date:     Thu Nov 07, 2019 -> Thu Dec 05, 2019 [19 days]
+Price:    ₹121.74 -> ₹126.47 [3.9%]
+Value:    ₹104054.45 -> ₹108096.56 [₹4042.11]
+
+ONGC      Trade summary
+Date:     Wed Dec 11, 2019 -> Thu Dec 12, 2019 [1 days]
+Price:    ₹256.4 -> ₹252.04 [-1.7%]
+Value:    ₹108041.51 -> ₹106205.07 [₹-1836.44]
+
+ZEEL      Trade summary
+Date:     Thu Dec 12, 2019 -> Mon Dec 16, 2019 [2 days]
+Price:    ₹505.31 -> ₹501.44 [-0.8%]
+Value:    ₹106150.97 -> ₹105337.47 [₹-813.5]
+
+BAJAJFINSV     Trade summary
+Date:     Tue Oct 29, 2019 -> Tue Dec 17, 2019 [34 days]
+Price:    ₹277.95 -> ₹269.08 [-3.2%]
+Value:    ₹33075.08 -> ₹32019.7 [₹-1055.37]
+
+WIPRO     Trade summary
+Date:     Tue Dec 17, 2019 -> Thu Dec 19, 2019 [2 days]
+Price:    ₹27.24 -> ₹27.63 [1.4%]
+Value:    ₹32002.69 -> ₹32456.57 [₹453.88]
+
+TITAN     Trade summary
+Date:     Mon Dec 16, 2019 -> Fri Dec 20, 2019 [4 days]
+Price:    ₹72.02 -> ₹77.41 [7.5%]
+Value:    ₹105283.8 -> ₹113169.58 [₹7885.77]
+
+BHARTIARTL     Trade summary
+Date:     Thu Nov 21, 2019 -> Tue Dec 31, 2019 [26 days]
+Price:    ₹1071.95 -> ₹1085.57 [1.3%]
+Value:    ₹72875.99 -> ₹73802.23 [₹926.24]
+
+TCS       Trade summary
+Date:     Tue Dec 03, 2019 -> Tue Dec 31, 2019 [19 days]
+Price:    ₹267.6 -> ₹275.45 [2.9%]
+Value:    ₹65918.38 -> ₹67851.14 [₹1932.76]
+
+CIPLA     Trade summary
+Date:     Tue Dec 03, 2019 -> Tue Dec 31, 2019 [19 days]
+Price:    ₹154.64 -> ₹158.99 [2.8%]
+Value:    ₹63641.06 -> ₹65432.42 [₹1791.36]
+
+BPCL      Trade summary
+Date:     Thu Dec 19, 2019 -> Tue Dec 31, 2019 [7 days]
+Price:    ₹165.14 -> ₹163.7 [-0.9%]
+Value:    ₹32439.35 -> ₹32155.99 [₹-283.36]
+
