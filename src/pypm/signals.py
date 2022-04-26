@@ -1,5 +1,4 @@
 import pandas as pd
-import numpy as np
 from pypm.indicators import calculate_bollinger_bands
 
 

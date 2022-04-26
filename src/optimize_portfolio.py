@@ -37,8 +37,8 @@ if __name__ == '__main__':
 
     optimizer = GridSearchOptimizer(simulate)
     optimizer.optimize(
-        bollinger_n=range(10, 20, 5),
-        sharpe_n=range(10, 20, 5),
+        bollinger_n=range(10, 150, 5),
+        sharpe_n=range(10, 150, 5),
     )
 
     print(optimizer.get_best('excess_cagr'))

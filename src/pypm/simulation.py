@@ -1,7 +1,8 @@
+from pypm import data_io
+from pypm.portfolio import PortfolioHistory, Position, Symbol
+
 from typing import Tuple, List, Dict, Callable, Iterable
 import pandas as pd
-from pypm import metrics, signals, data_io
-from pypm.portfolio import PortfolioHistory, Position, Symbol, rupees
 from collections import OrderedDict
 
 class SimpleSimulator(object):
