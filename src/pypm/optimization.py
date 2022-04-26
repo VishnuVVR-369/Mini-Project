@@ -1,15 +1,15 @@
-from pypm import metrics, signals, data_io, simulation
+from pypm import simulation
 
 import pandas as pd
 import numpy as np
-from collections import defaultdict, OrderedDict
+from collections import OrderedDict
 from itertools import product
 from timeit import default_timer
 from typing import Dict, Tuple, List, Callable, Iterable, Any, NewType, Mapping
 
 import matplotlib.pyplot as plt
 from matplotlib import cm 
-from mpl_toolkits.mplot3d import Axes3D 
+from mpl_toolkits.mplot3d import Axes3D
 
 # Performance data and parameter inputs are dictionaries
 Parameters = NewType('Parameters', Dict[str, float])

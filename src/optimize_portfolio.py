@@ -1,6 +1,6 @@
 import pandas as pd
 
-from pypm import metrics, signals, data_io, simulation, optimization
+from pypm import metrics, signals, data_io, simulation
 from pypm.optimization import GridSearchOptimizer
 
 from typing import List, Callable
@@ -37,8 +37,8 @@ if __name__ == '__main__':
 
     optimizer = GridSearchOptimizer(simulate)
     optimizer.optimize(
-        bollinger_n=range(10, 150, 5),
-        sharpe_n=range(10, 150, 5),
+        bollinger_n=range(10, 260, 5),
+        sharpe_n=range(10, 260, 5),
     )
 
     print(optimizer.get_best('excess_cagr'))

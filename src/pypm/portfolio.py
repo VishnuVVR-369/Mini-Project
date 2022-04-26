@@ -387,12 +387,12 @@ class PortfolioHistory(object):
             f'CAGR: {100 * self.cagr:.2f}%\n' \
             f'NIFTY 50 CAGR: {100 * self.nifty_cagr:.2f}%\n' \
             f'Excess CAGR: {100 * self.excess_cagr:.2f}%\n\n' \
-            f'Annualized Volatility: {100 * self.volatility:.2f}%\n' \
-            f'Sharpe Ratio: {self.sharpe_ratio:.2f}\n' \
-            f'Jensen\'s Alpha: {self.jensens_alpha:.6f}\n\n' \
-            f'rupee Max Drawdown: ₹{self.rupee_max_drawdown:.2f}\n' \
-            f'Percent Max Drawdown: {100 * self.percent_max_drawdown:.2f}%\n' \
-            f'Log Max Drawdown Ratio: {self.log_max_drawdown_ratio:.2f}\n'
+            # f'Annualized Volatility: {100 * self.volatility:.2f}%\n' \
+            # f'Sharpe Ratio: {self.sharpe_ratio:.2f}\n' \
+            # f'Jensen\'s Alpha: {self.jensens_alpha:.6f}\n\n' \
+            # f'Rupee Max Drawdown: ₹{self.rupee_max_drawdown:.2f}\n' \
+            # f'Percent Max Drawdown: {100 * self.percent_max_drawdown:.2f}%\n' \
+            # f'Log Max Drawdown Ratio: {self.log_max_drawdown_ratio:.2f}\n'
 
         print(s)
 
