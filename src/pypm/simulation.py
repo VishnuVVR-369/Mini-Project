@@ -6,22 +6,16 @@ import pandas as pd
 from collections import OrderedDict
 
 class SimpleSimulator(object):
-    """
-    A simple trading simulator to work with the PortfolioHistory class
-    """
 
-    def __init__(self, initial_cash: float=10000, max_active_positions: int=5, percent_slippage: float=0.0005, trade_fee: float=1):
+    def __init__(self, initial_cash: float=100000, max_active_positions: int=5, percent_slippage: float=0.0005, trade_fee: float=1):
         # Set simulation parameters
 
-        # Initial cash in porfolio
-        # self.cash will fluctuate
         self.initial_cash = self.cash = initial_cash
 
         # Maximum number of different assets that can be help simultaneously
         self.max_active_positions: int = max_active_positions
 
         # The percentage difference between closing price and fill price for the
-        # position, to simulate adverse effects of market orders
         self.percent_slippage = percent_slippage
 
         # The fixed fee in order to open a position in rupee terms
@@ -53,11 +47,6 @@ class SimpleSimulator(object):
 
     @staticmethod
     def make_tuple_lookup(columns) -> Callable[[str, str], int]:
-        """
-        Map a multi-index dataframe to an itertuples-like object.
-        The index of the dateframe is always the zero-th element.
-        """
-        # col is a hierarchical column index represented by a tuple of strings
         tuple_lookup: Dict[Tuple[str, str], int] = { 
             col: i + 1 for i, col in enumerate(columns) 
         }
@@ -65,9 +54,6 @@ class SimpleSimulator(object):
 
     @staticmethod
     def make_all_valid_lookup(_idx: Callable):
-        """
-        Return a function that checks for valid data, given a lookup function
-        """
         return lambda row, symbol: (
             not pd.isna(row[_idx(symbol, 'pref')]) and \
             not pd.isna(row[_idx(symbol, 'signal')]) and \
@@ -75,36 +61,22 @@ class SimpleSimulator(object):
         )
 
     def buy_to_open(self, symbol, date, price):
-        """
-        Keep track of new position, make sure it isn't an existing position. 
-        Verify you have cash.
-        """
-        # Figure out how much we are willing to spend
         cash_available = self.cash - self.trade_fee
         cash_to_spend = cash_available / self.free_position_slots
         
-        # Calculate buy_price and number of shares. Fractional shares allowed.
         purchase_price = (1 + self.percent_slippage) * price
         shares = cash_to_spend / purchase_price
 
-        # Spend the cash
         self.cash -= cash_to_spend + self.trade_fee
         assert self.cash >= 0, 'Spent cash you do not have.'
         self.portfolio_history.record_cash(date, self.cash)   
 
-        # Record the position
         positions_by_symbol = self.active_positions_by_symbol
         assert not symbol in positions_by_symbol, 'Symbol already in portfolio.'        
         position = Position(symbol, date, purchase_price, shares)
         positions_by_symbol[symbol] = position
 
     def sell_to_close(self, symbol, date, price):
-        """
-        Keep track of exit price, recover cash, close position, and record it in
-        portfolio history.
-
-        Will raise a KeyError if symbol isn't an active position
-        """
 
         # Exit the position
         positions_by_symbol = self.active_positions_by_symbol
@@ -128,13 +100,7 @@ class SimpleSimulator(object):
                 'Found unequal column names in input dataframes.'
 
     def simulate(self, price: pd.DataFrame, signal: pd.DataFrame, preference: pd.DataFrame):
-        """
-        Runs the simulation.
-        price, signal, and preference are dataframes with the column names 
-        represented by the same set of stock symbols.
-        """
 
-        # Create a hierarchical dataframe to loop through
         self._assert_equal_columns(price, signal, preference)
         df = data_io.concatenate_metrics({
             'price': price,
@@ -142,38 +108,26 @@ class SimpleSimulator(object):
             'pref': preference,
         })
 
-        # Get list of symbols
         all_symbols = list(set(price.columns.values))
 
-        # Get lookup functions
         _idx = self.make_tuple_lookup(df.columns)
         _all_valid = self.make_all_valid_lookup(_idx)
 
-        # Store some variables
         active_positions_by_symbol = self.active_positions_by_symbol
         max_active_positions = self.max_active_positions
 
-        # Iterating over all dates.
-        # itertuples() is significantly faster than iterrows(), it however comes
-        # at the cost of not being able index easily. In order to get around this
-        # we use an tuple lookup function: "_idx"
         for row in df.itertuples():
 
-            # date index is always first element of tuple row
             date = row[0]
 
-            # Get symbols with valid and tradable data
             symbols: List[str] = [s for s in all_symbols if _all_valid(row, s)]
 
-            # Iterate over active positions and sell stocks with a sell signal.
             _active = self.active_symbols
             to_exit = [s for s in _active if row[_idx(s, 'signal')] == -1]
             for s in to_exit:
                 sell_price = row[_idx(s, 'price')]
                 self.sell_to_close(s, date, sell_price)
 
-            # Get up to max_active_positions symbols with a buy signal in 
-            # decreasing order of preference
             to_buy = [
                 s for s in symbols if \
                     row[_idx(s, 'signal')] == 1 and \
@@ -186,26 +140,21 @@ class SimpleSimulator(object):
                 buy_price = row[_idx(s, 'price')]
                 buy_preference = row[_idx(s, 'pref')]
 
-                # If we have some empty slots, just buy the asset outright
                 if self.active_positions_count < max_active_positions:
                     self.buy_to_open(s, date, buy_price)
                     continue
 
-                # If are holding max_active_positions, evaluate a swap based on
-                # preference
                 _active = self.active_symbols
                 active_prefs = [(s, row[_idx(s, 'pref')]) for s in _active]
 
                 _min = min(active_prefs, key=lambda k: k[1])
                 min_active_symbol, min_active_preference = _min
 
-                # If a more preferable symbol exists, then sell an old one
                 if min_active_preference < buy_preference:
                     sell_price = row[_idx(min_active_symbol, 'price')]
                     self.sell_to_close(min_active_symbol, date, sell_price)
                     self.buy_to_open(s, date, buy_price)
 
-            # Update price data everywhere
             for s in self.active_symbols:
                 price = row[_idx(s, 'price')]
                 position = active_positions_by_symbol[s]
@@ -213,7 +162,6 @@ class SimpleSimulator(object):
 
             self.portfolio_history.record_cash(date, self.cash)
 
-        # Sell all positions and mark simulation as complete
         for s in self.active_symbols:
             self.sell_to_close(s, date, row[_idx(s, 'price')])
         self.portfolio_history.finish()

@@ -58,12 +58,6 @@ def concatenate_metrics(df_by_metric: Dict[str, pd.DataFrame]) -> pd.DataFrame:
     """
     Concatenates different dataframes that have the same columns into a
     hierarchical dataframe.
-    The input df_by_metric should be of the form
-    {
-        'metric_1': pd.DataFrame()
-        'metric_2: pd.DataFrame()
-    }
-    where each dataframe should have the same symbols.
     """
     to_concatenate = []
     tuples = []

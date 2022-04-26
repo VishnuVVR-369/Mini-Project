@@ -12,3 +12,7 @@ def create_bollinger_band_signal(series: pd.Series, n: int=20) -> pd.Series:
     sell = series > bollinger_bands['upper']
     buy = series < bollinger_bands['lower']
     return (1*buy - 1*sell)
+
+
+""" Check if functions execute successfully """
+# create_bollinger_band_signal

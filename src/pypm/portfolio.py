@@ -19,19 +19,9 @@ def _pdate(date: pd.Timestamp):
 
 
 class Position(object):
-    """
-    A simple object to hold and manipulate data related to long stock trades.
-    Allows a single buy and sell operation on an asset for a constant number of 
-    shares.
-    The __init__ method is equivalent to a buy operation. The exit
-    method is a sell operation.
-    """
-    def __init__(self, symbol: Symbol, entry_date: pd.Timestamp, entry_price: rupees, shares: int):
-        """
-        Equivalent to buying a certain number of shares of the asset
-        """
 
-        # Recorded on initialization
+    def __init__(self, symbol: Symbol, entry_date: pd.Timestamp, entry_price: rupees, shares: int):
+
         self.entry_date = entry_date
 
         assert entry_price > 0, 'Cannot buy asset with zero or negative price.'
@@ -42,27 +32,20 @@ class Position(object):
 
         self.symbol = symbol
 
-        # Recorded on position exit
         self.exit_date: pd.Timestamp = None
         self.exit_price: rupees = None
 
-        # For easily getting current portfolio value
         self.last_date: pd.Timestamp = None
         self.last_price: rupees = None
 
-        # Updated intermediately
         self._dict_series: Dict[pd.Timestamp, rupees] = OrderedDict()
         self.record_price_update(entry_date, entry_price)
 
-        # Cache control for pd.Series representation
         self._price_series: pd.Series = None
         self._needs_update_pd_series: bool = True
 
 
     def exit(self, exit_date, exit_price):
-        """
-        Equivalent to selling a stock holding
-        """
         assert self.entry_date != exit_date, 'Churned a position same-day.'
         assert not self.exit_date, 'Position already closed.'
         self.record_price_update(exit_date, exit_price)
@@ -70,21 +53,14 @@ class Position(object):
         self.exit_price = exit_price
 
     def record_price_update(self, date, price):
-        """
-        Stateless function to record intermediate prices of existing positions
-        """
         self.last_date = date
         self.last_price = price
         self._dict_series[date] = price
 
-        # Invalidate cache on self.price_series
         self._needs_update_pd_series = True
 
     @property
     def price_series(self) -> pd.Series:
-        """
-        Returns cached readonly pd.Series 
-        """
         if self._needs_update_pd_series or self._price_series is None:
             self._price_series = pd.Series(self._dict_series)
             self._needs_update_pd_series = False
@@ -104,16 +80,11 @@ class Position(object):
 
     @property
     def value_series(self) -> pd.Series:
-        """
-        Returns the value of the position over time. Ignores self.exit_date.
-        Used in calculating the equity curve.
-        """
         assert self.is_closed, 'Position must be closed to access this property'
         return self.shares * self.price_series[:-1]
 
     @property
     def percent_return(self) -> float:
-        # print("Using percent_return from class Position in portfolio.py")
         return (self.exit_price / self.entry_price) - 1
 
     @property
@@ -158,29 +129,17 @@ class Position(object):
         # print()
 
     def __hash__(self):
-        """
-        A unique position will be defined by a unique combination of an 
-        entry_date and symbol, in accordance with our constraints regarding 
-        duplicate, variable, and compound positions
-        """
         return hash((self.entry_date, self.symbol))
 
     
 class PortfolioHistory(object):
-    """
-    Holds Position objects and keeps track of portfolio variables.
-    Produces summary statistics.
-    """
 
     def __init__(self):
-        # Keep track of positions, recorded in this list after close
         self.position_history: List[Position] = []
         self._logged_positions: Set[Position] = set()
 
-        # Keep track of the last seen date
         self.last_date: pd.Timestamp = pd.Timestamp.min
 
-        # Readonly fields
         self._cash_history: Dict[pd.Timestamp, rupees] = dict()
         self._simulation_finished = False
         self._nifty: pd.DataFrame = pd.DataFrame()
@@ -213,12 +172,10 @@ class PortfolioHistory(object):
         value_by_date = defaultdict(float)
         last_date = self.last_date
 
-        # Add up value of assets
         for position in self.position_history:
             for date, value in position.value_series.items():
                 value_by_date[date] += value
 
-        # Make sure all dates in cash_series are present
         for date in self.cash_series.index:
             value_by_date[date] += 0
 
@@ -252,9 +209,6 @@ class PortfolioHistory(object):
             'to access this method or property.'
 
     def finish(self):
-        """
-        Notate that the simulation is finished and compute readonly values
-        """
         self._simulation_finished = True
         self._compute_cash_series()
         self._compute_portfolio_value_series()
@@ -397,9 +351,7 @@ class PortfolioHistory(object):
         print(s)
 
     def plot(self, show=True) -> plt.Figure:
-        """
-        Plots equity, cash and portfolio value curves.
-        """
+        """ Plots equity, cash and portfolio value curves """
         self._assert_finished()
 
         figure, axes = plt.subplots(nrows=3, ncols=1)
@@ -422,9 +374,6 @@ class PortfolioHistory(object):
         return figure
 
     def plot_benchmark_comparison(self, show=True) -> plt.Figure:
-        """
-        Plot comparable investment in the NIFTY 50.
-        """
         self._assert_finished()
 
         equity_curve = self.equity_series

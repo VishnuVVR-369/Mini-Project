@@ -11,21 +11,16 @@ import matplotlib.pyplot as plt
 from matplotlib import cm 
 from mpl_toolkits.mplot3d import Axes3D
 
-# Performance data and parameter inputs are dictionaries
 Parameters = NewType('Parameters', Dict[str, float])
 Performance = simulation.PortfolioHistory.PerformancePayload # Dict[str, float]
 
-# Simulation function must take parameters as keyword arguments pointing to 
-# iterables and return a performance metric dictionary
 SimKwargs = NewType('Kwargs', Mapping[str, Iterable[Any]])
 SimFunction = NewType('SimFunction', Callable[[SimKwargs], Performance])
 
 class OptimizationResult(object):
-    """Simple container class for optimization data"""
+    """ Simple container class for optimization data """
 
     def __init__(self, parameters: Parameters, performance: Performance):
-
-        # Make sure no collisions between performance metrics and params
         assert len(parameters.keys() & performance.keys()) == 0, \
             'parameter name matches performance metric name'
 
@@ -34,16 +29,11 @@ class OptimizationResult(object):
 
     @property
     def as_dict(self) -> Dict[str, float]:
-        """Combines the dictionaries after we are sure of no collisions"""
+        """ Combines the dictionaries after we are sure of no collisions """
         return {**self.parameters, **self.performance}
     
 
 class GridSearchOptimizer(object):
-    """
-    A generic grid search optimizer that requires only a simulation function and
-    a series of parameter ranges. Provides timing, summary, and plotting 
-    utilities with return data.
-    """
 
     def __init__(self, simulation_function: SimFunction):
 
@@ -61,11 +51,9 @@ class GridSearchOptimizer(object):
 
         assert optimization_ranges, 'Must provide non-empty parameters.'
 
-        # Convert all iterables to lists
         param_ranges = {k: list(v) for k, v in optimization_ranges.items()}
         self.param_names = param_names = list(param_ranges.keys())
 
-        # Count total simulation
         n = total_simulations = np.prod([len(r) for r in param_ranges.values()])
 
         total_time_elapsed = 0
@@ -122,9 +110,7 @@ class GridSearchOptimizer(object):
         print(df[metric_names].describe().T)
 
     def get_best(self, metric_name: str) -> pd.DataFrame:
-        """
-        Sort the results by a specific performance metric
-        """
+        """ Sort the results by a specific performance metric """
         self._assert_finished()
 
         results = self.results
@@ -155,9 +141,7 @@ class GridSearchOptimizer(object):
             plt.show()
 
     def plot_2d_violin(self, x, y, show=True):
-        """
-        Group y along x then plot violin charts
-        """
+        """ Group y along x then plot violin charts """
         x_values = self.results[x].unique()
         x_values.sort()
 
@@ -176,9 +160,7 @@ class GridSearchOptimizer(object):
             plt.show()
 
     def plot_3d_mesh(self, x, y, z, show=True, **filter_kwargs):
-        """
-        Plot interactive 3d mesh. z axis should typically be performance metric
-        """
+        """ Plot interactive 3d mesh. z axis should typically be performance metric """
         _results = self.results
         fig = plt.figure()
         ax = Axes3D(fig)
@@ -194,8 +176,7 @@ class GridSearchOptimizer(object):
         if show:
             plt.show()
 
-    def plot(self, *attrs: Tuple[str], show=True, 
-        **filter_kwargs: Dict[str, Any]):
+    def plot(self, *attrs: Tuple[str], show=True, **filter_kwargs: Dict[str, Any]):
         """
         Attempt to intelligently dispatch plotting functions based on the number
         and type of attributes. Last argument should typically be the 
