@@ -24,6 +24,11 @@ def load_nifty_data() -> DataFrame:
     return load_eod_data('NIFTY 50', DATA_DIR)
 
 
+def get_all_symbols() -> List[str]:
+    """ Get symbols of stocks """
+    return [v.strip('.csv') for v in os.listdir(EOD_DATA_DIR)]
+
+
 def _combine_columns(filepaths_by_symbol: Dict[str, str], attr: str='close') -> pd.DataFrame:
     data_frames = [
         pd.read_csv(
@@ -46,12 +51,6 @@ def load_eod_matrix(tickers: List[str], attr: str='close') -> pd.DataFrame:
         t: os.path.join(EOD_DATA_DIR, f'{t}.csv') for t in tickers
     }
     return _combine_columns(filepaths_by_symbol, attr)
-
-
-def get_all_symbols() -> List[str]:
-    """ Get symbols of stocks """
-    return [v.strip('.csv') for v in os.listdir(EOD_DATA_DIR)]
-
 
 
 def concatenate_metrics(df_by_metric: Dict[str, pd.DataFrame]) -> pd.DataFrame:

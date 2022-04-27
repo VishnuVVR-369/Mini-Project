@@ -12,10 +12,10 @@ class SimpleSimulator(object):
 
         self.initial_cash = self.cash = initial_cash
 
-        # Maximum number of different assets that can be help simultaneously
+        # Maximum number of different assets that can be held simultaneously
         self.max_active_positions: int = max_active_positions
 
-        # The percentage difference between closing price and fill price for the
+        # The percentage difference between closing price and fill price for the order placed
         self.percent_slippage = percent_slippage
 
         # The fixed fee in order to open a position in rupee terms

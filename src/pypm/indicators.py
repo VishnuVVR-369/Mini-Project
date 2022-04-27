@@ -14,7 +14,7 @@ def calculate_bollinger_bands(series: pd.Series, n: int=20) -> pd.DataFrame:
     """ Calculates the Bollinger Bands """
     sma = calculate_simple_moving_average(series, n)
     stdev = calculate_simple_moving_sample_stdev(series, n)
-    """ Returns the bands as a dataframe """
+    """ Returns the bands as a dataframe object """
     return pd.DataFrame({
         'middle': sma,
         'upper': sma + 2 * stdev,

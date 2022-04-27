@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 from sklearn.linear_model import LinearRegression
-from typing import Dict, Any, Callable
+from typing import Dict, Callable
 
 def calculate_return_series(series: pd.Series) -> pd.Series:
     """ Calculates the return series of a given time series """
@@ -59,7 +59,7 @@ def calculate_rolling_sharpe_ratio(price_series: pd.Series, n: float=20) -> pd.S
 
 
 def calculate_jensens_alpha(return_series: pd.Series, benchmark_return_series: pd.Series) -> float:
-    """ Calculates Jensen's alpha. Prefers input series have the same index """
+    """ Calculates Jensen's alpha """
 
     df = pd.concat([return_series, benchmark_return_series], sort=True, axis=1)
     df = df.dropna()

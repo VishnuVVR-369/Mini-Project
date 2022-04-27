@@ -15,6 +15,7 @@ def simulate_portfolio():
     _bollinger = signals.create_bollinger_band_signal
     signal = prices.apply(_bollinger, args=(bollinger_n,), axis=0)
 
+    """ Use the sharpe_ratio as preference during collision """
     _sharpe = metrics.calculate_rolling_sharpe_ratio
     preference = prices.apply(_sharpe, args=(sharpe_n, ), axis=0)
 
@@ -31,7 +32,6 @@ def simulate_portfolio():
     simulator.portfolio_history.print_position_summaries()
     simulator.print_initial_parameters()
     simulator.portfolio_history.print_summary()
-    # simulator.portfolio_history.plot()
     simulator.portfolio_history.plot_benchmark_comparison()
 
 if __name__ == '__main__':
